@@ -1,6 +1,8 @@
 # L'usage de l'IA en doctorat dans les universités françaises : synthèse des dispositions (2023 à 2026)
 
-État au 11 novembre 2026. Synthèse établie à partir du recensement de ce dossier (`recensement.csv`, 143 documents) et de la lecture des textes téléchargés dans `documents/`. Chaque affirmation renvoie à sa source ; les identifiants (U008, U033…) correspondent aux lignes du tableau.
+État au 11 novembre 2026. Dépôt de référence (recensement, documents et synthèse) : https://github.com/tarikhennen/doctorIA-article
+
+Synthèse établie à partir du recensement de ce dossier (`recensement.csv`, 143 documents) et de la lecture des textes téléchargés dans `documents/`. Chaque affirmation renvoie à sa source ; les identifiants (U008, U033…) correspondent aux lignes du tableau.
 
 ## En bref
 
@@ -158,6 +160,8 @@ Lecture : déclaration, limite à la rédaction et responsabilité sont présent
 - **Couverture :** l'absence d'un établissement ne prouve pas l'absence de texte. 21 documents n'ont pas pu être téléchargés, et certaines écoles doctorales publient leurs règles sur des intranets non accessibles.
 
 ## Sources principales
+
+Le recensement complet (143 documents), les copies des documents et cette synthèse sont publiés sur https://github.com/tarikhennen/doctorIA-article (dossier `chartes-ia-universites/`).
 
 **Textes propres au doctorat**
 - PSL, Charte du doctorat, juin 2026, section 2.7 : https://static.psl.eu/sites/default/files/2026-07/ndeg_20-2026.pdf

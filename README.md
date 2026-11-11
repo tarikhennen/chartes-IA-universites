@@ -6,6 +6,7 @@ Recensement des textes publiés depuis janvier 2023 par les universités frança
 
 | Fichier | Rôle |
 |---|---|
+| `SYNTHESE-DOCTORAT.md` | Synthèse des dispositions sur l'IA en doctorat, statistiques, tendances et sources |
 | `TABLEAU.md` | Tableau lisible : d'abord les documents liés au doctorat, puis l'ensemble |
 | `recensement.xlsx` | Tableau complet avec filtres, onglets Doctorat, Universités, Cadres nationaux, Sources de recensement, Légende |
 | `recensement.csv` | Même contenu au format CSV (UTF-8) |
@@ -27,16 +28,16 @@ Les chiffres à jour sont en tête de `TABLEAU.md` (régénéré à chaque tél�
 
 ## Ce qu'il faut retenir sur le doctorat
 
-- Aucun texte national dédié à l'IA en doctorat n'a été trouvé. Le texte national le plus proche est la fiche de l'Ofis « Systèmes d'intelligence artificielle générative : quelques points de vigilance » (février 2024).
+- Aucun texte national dédié à l'IA en doctorat n'a été trouvé. Le texte national le plus proche est la fiche de l'Ofis [« Systèmes d'intelligence artificielle générative : quelques points de vigilance »](documents/N006_ofis-hceres.pdf) (février 2024).
 - Les règles doctorales viennent des écoles doctorales et des chartes du doctorat. Les textes suivants ont été lus et vérifiés :
-  - la charte du doctorat PSL (juin 2026, section 2.7, dont certaines dispositions sont obligatoires) ;
-  - la charte du doctorat de l'EHESS, ED 286 (section 2.1.2 L'intelligence artificielle) ;
-  - la charte du doctorat de l'ED de droit de la Sorbonne (Paris 1, juillet 2024, section « Pour un bon usage de l'IA ») ;
-  - le règlement intérieur de l'ED 642 VAAME (Pays de la Loire, décembre 2025) ;
-  - les supports « Faire un doctorat à l'ère des LLM » de l'Université Paris-Saclay (septembre 2026) ;
-  - le compte rendu du Collège des écoles doctorales normandes du 19 mai 2025 (encadrement de l'IA générative en doctorat).
-- Hors université publique, le guide doctoral de l'Institut catholique de Paris (2025) pose que l'écrit de thèse ne doit pas être produit par une IA.
-- Plusieurs chartes d'établissement couvrent la recherche sans viser les doctorants en tant que tels : Toulouse, Clermont Auvergne, La Réunion, Le Mans, Rouen, Orléans, Paris 8.
+  - la [charte du doctorat PSL](documents/U033_universite-psl.pdf) (juin 2026, section 2.7, dont certaines dispositions sont obligatoires) ;
+  - la [charte du doctorat de l'EHESS, ED 286](documents/U040_ehess.pdf) (section 2.1.2 L'intelligence artificielle) ;
+  - la [charte du doctorat de l'ED de droit de la Sorbonne](documents/U008_universite-paris-1-pantheon-sorbonne.pdf) (Paris 1, juillet 2024, section « Pour un bon usage de l'IA ») ;
+  - le [règlement intérieur de l'ED 642 VAAME](documents/U066_etablissements-doctoraux-des-pays-de-la-.pdf) (Pays de la Loire, décembre 2025) ;
+  - les supports [« Faire un doctorat à l'ère des LLM »](documents/U029_universite-paris-saclay.pdf) et [« Preparing a PhD in the age of LLMs »](documents/U030_universite-paris-saclay.pdf) de l'Université Paris-Saclay (septembre 2026) ;
+  - le [compte rendu du Collège des écoles doctorales normandes du 19 mai 2025](documents/U120_normandie-universite.pdf) (encadrement de l'IA générative en doctorat).
+- Hors université publique, le [guide doctoral de l'Institut catholique de Paris](documents/A001_institut-catholique-de-paris.pdf) (2025) pose que l'écrit de thèse ne doit pas être produit par une IA.
+- Plusieurs chartes d'établissement couvrent la recherche sans viser les doctorants en tant que tels : [Toulouse](documents/U070_universite-de-toulouse.pdf), [Clermont Auvergne](documents/U080_universite-clermont-auvergne.pdf), [La Réunion](documents/U088_universite-de-la-reunion.pdf), [Le Mans](https://www.univ-lemans.fr/_resource/06-Universit%C3%A9/Organisation-fonctionnement/Instances/Conseil%20administration/CA-2025/CA-2025-09-25/1.4.3%20%E2%80%93%20Charte%20sur%20l'utilisation%20de%20l'Intelligence%20Artificielle%20au%20sein%20de%20Le%20Mans%20Universit%C3%A9.pdf?download=true), [Rouen](https://www.univ-rouen.fr/actualites/lurn-se-dote-dune-charte-dusage-de-lia-generative/), [Orléans](documents/U065_universite-d-orleans.pdf), [Paris 8](documents/U018_universite-paris-8.pdf).
 
 ## Méthode et limites
 

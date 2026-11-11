@@ -1,0 +1,99 @@
+           Charte des usages de l’Intelligence artificielle
+             au sein de l’École Droit de la Sorbonne
+
+
+L’intelligence artificielle, et notamment l’intelligence artificielle générative*, produit des
+contenus (IAG), est désormais très répandue à la fois dans les pratiques des élèves
+au lycée et des étudiants à l’Université.
+Elle se diffuse également à grande vitesse dans l’exercice de certaines professions
+juridiques et, plus généralement, au sein de la société.
+Elle fait l’objet de réflexions et de recherches importantes (l’École de droit se place en
+pointe dans celles-ci : elle en mène de nombreuses, notamment dans le cadre du
+Département de recherche en droit de l’immatériel de l’Institut de recherche juridique
+de la Sorbonne et de l’Observatoire de l’Intelligence artificielle).
+
+C’est pourquoi l’École de droit de la Sorbonne a adopté la présente charte qui vise à
+encadrer le recours à cet outil de façon à ce que, s’il est utilisé, il le soit d’une manière
+éthique, responsable et conforme aux exigences et valeurs de la vie universitaire, à
+savoir :
+   - L’amour du savoir,
+   - Le goût de l’effort,
+   - La curiosité,
+   - L’honnêteté intellectuelle,
+   - Le respect d’autrui et de son travail
+   - La protection de l’environnement.
+
+La Charte vise également à alerter sur les risques d’erreurs et de discriminations que
+les usages des IAG véhiculent : comme celles-ci doivent répondre dans tous les cas
+aux requêtes, leur fonctionnement peut conduire à des erreurs, des biais, des
+hallucinations* ainsi que des discriminations, contre lesquels la communauté
+universitaire doit apprendre à se prémunir.
+
+Art. 1 : Principe de nécessité
+
+Les usages de l’IAG étant très consommateurs d’électricité, d’eau ainsi que de
+ressources rares, et son déploiement impliquant également une forte artificialisation
+des sols (le tout, entre autres, pour l’installation et le fonctionnement de centres de
+données et de calculs, très voraces), il convient de n’y avoir recours qu’en cas de
+nécessité et de privilégier sinon des outils moins consommateurs : livres,
+revues, moteurs de recherche sur internet « classiques », etc.
+
+
+
+
+                                                                                            1
+Les étudiants doivent ainsi être alertés sur le fait que se servir d’une IAG comme
+moteur de recherche, pour un travail universitaire (ou autre), représente une
+consommation de ressources 10 fois supérieure à celle d’un moteur de recherche
+« classiques » (déjà très consommateur).
+
+Par exemple, les derniers rapports environnementaux de Google et Microsoft indiquent
+que leurs objectifs en matière de réduction des émissions de Gaz à Effet de Serre
+(GES) ne seront pas atteints, du fait de la construction de nouveaux centres de
+données pour l’IA générative, et ce malgré l’engagement de ces deux entreprises à
+atteindre la neutralité carbone en 2030 : + 30 % de CO2 pour Microsoft entre 2020 et
+2023 ; + 48 % de CO2 pour Google entre 2019 et 2023*.
+
+Art. 2 : Principes de subsidiarité et de « plus-value »
+
+Suivre un parcours à l’École de Droit de la Sorbonne implique :
+   - d’apprendre à apprendre, d’acquérir des connaissances théoriques en
+       lisant des ouvrages et articles fondamentaux et en fréquentant les
+       bibliothèques ;
+   - de savoir les mettre en œuvre dans des exercices et selon des méthodes
+       éprouvées ;
+   - de développer le sens de l’argumentation et du raisonnement juridiques,
+       ainsi qu’une pensée critique ;
+   - de contextualiser ses propos ;
+   - de rédiger de façon correcte et structurée, y compris sur la longueur
+       (mémoires de recherche notamment) ;
+   - et de développer les qualités propres au discours oral.
+
+L’enseignement du droit fonctionne par étapes : pour accéder au niveau « n+ 1 », il est
+impératif d’avoir acquis les bases du niveau « n » car le savoir juridique est
+essentiellement cumulatif. Comme toute discipline intellectuelle, le droit exige de
+faire des liens ; comme tout savoir pratique, le droit suppose de passer de l’abstrait au
+concret et inversement, ce qui suppose de le faire par soi-même. Le raisonnement
+en droit est toujours qualitatif.
+
+Le principe est en conséquence que tout travail universitaire (devoir, mémoire…), qui
+est restitué en vue de l’obtention d’un diplôme délivré par l’Université, doit être produit
+individuellement et personnellement sans recours à l’IAG.
+
+Les enseignants peuvent toutefois estimer certains usages bénéfiques pour effectuer
+tel ou tel exercice à des conditions strictes ou/et pour s’entraîner à la vie
+professionnelle. Ces usages ne peuvent avoir lieu qu’à titre subsidiaire, à deux
+conditions :
+
+   -   que les étudiants sachent faire sans l’IAG les exercices demandés, ne serait-
+       ce que pour comparer les résultats obtenus avec IAG et sans l’IAG. Tout
+       étudiant doit bien avoir en tête, en effet, qu’il ou elle ne pourra intégrer le marché
+       de l’emploi que si son travail présente une « plus-value » par rapport à ce
+       que peut faire une IAG. Par ailleurs, d’un point de vue sociétal, il est important
+       que l’humain garde une maîtrise des activités confiées à des IAG.
+
+
+
+
+                                                                                           2
+

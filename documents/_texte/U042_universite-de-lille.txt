@@ -1,0 +1,33 @@
+Charte des bonnes pratiques
+d’utilisation des intelligences
+artificielles génératives dans
+  les travaux pédagogiques
+Préambule
+
+Le domaine des Systèmes d’Intelligence Artificielle Générative (SIA) connaît des développements
+rapides depuis 2022. Les Systèmes d’Intelligences Artificielles, qui simulent certains aspects de
+l’intelligence humaine, ont été rendus accessibles à un large public. Les systèmes d’intelligences
+artificielles génératives (SIAG) permettent de générer des contenus sous différentes formes :
+texte, code, images, vidéos, et audios, ou une combinaison de ces formats, avec des résultats
+hautement réalistes.
+
+L'Université de Lille s'engage à une utilisation éthique, responsable et pédagogique des IAG,
+fondée sur des principes d’accompagnements aux usages spécifiques. L’usage des outils de l’IA
+doit être abordé avec esprit critique, tout en reconnaissant les faiblesses, les limites et les biais
+inhérents à ces outils.
+
+Cette charte vise à encadrer les usages des SIAG dans un esprit de responsabilité, de transparence
+et de respects des valeurs universitaires, tout en encourageant un apprentissage enrichi et
+innovant. Tout utilisateur des SIAG reste seul responsable de l'exactitude des contenus et de
+l'assurance d'une conduite respectant les principes d’intégrité académique.
+
+Les principes et recommandations concernant l'utilisation de SIAG pourront être révisés à
+intervalles réguliers, afin d’être ajustés, et enrichis grâce à l’apport de tous.
+
+Les principes d'intégrité académique prévalent dans les usages des SIAG.
+
+
+
+
+                                                                                                    2
+

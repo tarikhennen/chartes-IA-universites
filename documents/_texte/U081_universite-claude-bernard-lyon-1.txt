@@ -1,0 +1,75 @@
+    Charte de bonnes
+               a
+
+  pratiques de recours
+à l’intelligence artificielle
+             (IA)
+
+       IFMK de Lyon 1
+                                                                                                             Charte étudiante de l’IA
+
+
+                 Charte Étudiante de bonnes pratiques de recours à l'IA
+                              Département de masso-kinésithérapie de l’ISTR
+Préambule
+Le Département de Masso-Kinésithérapie (DMK) de l’ISTR de l’Université Claude Bernard Lyon 1 souhaite apporter
+un encadrement académique des pratiques étudiantes en matière d'intelligence artificielle (IA), notamment
+générative (IAG).
+Le DMK reconnait que l’IA peut être un véritable outil d’optimisation des processus d’apprentissage et de recherche
+universitaires, à condition qu’elle soit mobilisée de manière raisonnée, transparente, critique, éthique et licite par
+un étudiant. Le recours à l’IA n’est en aucun cas neutre.
+Sont ici intégrés : les principes de droit en vigueur en matière d'intégrité académique et de respect des droits
+individuels, et les principes de cadrage du Ministère, de la CNIL, de l’UE IA ACT et de l’UNESCO pour une
+sécurisation optimisée des potentialités pédagogiques de l’IA.
+
+1. Principes Généraux
+
+Responsabilité
+Tout étudiant du DMK est responsable de l'utilisation faite des outils d'IA, et de ses potentielles conséquences.
+Il s'assure que le recours aux flux algorithmiques (input et output) est judicieux, responsable et conforme aux
+dispositions réglementaires et légales en vigueur, en tenant compte des impacts académiques, juridiques et socio-
+environnementaux générés.
+Ce recours se veut éco-responsable, au travers d’une approche frugale des ressources informatiques et
+énergétiques de l’IA, contributive à la réduction de son empreinte écologique.
+Sa responsabilité vis-à-vis des principes de droits d’auteur et de propriété intellectuelle est formellement prise en
+compte, en application des dispositions du Code de propriété intellectuelle français1 et des Directives européennes2
+et universitaires3 en vigueur dans l’écosystème numérique.
+Transparence
+Les impacts du recours à l’IA sont abordés, analysés et discutés, avec l’objectivité et la transparence inhérentes à
+une démarche scientifique responsable.
+Toute aide à la décision et/ou à la production de contenus impliquant l'IA est clairement mentionnée, contextualisée
+et expliquée au moment de la soumission des travaux académiques oraux ou écrits par l’étudiant. Cela inclut la
+mention des outils spécifiques utilisés et la finalité de l'aide apportée, ainsi que la retranscription des prompts
+soumis en input à l’IA.
+Le principe de transparence est applicable à tout recours aux modèles d’IAG.
+Les enseignants et les directeurs de mémoire sont informés des outils d'IA utilisés par les étudiants, afin de
+préserver une évaluation équitable et objective de leurs compétences et de leurs connaissances.
+Chaque étudiant est informé que le corps enseignant dispose d’outils académiques de mesures du recours à l’IA,
+et est libre de les mobiliser à des fins de contrôle si nécessaire.
+
+Intégrité académique
+L'utilisation de l'IA préserve de facto les principes d’honnêteté et d’intégrité intellectuelles, au service de la culture
+de partage des valeurs de l’Université Lyon 14, du développement personnel, de la montée en compétences et de
+l'érudition.
+Le DMK encourage la pensée critique, la créativité et l'originalité dans le travail académique, y compris dans
+l’écosystème numérique. L’approche pédagogique du DMK est fortement ancrée dans une culture de confiance,
+de partage, d'équité et de respect entre les étudiants et le corps enseignant. Tout recours à l’IA est, de fait, ancré
+dans ce corpus de principes.
+Tout recours à l’IA respecte les principes d’évaluation pédagogique du DMK, comme les directives stipulées par
+chaque enseignant, référent ou directeur de recherche.
+
+1 Code de la propriété intellectuelle : https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006069414/
+
+2 Directive (UE) 2019/790 du Parlement sur le droit d'auteur et les droits voisins dans le marché unique numérique :
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038481211
+3 UCBL, Plagiat : Droit d'auteur et droit à l'image : https://www.univ-lyon1.fr/universite/nos-engagements/ethique-et-deontologie/plagiat-
+
+droit-dauteur-et-droit-a-limage
+4 Les engagements de l'Université Lyon 1 : https://www.univ-lyon1.fr/universite/nos-engagements
+
+
+
+
+DMK – ISTR – UCBL1. Réf. DJ, 2025-07, v.3                                                                                               2
+

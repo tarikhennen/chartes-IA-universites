@@ -1,0 +1,92 @@
+Stratégies adaptées à l’ère de l’IA
+Quelles stratégies adopter en fonction de quels cas de figure ? Mon contexte
+d'enseignement exige-t-il de décourager au maximum l'utilisation d'outils d'IAg par mes
+étudiants ? Ou au contraire d'intégrer ces outils dans le cadre de nouvelles activités
+pédagogiques ?
+
+Quoi qu’il en soit, nous constatons que les pratiques enseignantes doivent évoluer : pour que
+les étudiants continuent à acquérir les connaissances visées par les enseignements mais
+aussi pour qu'ils acquièrent les savoir-faire et savoir-être utiles dans leurs futurs
+professionnels, tels que la prise de décision, la résolution de problèmes complexes, la
+pensée critique, la créativité, l'adaptabilité... et la capacité à utiliser des IAg intelligemment !
+
+
+
+Les activités pédagogiques
+Enseigner à l'ère de l'IA demande à l’enseignant de se questionner / re-questionner sur son
+rôle. Il ne s'agit plus pour un enseignant d'uniquement transmettre son savoir, mais de créer
+également des situations d'apprentissage motivantes et adaptées aux changements
+sociétaux. Susciter la curiosité et l'engagement constructif et interactif de l'étudiant passe par
+l'utilisation de méthodes pédagogiques actives, expérientielles, collaboratives. Le métier
+d’enseignant, aussi tuteur et facilitateur d’apprentissage, peut s’en trouver fortement enrichi !
+
+Amélioration continue de l’offre de formation
+A ce titre, l'université de Bordeaux a établi une note de cadrage pour l’amélioration continue
+de son offre de formation dont les axes "Connexion des programmes d'étude à leur
+environnement" et "Autonomisation des étudiants par l’acte d’apprentissage" (via des
+méthodes pédagogiques actives), permettent de donner un cap pour les futures formations
+dispensées à l'université dans les prochaines années.
+
+Il serait dommage dans ce contexte de ne pas considérer les atouts des IAg. Cf fiches
+Avantages et limites de l’IA dans l’ESR et Construire son cours avec l’IAg.
+
+
+Cas de figure
+
+◆ Je veux décourager l’utilisation des IAg par les étudiants
+
+>   Privilégier les activités/examens en présentiel (ex : papier/crayon, défense orale ciblée) ;
+>   Recourir à certaines méthodes de pédagogie active : Apprentissage Par Problème (APP),
+    enseignement en situation authentique, démarche portfolio ;
+>   Demander des réponses s'appuyant sur des éléments vus en présentiel
+>   Utiliser le Safe Exam Browser pour les tests ou surveillance webcam couplée à la
+    surveillance de l'écran
+>   Imposer le suivi des modifications apportées à un document (fonctionnalité intégrée à
+    certains logiciels).
+
+Ces propositions rendent l’utilisation de l’IAg plus compliquée ou moins utile. Malgré tout, il
+s’agit d’une stratégie plutôt court-termiste et à risque en distanciel. Des nouvelles
+solutions permettent de tricher à un test chronométré sur Moodle, de suggérer des réponses
+à un examen oral via Zoom, et même d'automatiser le rendu d'exercices et devoirs sur
+Moodle. A noter : il est trop facile de tenir en échec les détecteurs de texte IA, nous ne les
+recommandons donc pas dans ce contexte.
+
+
+◆ Je tolère l’utilisation d’IAg par les étudiants
+
+Dans ce cas de figure, utiliser les IAg ne fait pas partie des objectifs pédagogiques de
+l’enseignant mais leur utilisation n’est pas proscrite par le contexte. Les étudiants pourraient
+acquérir les acquis d'apprentissage visés indépendamment du fait qu’ils les utilisent ou non*.
+
+
+>   Recourir aux pédagogies actives : classe inversée/renversée, apprentissage par défis,
+    par problèmes, apprentissage par projet, apprentissage expérientiel, travaux
+    d’investigation, d’expérimentation, enseignement clinique, mise en situations, jeux de
+    rôle, débats en classe, productions non textuelles ;
+>   Donner des tâches complexes : plusieurs démarches et solutions sont possibles,
+    l’étudiant doit faire preuve de jugement, d'esprit critique, de créativité (à garder en tête
+    notamment pour les études de cas qui pourraient avoir besoin d’adaptation) * ;
+>   Intégrer une dimension réflexive ou métacognitive dans les activités : journal de bord,
+    portfolio, ou dans les travaux de type dissertations / rapports.
+
+
+* Les outils d’IAg évoluent de jour en jour, il est conseillé de se tenir informé des avancées et
+de re-tester régulièrement ses activités au regard des nouveaux outils ou fonctionnalités
+disponibles.
+
+
+◆ Je souhaite faire utiliser les IAg dans un cadre pédagogique
+
+Cela suppose, pour l’enseignant, une véritable scénarisation pédagogique pour que
+l’étudiant s’engage activement dans ses apprentissages. Voir la fiche Activités de
+pédagogie active pour faire utiliser l’IAg.
+
+>   Dissertation : orienter les étudiants sur une utilisation d’une IAg pour la forme de leur
+    composition, l’expression écrite, l’orthographe…
+>   Apprentissage par la discussion : organiser un débat ou un jeu de rôle avec un chatbot
+    comme adversaire.
+>   Reverse engineering : les étudiants partent du résultat d’une IAg et doivent trouver le
+    prompt ou la question originels
+>   Travailler la créativité avec les IAg (pour des exemples d’exercices et d’évaluation, voir
+    fiche Travailler la créativité) ;
+

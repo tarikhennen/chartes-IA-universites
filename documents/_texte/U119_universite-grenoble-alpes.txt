@@ -1,0 +1,92 @@
+CADRE GENERAL DE L’UNIVERSITE GRENOBLE ALPES
+CONCERNANT    L’APPORT     ET   LES    USAGES
+RECOMMANDES DE L’INTELLIGENCE ARTIFICIELLE
+POUR CONDUIRE ET REALISER SES MISSIONS
+
+PREAMBULE
+
+L'Université Grenoble Alpes (UGA) reconnaît l'importance de l'intelligence artificielle (IA)
+dans la transformation de l'enseignement, de la recherche et de l'administration. Ce cadre
+général vise à encadrer l'utilisation de l'IA au sein de l'UGA, en promouvant une approche
+responsable, éthique et transparente. Il s'adresse à l'ensemble des membres de la communauté
+universitaire : étudiants et étudiantes, enseignants et enseignantes, enseignants-chercheurs et
+enseignantes-chercheuses, chercheurs et chercheuses, et personnels administratifs.
+
+L’UGA, dotée d’un centre interdisciplinaire de recherche, d’innovation et de formation en
+intelligence artificielle (IA), MIAI Cluster, labélisé de rang mondial, contribue activement à la
+recherche internationale sur l’IA et ses applications, à l’innovation en IA et à l’enseignement
+de l’IA et de ses applications. Les recherches de MIAI s’inscrivent dans 6 axes principaux : IA
+cœur, IA et Société, Environnement & Énergie, Santé, Industrie 4.0-5.0 et IA pour les Sciences.
+Elles sont de plus menées, dans une approche interdisciplinaire, par des chercheurs de différents
+horizons : informatique, mathématiques, physique, chimie, biologie, médecine, sciences
+cognitives, écologie, sociologie, droit, gestion, philosophie, …
+
+L’UGA est consciente que de nombreux enjeux liés à l’usage de l’IA nécessitent une approche
+responsable et réfléchie en accord avec son engagement pour la transformation écologique et
+sa mission de promouvoir le savoir critique. Elle s’engage pour une IA bénéfique à l’être
+humain et à la société. À ce titre, elle soutient une réflexion critique et éthique sur l’IA et
+contribue au débat sur l’impact de l’IA sur la société et l’environnement.
+
+L’UGA, en tant qu’université moteur de son territoire, entretenant des liens forts avec les
+acteurs de celui-ci, s’implique dans la transformation sociétale engendrée par l’essor de l’IA
+avec l’implication des chercheurs en SHS. Dans ce contexte, l’IA est une des filières actives du
+Pôle Universitaire d’Innovation Grenoble Alpes.
+
+I. PRINCIPES FONDAMENTAUX
+
+   1. Utilisation judicieuse : Au sein de l’UGA, l’IA s’utilise là où elle représente une
+      opportunité, que ce soit dans la recherche, l’enseignement, l’innovation, la vie étudiante
+      ou dans l’administration.
+   2. Utilisation sobre : L’UGA encourage, sensibilise et forme à des pratiques numériques
+      sobres pour réduire l'empreinte environnementale des outils d’IA.
+   3. Utilisation critique : L’UGA forme et accompagne ses étudiantes et étudiants, son
+      personnel académique et administratif à l’utilisation critique, informée, sécurisée et
+     éthique de l’IA, dans le respect des lois en vigueur, des valeurs humaines et des valeurs
+     universitaires et celles de l’UGA, dont la liberté de chercher, de transmettre et de créer.
+  4. Utilisation éthique et inclusive : L’UGA promeut une utilisation éthique et critique de
+     l'IA, en évitant les biais et en respectant les droits des individus. Il convient à chaque
+     membre de la communauté UGA de s’assurer que les outils d’IA qu’il ou elle utilise
+     soient alignés avec les valeurs de l’UGA. Les usages de l’IA susceptibles d’induire un
+     biais seront évalués régulièrement.
+  5. Protection des données : Avant toute transmission de données personnelles, s’assurer
+     que les obligations en matière de protection des données personnelles (RGPD) et les
+     règles européennes soient respectées. Les personnes dont les données sont collectées,
+     utilisées ou réutilisées pour développer un système d’IA disposent de droits sur leurs
+     données qui leur permettent d’en conserver la maîtrise. Il appartient aux responsables
+     des traitements de les respecter et d’en faciliter l’exercice. Les personnes concernées
+     doivent pouvoir exercer leurs droits à la fois sur les bases de données d’apprentissage et
+     sur les modèles d’IA si ces derniers ne sont pas considérés comme anonymes.
+
+     Les mêmes précautions s’appliquent en matière de données professionnelles. Toute
+     transmission de données professionnelle doit être approuvée par l’établissement après
+     analyse.
+
+  6. Souveraineté et IA : Dans un contexte où l’écosystème de l’IA est largement dominé
+     par des acteurs extra-européens, non alignés sur les standards de protection des données
+     et de neutralité éthique que promeut l’enseignement supérieur et la recherche français,
+     la question de la souveraineté numérique et de l’IA souveraine devient centrale. Dans
+     l’attente du développement éventuel d’un outil souverain, national ou européen, l’UGA
+     attire l’attention sur les risques induits par le recours à des outils d’IA qui collectent,
+     exploitent ou conservent des données sans transparence ni gouvernance partagée.
+
+
+
+II. UTILISATION DE L'IA DANS L'ENSEIGNEMENT
+
+  1. Transformation de l'offre de formation : Consciente que l’IA a le potentiel de
+     révolutionner le marché de l’emploi par la création de nouveaux métiers, la disparition
+     d’autres et l’émergence de nouvelles compétences, l’UGA transforme son offre de
+     formation afin de sensibiliser aux enjeux de l’IA et de former les nouvelles générations
+     d’usagers de l’IA et d’experts de l’IA.
+  2. Contrôle des connaissances : Le recours à des outils mobilisant l’IA est interdit par
+     principe sauf si son utilisation est explicitement autorisée. Les règlements des études et
+     modalités de contrôles de connaissance précisent le cadre de l’utilisation de l’IA.
+  3. Choix pédagogique, équité et inclusivité : En dehors du contrôle de connaissances, il
+     revient à l’enseignant et à l’équipe pédagogique de définir les consignes d’usage de l’IA.
+     Un outil d’IA ne saurait se substituer à l’étudiant pour mettre en œuvre les compétences
+     mobilisées dans un exercice donné. Les choix pédagogiques doivent préserver l'équité,
+     développer l’inclusivité et éviter les biais discriminatoires.
+  4. Intégrité scientifique : Dans leurs travaux, les étudiants et étudiantes sont tenues de
+     respecter les règles et principes gouvernant l’intégrité scientifique, notamment
+     l’interdiction de plagiat, ainsi que les bonnes pratiques scientifiques. En cas d’usage des
+

@@ -1,0 +1,102 @@
+                         Charte id                                                                 IA
+                            Bonnes pratiques et idées constructives
+                            face à l’Intelligence Artificielle
+                            par et pour les étudiantes et les étudiants
+                            de l’École de Journalisme et de Communication
+                                                                          d’Aix Marseille Université
+
+
+
+                            Le déploiement progressif de l’usage de l’IA et de l’Intelligence
+                            Artificielle Générative (IAG) dans notre société nous interroge et
+                            nous concerne en tant que futurs professionnels et futures
+                            professionnelles de l’information et de la communication comme en
+                            tant que citoyens et citoyennes. En parallèle des réflexions
+                            émergeant à l’université, aux niveaux national et local, au sein de
+                            différents milieux professionnels ou encore de nos instances
+                            politiques, nous avons choisi de poser collectivement des principes
+                            de vigilance et des conseils de pratiques positives en faveur d’une
+                            utilisation consciente, critique et responsable de l’IAG. Cette charte
+                            propose ainsi un ensemble de réflexes simples à adopter par tout
+                            étudiant / toute étudiante en communication et en journalisme
+                            faisant, en particulier, son entrée à l’EJCAM.
+
+
+
+
+                                                     COLLABORATIVE !
+Le propos de la charte idIA a été co-élaboré par 35 étudiants et étudiantes en communication et en journalisme (Licence 3
+Information-Communication, Master Communication Information et médias, Master Communication de marque, Master
+Communication Data et Dispositifs numériques, Master Communication et Transitions Écologiques, Master
+Communication évènementielle, Master Communication d’intérêt général, Master Communication International, Master
+Journalisme) : Théa Atcherfeld, Nene Barry, Assia Berrouiguet, Léa Bidault, Lucie Bioud, Amélie Bobo, Lucie Boyenval, Elva
+Chevaldonné, Salomé Curtil Romand, Méline D’Inca, Deli Douan, Alice Fournier, Jean-Mael Gabriel, Céliann Gabriel, Maena
+Guerin, Aude Jean, Capucine Juttand, Christelle Kande, Sonia Khemiri, Chloé Lentier, Gwenaelle Lefaure, Wilem Louis-
+Alexandre, Pierre Lucotte, Fatima Maqrouni, Selik Mahmoudi, Imane Noumri, Balikissou Ouro-Amaou, Andrea Priotto-
+Peyrade, Adeline Rodriguez, Luca Saint-Martin, Léa Seba, Maryem Talhi, Carla Toledo, Eva Turcan, Thomas Vandamme.
+
+
+Les précautions et recommandations de cette charte ne sont pas exhaustives ; elles sont issues d’échanges de prospective en intelligence
+collective d’étudiants et d’étudiantes de l’EJCAM qui se sont tenus de novembre 2025 à février 2026. Le contenu de cette charte est appelé à être
+complété au fil des années et de l’évolution des usages et des technologies de l’IAG.
+                                            Charte id        IA
+
+Concernant l’usage de l’Intelligence Artificielle Générative, il nous apparaît essentiel de :
+
+
+
+
+Conserver son esprit critique et...                          Garder la maîtrise de
+                                                             l’élaboration intellectuelle,
+                                                             préserver sa liberté créative et…
+Questionner l’origine de l’IAG sollicitée et
+de ses contenus, questionner son éthique
+Il s’agit de garder une distance et un regard sur
+l’éthique et les actions / ambitions des
+                                                             Utiliser l’IAG comme une aide et non
+propriétaires ou auteurs des IAG, les enjeux
+économiques sur lesquels repose l’IAG utilisée,
+                                                             comme une auteure
+                                                             L’IA est un outil d’assistance ; nous
+le système politique d’où elle provient (pays
+                                                             pouvons parfois et sous certaines
+démocratique / pays totalitaire ?), etc.
+                                                             conditions, utiliser l’IA - si nécessaire - en
+                                                             un « second temps », mais il est
+Lutter contre les biais et la manipulation                   indispensable de ne pas systématiser le
+Il s’agit d’être attentif / attentive aux biais              recours à celle-ci. Il faut également éviter
+culturels ou idéologiques que l’IAG peut                     d’y faire appel lorsqu’une recherche
+générer, selon sa provenance et de veiller à                 bibliographique ou une simple requête sur
+identifier les manques de neutralité.                        un moteur de recherche en ligne suffit.
+
+Combattre la désinformation                                  Prévenir la paresse cognitive et lutter
+Il s’agit d’entretenir un principe de méfiance               contre la dépendance à l’IAG
+constructive face aux résultats offerts par l’IAG            Il s’agit de préserver nos compétences, de
+interrogée, de rester en alerte face à ses erreurs           cultiver la confiance en nos capacités
+potentielles, à la reprise de fake news, de                  intellectuelles et créatives. Il nous faut ne
+deepfakes, de contenus manipulés ou encore                   pas cesser de réfléchir par nous-même, ne
+d’« hallucinations » que son fonctionnement                  pas laisser la « flemme », la démotivation
+algorithmique peut engendrer (faits historiques              ou l’habitude guider nos pratiques. Il faut
+potentiellement déformés ou inventés, sources                veiller à refuser le « copier-coller », à ne
+inexistantes, …).                                            pas déléguer entièrement la rédaction à
+                                                             l’IAG. Il est tout autant crucial de garder en
+Exiger des sources fiables                                   tête que nous prenons le risque de devenir
+Il s’agit de demander systématiquement les                   dépendants / dépendantes de l’IAG !
+sources à l’origine des contenus utilisés par
+l’IAG et de vérifier leur existence réelle, leur             Consolider l’élaboration « d’origine
+origine (scientifique, journalistique,
+                                                             humaine », tirée de la réalité vécue
+commerciale, …), de croiser et diversifier les
+                                                             L’IAG ne doit pas remplacer l’enquête/le
+références et de citer ces sources dans les
+                                                             journalisme de terrain, l’observation, la
+productions finales.
+                                                             rencontre, l’échange, la réflexion
+                                                             personnelle, la démarche et les étapes de
+Protéger ses données personnelles                            création, le style rédactionnel de chacun /
+Il s’agit de ne pas communiquer d’informations               chacune, etc.
+personnelles, sensibles ou confidentielles
+(nom, adresse, caractéristiques personnelles,
+identifiants administratifs, bancaires,
+numériques, …) aux IAG.
+

@@ -1,0 +1,118 @@
+NOTE D’INFORMATION
+UTILISATION DES IA GÉNÉRATIVES PAR LES
+ÉTUDIANTS :
+FORMER, PRÉVENIR ET RÉAGIR AUX ABUS
+Auteurs : CEMU, VP CFVU, DAJI - Dernière mise à jour du document : 10/02/2025
+
+
+
+LE CADRE ACTUEL
+CE QUE DIT LE RÈGLEMENT DES ÉTUDES
+Le règlement commun des études a été actualisé en 2023 afin de combler une lacune et de permettre de con-
+sidérer l’usage non autorisé d’outils d’intelligence artificielle générative comme de la fraude. Il précise ainsi
+au point 6.2 « les formes de fraudes » :
+
+« La production de travail universitaire, en tout ou en partie, aux fins de crédits, de progression ou de reconnais-
+sance universitaires, en échange de paiement ou d’autre service ou non, à l’aide d’une assistance humaine ou
+technologique prohibée ou non déclarée représente une génération non autorisée de contenu. »
+https://www.unicaen.fr/reglement-commun-des-etudes-2022-2027/
+
+CE QUI RELÈVE DES ENSEIGNANTS
+Il est ainsi du ressort de chaque enseignant(e) ou équipe enseignante de fixer de façon explicite les conditions
+d’utilisation de l’IA générative et de les préciser par écrit aux étudiantes et étudiants (dans le guide des études,
+les consignes de travail, syllabus, etc.). L'IA générative est en effet une catégorie d’outil comme la calculatrice
+ou le dictionnaire, lesquels sont parfois autorisés en examens, parfois interdits. On peut ainsi distinguer l'usage
+pédagogique de l’IA générative dans le cadre de la formation, de son usage dans le cadre de l'évaluation – voire
+de distinguer cet usage selon les types d’évaluations.
+
+Si l’utilisation est autorisée, il est préconisé de demander à l’étudiant(e) de déclarer cet usage et d’en rendre
+compte de manière explicite (citation de l’outil utilisé, démarche adoptée, prompts utilisés, etc.).
+
+
+PRÉVENIR : RECOMMANDATIONS POUR ÉDUQUER À DES
+USAGES PERTINENTS ET RESPONSABLES DE L’IA GÉNÉRATIVE
+Afin de prévenir toute situation de litige et pour que les étudiantes et étudiants puissent développer des usages
+pertinents et responsables des IA génératives, il est important de discuter en équipe pédagogique de ce sujet,
+afin d’établir une doctrine claire, crédible et profitable à tous. Il est notamment recommandé de :
+
+Etablir un cadre de pertinence et les limites de l’utilisation : quelles activités, quelles tâches doivent être
+sanctuarisées ? Pourquoi ?
+
+Prévoir un cadrage ajusté pour les évaluations dans les formations, de préférence de façon unifiée à l’échelle
+des parcours. Ce cadrage peut distinguer les usages suivants, et préciser les autorisations et interdictions :
+
+      -    L’IA comme source d’information : « Si vous avez utilisé un outil d’intelligence artificielle dans vos
+           recherches, décrivez comment vous avez utilisé cet outil. Fournissez la demande (ou prompt) que
+           vous avez utilisée, suivie de la partie pertinente du texte généré en réponse ».
+
+           Par exemple : Si la demande est « est-ce que la division du cerveau gauche versus cerveau droit est
+           réelle ou est-ce une métaphore ? » le texte généré par ChatGPT indique que bien que les deux hémis-
+
+
+
+                                                                                                                  1
+           phères cérébraux soient quelque peu spécialisés, « la notion selon laquelle les gens peuvent être ca-
+           tégorisés comme “cerveau gauche logique” ou “cerveau droit créatif” est considérée comme une
+           simplification excessive et un mythe populaire » (OpenAI, 2023). 1
+
+      -    L’IA comme aide à la production : si autorisée, il faut rendre compte de cet usage selon le même
+           modèle de citation (voire fournir le(s) lien(s) vers les prompts utilisés).
+
+      -    L’IA comme aide à l’apprentissage : usage libre.
+
+Proposer un temps d’information à destination des étudiantes et étudiants. Cela peut être fait lors des réu-
+nions de rentrée, mais le message peut facilement se perdre dans le flot des informations. Il est recommandé
+de privilégier des temps dédiés ou intégrés pendant les enseignements.
+
+Intégrer la réflexion sur l’usage de l’IA générative dans la formation, par exemple lorsque les consignes sont
+données pour la préparation de certaines activités (exposé, devoir maison, mémoire, etc.).
+
+
+SE FORMER : SI VOUS SOUHAITEZ ÊTRE ACCOMPAGNÉ OU AL-
+LER PLUS LOIN
+Pour vous initier ou aller plus loin dans votre formation à l’usage pédagogique des IA génératives (assistance
+dans vos activités, préparation de vos enseignements, intégration dans vos enseignements, etc.) diverses mo-
+dalités d’accompagnement vous sont proposées.
+
+Le CEMU propose sur demande un atelier de sensibilisation et d’acculturation aux IA génératives. Les objec-
+tifs sont de faire découvrir ces outils par la pratique (apprentissage de rédaction de prompt, test de l’outil sur
+des cas d’usages divers), échanger sur son utilisation pertinente ou non et les enjeux environnementaux soule-
+vés, cela dans le cadre de la préparation des séances ou pendant l’enseignement.
+
+Si vous souhaitez avoir plus d’informations ou vous former à des usages avancés (intégration de l’IA générative
+dans vos cours et vos évaluations, etc.), n’hésitez pas à contacter votre ingénieur pédagogique référent de com-
+posante ou écrire à l’adresse cemu.conseil@unicaen.fr
+
+Par ailleurs, un livret s’appuyant sur des témoignages d’enseignant(e)s détaillant leurs usages pédagogiques
+des IA génératives est en cours de rédaction et sera disponible pour la communauté au printemps 2025. Si vous
+avez des usages à nous faire partager pour compléter cet ouvrage, contactez-nous à l’adresse cemu.conseil@uni-
+caen.fr .
+
+
+RÉAGIR : PROCÉDURE EN CAS DE SUSPICION DE FRAUDE
+PEUT-ON DÉTECTER L’USAGE NON DÉCLARÉ D’UNE IA GÉNÉRATIVE ?
+La détection la plus efficace, ce sont les enseignantes et enseignants eux-mêmes qui peuvent la faire, par l’éta-
+blissement d’un faisceau d’indices concordants : changement de registre dans la production, absence d’expli-
+citation de la démarche, du choix des outils, références bibliographiques erronées voire fictives, présence d’élé-
+ments auxquels l’étudiant(e) n’a vraisemblablement pas pu avoir accès, syntaxe et lexique inadapté, etc.
+
+COMMENT PROCÉDER ?
+Collecter les indices qui constituent la suspicion d’usage frauduleux.
+
+Corriger la production de l’étudiant(e) (copie, mémoire de stage ou de fin d’études...) sans tenir compte de la
+présomption de fraude et le cas échéant, réaliser la soutenance si elle est prévue.
+
+Demander à l’étudiant(e) de rendre compte de l’intégrité de son travail, en transmettant les traces intermé-
+diaires du travail, en explicitant les choix bibliographiques, etc.
+
+Compléter et signer le document « procès-verbal de constatation de fraude » à partir des éléments objectifs
+observés (modèle disponible sur l’Intranet, espace « affaires juridiques et institutionnelles »).
+
+
+1
+ Comment citer ChatGPT, https://www.umoncton.ca/integrite/comment_citer_chatgpt, Université de Moncton.
+Consulté le 25/11/2024
+
+
+                                                                                                             2/3
+

@@ -1,0 +1,99 @@
+                      FAQ : l’IA et moi à l’université Paris 1 Panthéon-Sorbonne
+
+
+
+Les agents conversa onnels perme ent-ils d’avoir une réponse exacte sur n’importe quelle
+ques on ?
+
+NON
+
+Les agents conversationnels, comme ChatGPT, uƟlisant l’intelligence arƟficielle (IA) peuvent
+produire un discours exact selon nos critères scienƟfiques, avec des « prompts » spécifiques, mais ce
+n’est qu’une possibilité parmi d’autres.
+
+Dans de rares cas, l’IA refuse de répondre, mais seulement parce que la réponse aurait un caractère
+illégal ou qu’elle contreviendrait à des règles de programmaƟon.
+
+Ainsi, l’objectif de ChatGPT est de produire un discours vraisemblable : l’exactitude n’est pas visée.
+De plus, ses réponses sont construites à partir d’une base de données, nécessairement incomplète et
+biaisée. Ceci explique que le système produise des réponses parfois totalement fausses, farfelues. Ce
+phénomène, est nommé « hallucination ». Le problème est que même quand elle « hallucine »,
+l’application a un discours qui, en apparence, est logique, construit et peut s’appuyer sur des
+références fictionnelles forgées par l’IA.
+
+Ceci implique de toujours vérifier l’exacƟtude du propos de ChatGPT.
+
+
+
+Puis-je faire eﬀectuer mon travail universitaire à rendre en èrement par l’IA ?
+
+NON
+
+Indépendamment de la question légale et éthique de la fraude, demandez-vous à quoi servent les
+exercices ? À avoir des notes, direz-vous. Certes, à court terme, c’est exact. Mais le véritable objectif
+est de vous permettre de vous entraîner, de vous exercer et d’acquérir des réflexes.
+
+Le nombre d’exercices proposé est peu important dans chaque cours pour une raison évidente, le
+temps dont dispose vos enseignants pour corriger. Aussi faire effectuer intégralement le travail par
+l’IA signifie-t-il gâcher l’opportunité de vous améliorer.
+
+Essayez donc par vous-même. Mais à chaque étape, l’utilisation de l’IA, quand elle est autorisée par
+l’enseignant et quand elle est pertinente sur votre type d’exercice, peut vous permettre d’évaluer si
+ce que vous avez fait est assez complet, assez bien construit, de reprendre et d’enrichir.
+
+
+
+
+                                                                                                            1
+Quels dangers représentent pour moi l’u lisa on systéma que de l’IA à l’université ?
+
+L’IA est un bon serviteur mais un mauvais maître. Le plus compliqué, quand vous devez rendre un
+travail est :
+
+           la compréhension de ce qui est attendu et du sujet ;
+           la recherche documentaire : lire, prendre des notes, trier ce qui est pertinent ;
+           la recherche d’idées et leur articulation.
+
+Ne pas passer par ces étapes dispense votre cerveau de fonctionner et de se former. Or, le travail
+donné à l’université est un exercice au sens militaire ou sportif. Son objectif est de vous entraîner à
+traiter une question, pour développer des réflexes dans l’analyse des questions, la recherche de
+sources fiables apportant des éléments de réponse, leur synthèse, leur organisation et leur
+structuration.
+
+Faire effectuer ce travail à l’IA vous empêche de :
+
+       retenir le contenu (qui est bien plus assimilable quand il est utilisé pour une opération
+        intellectuelle) ;
+       de réorganiser vos circuits neuronaux pour leur permettre de traiter des questions
+        complexes ;
+       de mettre en place des stratégies et des réflexes intellectuels (la « méthodologie ») ;
+       d’améliorer votre maîtrise de la langue, votre style.
+
+Ce que vous aurez sur papier ne sera pas dans votre tête, vous n’aurez pas fait les connexions
+neuronales, « ce travail » ne laissera pas d’empreinte dans votre cerveau.
+
+
+
+Quel danger le recours systéma que à l’IA à l’université pour eﬀectuer mon travail cons tue-t-il
+pour mon avenir professionnel ?
+
+Si vous vous dispensez de vous former, vous sorƟrez de l’université comme travailleur à la chaîne,
+utilisant l’IA dans son domaine. Mais vous serez alors en concurrence avec ceux qui seront :
+
+       capables d’utiliser l’IA mais, ayant toujours une longueur d’avance ;
+       capables de réfléchir par eux-mêmes ;
+       capables de compléter voire de modifier de façon pertinente et innovante (y compris en
+        modifiant le prompt) les propositions de l’IA ;
+       les maîtres de l’IA vue comme un exécutant qu’ils pourront surpasser, surveiller, corriger.
+
+Lors d’un concours, d’un test de recrutement vous risquez d’être réduits à vos propres moyens.
+Même si le recours à l’IA est possible, vous serez alors en compétition avec d’autres personnes qui
+auront le même outil (voire la version plus efficace). L’avènement de l’automobile n’a pas signifié la
+fin de l’apprentissage de la marche… L’apparition de la calculatrice n’a pas fait disparaître
+l’apprentissage du calcul mental ou écrit. Vous devez donc veiller à développer les compétences qui
+pourront ensuite être automatisées par l’IA.
+
+
+
+                                                                                                          2
+

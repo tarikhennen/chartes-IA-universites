@@ -1,0 +1,98 @@
+            Charte Institut Mines-Télécom
+    de bonne utilisation des systèmes d’intelligences
+         artificielles génératives en formation
+
+Objectif : Cette charte vise à promouvoir une utilisation responsable,
+éthique et légale des systèmes d’IA génératives dans le cadre des
+activités pédagogiques.
+
+Conformément aux directives du gouvernement français1, l'Institut Mines-Télécom (IMT)
+élargit l'intégration de l'intelligence artificielle (IA) à l'ensemble de ses programmes de
+formation. Cette initiative vise à enrichir la compréhension de ses étudiants sur l'impact de
+l'IA sur la société, en développant leur capacité à analyser de manière critique et à anticiper
+les transformations induites par ces technologies.
+
+L'application de l'intelligence artificielle (IA) se doit d'être juste, transparente et éthique,
+contribuant au bien-être d'une société et d'une économie qui respectent pleinement
+l'humain et son environnement. Elle doit assurer une fiabilité des résultats, garantie par une
+supervision humaine, tout en étant en accord avec les lois et réglementations (IA acte -
+Artificial Intelligence Act2).
+
+Article 1 : Respect des lois (données personnelles, etc.) et des conditions liées à
+l’évaluation ou aux examens
+
+Les apprenants doivent se conformer aux lois et régulations en vigueur en matière de
+protection des données personnelles, de propriété intellectuelle et de toutes autres
+législations applicables.
+Les apprenants doivent réaliser les travaux demandés par les enseignants dans le respect des
+consignes données. Lorsqu’il est demandé aux étudiants de produire un travail (sauf
+indications contraires) celui-ci ne peut être sous-traité à une tierce personne ou à une
+entreprise (Ex entreprise d’IA).
+
+Il est de la responsabilité des étudiants de vérifier auprès de leur enseignant ou de leur
+institution que l'utilisation de l'IA est permise pour le travail ou l’examen en question.
+
+
+
+1
+  Commission de l’intelligence artificielle - IA, notre ambition pour la France, Mars 2024.
+2
+  Curriculum et Formation : Les institutions d'enseignement supérieur devront intégrer des cours sur l'éthique
+de l'IA, la gouvernance des données, et la réglementation relative à l'IA pour préparer les étudiants à travailler
+dans un environnement réglementé et conscient des implications éthiques de la technologie.
+Sensibilisation et Débat Public : En tant que centres de réflexion et de débat, les universités seront des acteurs
+clés dans la sensibilisation aux enjeux de l'IA et dans la facilitation du débat public sur son développement
+responsable.
+
+
+Année 2024 – Angelo Montoni / Julien Morice – Version 090420241705
+Article 2 : Transparence sur le travail réalisé
+
+Dans le cas où les étudiants utilisent des outils basés sur l'IA pour produire des travaux
+académiques (en accord avec les conditions de réalisation du travail demandé), il est
+important qu'ils communiquent clairement et honnêtement sur l'utilisation de ces outils. Il est
+impératif de citer la source et de préciser que l'IA générative a été utilisée pour réaliser un
+travail ou pour aider à la réalisation de celui-ci.
+
+Les apprenants doivent être conscients que l'utilisation des IA génératives, telle que ChatGPT,
+Gemini, Mistral IA, Claude 3 dans le cadre de travaux académiques sans mentionner
+explicitement cette utilisation et son ampleur, peut être considérée comme un non-respect
+des conditions d’examen ou une fraude, et peut entraîner des sanctions.
+
+Article 3 : Maitrise des concepts et des connaissances
+
+Il est également important de se rappeler que l'utilisation de l'IA ne doit pas remplacer la
+réflexion personnelle de l'étudiant. Les étudiants doivent toujours comprendre les concepts,
+les appliquer, les analyser de manière critique, être en mesure de les évaluer et de créer des
+solutions originales en faisant usage des compétences acquises.
+L’IA ne peut être qu'un outil, une aide à la réalisation d’un travail demandé.
+
+Article 4 : Responsabilisation
+
+Les apprenants doivent partir du principe que les informations fournies par une IA générative
+peuvent être erronées ou incomplètes tant qu'elles n'ont pas été vérifiées. Les apprenants
+sont responsables des erreurs ou des omissions qui pourraient survenir en utilisant une IA
+générative et doivent s'assurer de la véracité des informations avant de les utiliser dans leurs
+travaux.
+
+Article 5 : Développement des compétences en matière de méthodologie et d’esprit
+critique.
+
+Les apprenants doivent s'engager à améliorer continuellement leurs compétences et
+connaissances en matière d'IA générative, notamment en matière d'éthique et de droit, afin
+de rester à jour et de mieux appréhender les enjeux associés à cette technologie.
+Il est essentiel que les apprenants fassent preuve d'esprit critique lorsqu'ils utilisent une IA
+générative. Ils doivent être en mesure d'évaluer les résultats et les recommandations de l'IA
+générative, de les comparer à d'autres sources et de les remettre en question si nécessaire.
+
+Article 6 : Développement des compétences techniques et des usages des systèmes IA
+génératives
+
+Il est essentiel que les apprenants possèdent une solide expertise technique en matière d'IA
+génératives. Ainsi, il est attendu de ces derniers qu'ils approfondissent leurs connaissances
+non seulement dans le domaine du "prompt engineering", mais également dans des domaines
+
+
+
+Année 2024 – Angelo Montoni / Julien Morice – Version 090420241705
+

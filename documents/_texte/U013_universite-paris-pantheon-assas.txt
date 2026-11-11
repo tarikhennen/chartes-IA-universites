@@ -1,0 +1,109 @@
+                 Engagement étudiant
+            concernant l’usage de l’IA à l’IFP
+En tant qu'étudiant de l'Institut Français de Presse de l'université Paris-Panthéon-Assas, je reconnais
+avoir pris connaissance des conditions d’utilisation des IA génératives concernant mes rendus et devoirs
+accomplis dans le cadre de ma formation.
+
+Je peux utiliser l'IA générative comme un outil d’appui pour mes travaux personnels, mais non comme
+un substitut à ma réflexion personnelle. Les usages possibles incluent :
+
+        ●   Brainstorming, exploration d’idées.
+        ●   Recherche d’informations préliminaires sur un sujet.
+        ●   Aide à la reformulation d’une idée.
+        ●   Identification de ressources bibliographiques.
+        ●   Rédaction et style (orthographe, synonymes, syntaxe…).
+        ●   Proposition de plans préliminaires.
+        ●   Résumés ou synthèses provisoires.
+        ●   Mise en forme des références bibliographiques selon une norme (APA, MLA, etc.).
+        ●   Premiers jets pour des traductions.
+        ●   Génération de brouillons de code, scripts ou algorithmes.
+        ●   Création de graphiques, présentations ou images (signalés comme issus d’IAG).
+
+L’usage de l’IA peut être toléré dans les conditions indiquées plus haut. Cependant, certaines
+utilisations sont formellement interdites et feront l’objet de sanctions (de la note jusqu’à la
+procédure disciplinaire):
+
+        ●     Reprendre intégralement les phrases ou paragraphes produits par une IAG et les intégrer
+              tels quels dans un document dont je suis censé être l'auteur. Un tel usage constitue un
+              plagiat.
+         ● Inventer de fausses références, auteurs, articles, témoignages, verbatims d'entretiens,
+              données d'analyse. Cela relève de la fraude académique.
+         ● Transmettre des données personnelles (par exemple celles de vos enquêtés) à une IA dont
+              le fonctionnement implique un stockage externe ou un ré-entraînement des modèles, ce
+              qui est le cas par défaut de la quasi-totalité des IA commerciales comme ChatGPT ou
+              Perplexity. Cela inclut la transcription automatique d’entretiens qualitatifs ou l’analyse de
+              bases de données sensibles via des IA commerciales non sécurisées.
+         ● L’usage de l’IA est strictement interdit lors des examens (épreuves écrites terminales,
+              secondes chances, rattrapages, deuxième session), sauf mention contraire explicitement
+              indiquée par l’enseignant. Tout manquement constitue une fraude et m’expose à des
+              sanctions disciplinaires.
+Tout autre usage qui ne rentre pas dans les catégories citées parmi les usages interdits ou autorisés
+doit faire l'objet d'une demande auprès de l'enseignant concerné.
+
+
+
+
+1/2
+Ces utilisations sont autorisées sous deux conditions :
+
+      1.    Elles doivent être mentionnées clairement dans le cadre d'une IAgraphie présente en fin de
+            document, en précisant l’outil utilisé. Les prompts et les résultats des requêtes doivent être
+            conservés et pourront être demandés par l’enseignant.
+
+                    Exemple :
+
+            ChatGPT, "Donne moi une liste de références académiques sur la sociologie des problèmes
+            publics", requête effectuée le XX/XX/XX
+            Perplexity, "Traduis en anglais le texte suivant : [...]", requête effectuée le XX/XX/XX
+
+
+      2.    Elles doivent faire l’objet d’une présentation analytique expliquant la démarche, les outils
+            mobilisés (avec leur version), les difficultés et apports. Selon les rendus et les consignes des
+            enseignants, cette présentation peut figurer en introduction, dans une partie dédiée (par ex.
+            une section "méthodologie" dans un mémoire) ou en annexe.
+
+L’utilisation de l’IAG ne peut pas se substituer à ma réflexion et à mes lectures
+personnelles. Je suis donc pleinement responsable du contenu rendu, y compris des erreurs factuelles,
+des références inexactes, des formulations biaisées ou encore des plagiats produits par l’IA. En cas de
+fraude manifeste (par exemple des références inventées ou un texte entièrement généré sans travail
+critique de l’étudiant), je sais que les sanctions prévues par le règlement intérieur pourront s’appliquer.
+
+A ce titre, je m’engage à
+
+           ● Lire de manière analytique et critique les contenus proposés par l’IAG
+           ● Vérifier les informations auprès de sources fiables (ouvrages, articles scientifiques, données
+             officielles).
+           ● Citer correctement mes références et ne jamais reprendre celles générées par l’IA sans
+             vérification.
+           ● Maintenir mon esprit critique en évaluant la cohérence, la pertinence et la validité de ce qui
+             est proposé.
+
+Je reconnais également avoir pris connaissance des recommandations du Ministère de l'Éducation
+nationale, de l'enseignement supérieur et de la recherche de juin 2025 concernant le cadre d'usage de
+l'IA en éducation1, et notamment du fait que "l'utilisation d'une intelligence artificielle générative pour
+réaliser tout ou partie d'un devoir scolaire, sans autorisation explicite de l'enseignant et sans qu'elle soit
+suivie d'un travail personnel d'appropriation à partir des contenus produits, constitue une fraude".
+
+
+
+
+Prénom :                   Nom :
+Numéro étudiant :
+Niveau de formation et parcours :
+
+
+
+
+                                                                Date :
+                                                                Signature :
+
+
+
+
+1 Consultable ici : https://www.education.gouv.fr/media/227697/download
+
+
+
+
+2/2
+

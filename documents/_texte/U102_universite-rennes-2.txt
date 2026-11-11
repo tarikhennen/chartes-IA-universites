@@ -1,0 +1,173 @@
+           Direction d'Appui à la Pédagogie
+
+
+Intelligence artificielle générative (IAg) : guide d'avant usage
+La Direction d'Appui à la Pédagogie accompagne et sensibilise la communauté universitaire à la compréhension des usages de l'IAg et au respect du cadre
+réglementaire.
+
+Une page dédiée rassemble les informations essentielles pour mieux comprendre l'IA :
+
+      Cadre d'utilisation de l'IA à l'Université Rennes 2
+
+
+
+      Guide d'avant usage
+      Formations aux usages de l'IA
+
+Télécharger le guide d'avant usage
+
+
+
+ Transcription du guide d'avant usage de l'IAg
+
+IA générative : guide d’avant usage
+Qu’est-ce que l’IA ?
+
+L’intelligence artificielle (IA) est un domaine de l’informatique. L’IA générative (IAg) en est une branche : elle génère du contenu (texte, image, son, code, etc.) à
+partir de modèles entraînés sur de grandes quantités de données, qui lui permettent de produire des réponses probabilistes par prédiction.
+
+L’IAg ne "sait" rien : elle prédit la réponse qui a la plus grande probabilité de vous satisfaire. Ce n’est ni un moteur de recherche, ni un expert de votre domaine
+d’étude.
+
+Risques et limites
+
+      Impact environnemental : l’usage de l’IAg consomme plus d’énergie et d’eau qu’une recherche web classique. Générer une image haute définition par
+      l’IAg équivaudrait environ à la recharge complète d’un téléphone portable.
+      Confidentialité : ne jamais partager ses données personnelles ni celles d’autrui.
+      Hallucinations : l’IAg peut générer des réponses fausses très convaincantes. Toujours vérifier les résultats.
+      Biais : l’IAg reflète des stéréotypes présents dans ses données d’entraînement, variables selon les modèles.
+      Dépendance : un usage répété de l’IAg peut freiner le développement de l’esprit critique et ne remplace pas un professionnel humain.
+
+      Réversibilité : l’usage de l’IAg doit rester optionnel.
+
+       Vous devez rester capable de créer une tâche sans elle.
+
+
+
+      Propriété intellectuelle : l’IAg peut reproduire le style ou les idées d’autres créateurs sans pour autant les identifier clairement. Vérifiez toujours vos
+      productions : vous restez responsable des contenus que vous rendez ou diffusez.
+
+Se questionner avant de décider
+
+      Est-ce que j’ai vraiment besoin de l’IAg pour faire cette tâche ?
+      Est-ce que j’utilise une méthode d’apprentissage plutôt qu’une méthode de triche ?
+      Quel outil d’IAg choisir pour mon besoin ?
+      Comment arriver au résultat souhaité ?
+      Qu’est-ce que je veux vraiment produire ?
+      Suis-je sûr de l’information ?
+      Y avait-il d’autres choix ?
+
+Quels usages faire de l’IAg ?
+
+Exemples d’usages
+
+      Générateur de propositions : utile quand vous manquez d’inspiration pour démarrer une structure ou un brouillon.
+      Générateur de questions : l’IAg vous interroge pour préciser votre pensée, vous challenger sur vos réponses. Idéal pour approfondir un sujet que vous
+      maîtrisez déjà.
+
+Comment formuler un bon prompt ?
+
+C’est quoi un prompt ? Un prompt est l’instruction que vous donnez à l’IAg. Sa qualité détermine la pertinence de la réponse.
+
+Comment bien rédiger un prompt ?
+
+   1. Définir le rôle de l’IAg : "Tu es expert, experte en, tu agis comme..."
+   2. Expliciter l’objectif et la tâche : "Génère 10 questions de révision sur le sujet suivant : ..."
+   3. Préciser le contexte sans donner d’informations personnelles : "Adapte-le pour un niveau première année de master, ..."
+   4. Indiquer le format : liste, résumé, plan, tableau...
+   5. Ajouter des contraintes, des exigences de qualité : longueur, style, critères précis
+
+Quels outils privilégier ?
+
+Choisir son outil IA est un choix éthique, politique et responsable. Privilégiez les outils qui ne demandent pas d’informations personnelles (nom, adresse mail,
+etc.), gratuits et transparents sur l’utilisation de vos données.
+Même en version gratuite, vous pouvez vous rendre dans vos paramètres pour désactiver l’option "améliorer le modèle pour tous" si vous ne souhaitez pas que
+vos données entraînent les nouveaux modèles. Si vous ne trouvez pas l’option, demandez la procédure directement à l’IAg.
+
+Exemples d’outils à tester
+
+       Compar:IA : pour comparer les réponses de deux modèles d’IAg existants
+       DuckAI : pour accéder à des petits modèles IA sans création de compte
+       Mistral.ai : outil français d’IAg à privilégier
+
+Ne vous reposez pas sur une seule source. Testez plusieurs outils pour comparer les réponses.
+
+Réﬂexes à avoir avant de faire usage de l’IAg
+
+Trouver un article scientifique
+
+D’abord, faites vos recherches sur le web en utilisant Google Scholar ou les ressources des bibliothèques universitaires (BU) : moteur de recherche, CAIRN, HAL,
+... N’hésitez pas à demander de l’aide au service "Formation des publics" de la BU en écrivant à bu-formation [at] univ-rennes2.fr (bu-formation[at]univ-
+rennes2[dot]fr). Les bibliothécaires-formatrices peuvent vous accompagner dans vos recherches.
+
+Ensuite, utilisez une IAg connectée à Internet pour affiner, comparer ou résumer. Vérifiez toujours que les sources existent et que l’IAg ne s’est pas trompée.
+
+Rédiger un texte académique
+
+D’abord, rédigez votre brouillon vous-même. Structurez votre pensée, formulez vos arguments et vos hypothèses ainsi que vos questions.
+
+Ensuite, utilisez l’IAg pour relire, indiquer les fautes ou vérifier la cohérence. Le fond reste le vôtre.
+
+Illustrer un propos
+
+D’abord, recherchez sur une banque d’images libres de droits (Unsplash, Pixabay, Wikimedia, Flat Icône) ou créez l’image par vous-même ou en demandant à un
+pair.
+
+Ensuite, s’il n’y a pas d’autres solutions, rédigez un prompt très détaillé et n’oubliez pas de mentionner que l’image a été générée par IA.
+
+Création de fiches de révision
+
+D’abord, relisez votre cours pour en ressortir les éléments essentiels, puis échangez avec vos camarades pour partager vos méthodes et réviser ensemble.
+
+Ensuite, demandez à l’IA de créer des fiches de révisions à partir de vos prises de notes ou des supports de l’enseignant ou enseignante s’il ou elle a donné son
+accord.
+
+Structurer ses méthodes de travail
+
+D’abord, créez un planning avec les dates butoirs, les devoirs à rendre et le temps que vous allez consacrer à chaque tâche pour y parvenir.
+
+Ensuite, demandez-lui des techniques simples pour vous aider à structurer vos révisions, organiser votre temps de travail ou créer des exercices pour vous tester.
+
+Est-ce que j’ai le droit ?
+
+Rappel du cadre universitaire
+
+Le règlement des études de l’Université stipule :
+
+Dans tout examen ou production évaluée, l’utilisation d’un outil ayant recours à une intelligence artificielle générative (ChatGPT, Mistral, Perplexity, etc.) ou à un
+outil de traduction (DeepL, Google Trad, etc.) n’est autorisée qu’à la condition de l’accord express par l’enseignant ou l’enseignante.
+
+Lorsque l’utilisation d’un tel outil est expressément autorisée, l’étudiant ou l’étudiante doit impérativement mentionner, de manière explicite, tout recours à l’outil
+et comme il ou elle doit le faire pour n’importe quel emprunt ou citation d’une source externe. Toute génération non déclarée de contenu (idées, rédaction) par
+une assistance technologique est susceptible de poursuites disciplinaires.
+
+Faire preuve de bon sens dans ses études
+
+Votre réflexion et votre travail personnel ne doivent jamais être délégués à une IAg. Vous êtes seul responsable du rendu final.
+
+L'utilisation excessive de l’IA peut nuire au développement de vos compétences et de votre expertise métier.
+
+Déclarer son usage
+
+Tout contenu généré ou modifié par une IAg doit être explicitement cité. Indiquez le pictogramme adapté, l’outil utilisé et toutes autres informations que
+l’enseignant ou enseignante vous demandera.
+
+Pictogrammes
+
+       Deux engrenages pour illustrer une assistance majeure : l’IA a fait le gros du travail
+       Un visage de profil associé à un engrenage de taille équivalente pour illustrer une assistance partagée : co-production homme-machine
+       Un visage de profil associé à un petit engrenage pour illustrer une assistance limitée d'aide à la correction
+       Une croix pour illustrer l'absence d'utilisation de l'IAg : création 100% humaine
+
+Mesurer son usage de l’IA générative
+
+Nous vous proposons un outil vous permettant de concilier innovation et éthique. Avant de vous plonger dans l’usage de l’IA générative, apprenez à évaluer votre
+usage avec notre jauge des pratiques, allant de faibles risques aux critiques, en vous plaçant sur cette échelle.
+
+Le but de ce positionnement est de vérifier que vous savez comment "Se faire assister sans se faire remplacer" !
+
+   1. Support méthodologique : faible risque
+      Identifier les fautes de grammaire d’un texte déjà écrit, expliquer un concept complexe mal compris en cours, planifier un calendrier de révisions. Risque :
+      dépendance organisationnelle.
+   2. Aide à la recherche et à l’apprentissage : modéré
+

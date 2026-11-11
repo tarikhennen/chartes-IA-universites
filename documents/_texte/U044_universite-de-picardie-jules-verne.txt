@@ -1,0 +1,66 @@
+Charte de bonnes pratiques
+pour l’usage des
+intelligences artificielles
+génératives
+à l’Université de Picardie
+Jules Verne
+
+
+Version validée au CA du 12 mars 2026
+       Préambule :
+       Le déploiement et l’adoption de systèmes d’intelligence artificielle (IA), en particulier les IA
+       génératives, dans la société est une opportunité autant qu’un risque (cf. Annexe 1). Il en est
+       de même dans l’enseignement supérieur concernant l’innovation et l’excellence, qui ont
+       pour finalité de faire avancer les sciences, produire des connaissances, développer des
+       compétences et préparer les jeunes générations à le faire. Cette charte vise à encadrer
+       l’utilisation de ces technologies de manière éthique, responsable et durable. Elle s’adresse à
+       l’ensemble des utilisatrices et utilisateurs de l’établissement, qu’il s’agisse de la population
+       étudiante ou des personnels (enseignants, enseignants-chercheurs et fonctions support
+       et soutien).
+
+       Cette charte1 repose sur quatre principes fondamentaux : curiosité, transparence,
+       précaution et parcimonie. La curiosité encourage l’exploration et la formation en continu,
+       en s’appuyant sur l’intérêt et l’engagement des utilisateurs. La transparence garantit que
+       les processus et les décisions prises par les outils d’lA générative (IAg) sont autant que
+       possible compréhensibles et accessibles à tous. Le principe de précaution assure que les
+       risques sont anticipés et gérés de manière proactive. Enfin, la parcimonie, en lien avec
+       la volonté de sobriété numérique, vise à utiliser les ressources de manière judicieuse et
+       responsable, en minimisant particulièrement l’impact environnemental préoccupant de
+       l’IA générative. En adoptant ces principes, nous nous engageons à créer un environnement
+       où les solutions d’IA génératives sont utilisées de manière éthique, responsable, durable et
+       bénéfique pour tous.
+
+       La charte s’inscrit dans le cadre de la législation applicable (Règlement Général de
+       Protection des Données, Sécurisation et Régulation de l’Espace Numérique, Code de
+       l’éducation) et respecte le règlement 2024/1689 du Parlement Européen / Conseil Européen
+       du 13 juin 2024, qui est le premier acte législatif sur l’intelligence artificielle (IA). Il est paru
+       au Journal Officiel de l’Union Européenne (JOUE) le 12 juillet 2024. Ce règlement sur l’IA
+       est applicable à partir du 2 août 2026, mais l’entrée en vigueur de certaines dispositions
+       s’échelonne entre le 2 février 2025 et le 2 août 2027.
+
+       Le déploiement de la Charte à l’UPJV initie la mise en place d’une stratégie IA réfléchie dans
+       un premier temps à l’échelle de l’Alliance A2U2 puis déclinée au sein de l’établissement.
+       Cette stratégie vise à accompagner le déploiement de l’IA (en particulier l’IA générative),
+       au sein de notre établissement et l’élaboration prochaine d’un Schéma Directeur du
+       Numérique et de l’IA. Ainsi, au-delà de la présente charte, des actions de sensibilisation, de
+       formation ou d’accompagnement aux usages de l’IA générative dans nos métiers seront
+       proposés, mais également des ateliers de réflexion sur les enjeux et les transformations
+       engendrées par ces derniers au sein de notre écosystème universitaire.
+
+       Enfin, le cadre proposé par cette charte sera régulièrement réexaminé au vu notamment
+       des évolutions technologiques et des usages.
+
+
+
+
+      1
+        La présente charte est une adaptation de la proposition de charte IA Générative & ESR produite dans le cadre du
+      réseau des projets DEMO-ES https://www.demoes-pro3.fr/proposition-charte-ia-esr/
+      2
+        A2U : Alliance stratégique entre l’Université d’Artois, l’Université de Picardie Jules Verne et l’Université du Littoral Côte
+      d’Opale https://a2u.fr/.
+
+
+
+2   Charte de bonnes pratiques pour l’usage des intelligences artificielles génératives
+

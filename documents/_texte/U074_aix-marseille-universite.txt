@@ -1,0 +1,59 @@
+     Charte sur l’utilisation de l’intelligence artificielle au sein de l’UFR Sciences d’Aix-Marseille Université
+                                  Approuvée par le Conseil d’UFR le 10 juillet 2026
+
+Pour rappel, les Modalités de contrôle des connaissances et des compétences (M3C) de niveau I d’amU stipulent que :
+L’utilisation par les étudiants d’outils d’intelligence artificielle […] lors de la production de travaux personnels ou de
+groupe de toute nature, susceptible de faire l’objet d’une évaluation, est considérée comme une fraude passible de
+poursuites disciplinaires, à moins qu'elle ne soit expressément autorisée. Dans ce cas, elle devra être explicitement
+mentionnée, comme n’importe quel emprunt ou citation d’une source externe.
+La présente charte établit le positionnement de l’UFR Sciences d’Aix-Marseille université (amU) relatif à l’usage de
+l’intelligence artificielle (IA), notamment générative (IAg), et définit les conditions dans lesquelles les étudiants peuvent
+y recourir dans le cadre de leurs activités universitaires, sous réserve du respect des dispositions légales,
+réglementaires et des règles internes en vigueur au sein de l’université.
+
+
+1. Positionnement de l’UFR Sciences
+Les principes retenus par l’UFR Sciences concernant l’usage de l’IA dans l’apprentissage universitaire ainsi que les
+règles applicables aux étudiants, dans le respect des principes fixés par amU dans les documents de cadrage des M3C
+de niveau I sont les suivants :
+    •       Encadrer les usages de l’IA, quand ils sont autorisés par les enseignants, pour qu’ils soient raisonnés et
+            maîtrisés, fondés sur la formation, l’esprit critique et l’accompagnement dans les apprentissages.
+    •       Garantir le respect de l’intégrité scientifique, de la propriété intellectuelle, des données personnelles, de
+            l’autonomie de réflexion et de la rigueur du raisonnement, tout en limitant les risques de plagiat et en assurant
+            la transparence des usages de l’IA.
+    •       Anticiper les risques liés aux biais et aux productions par l’IA d’informations fausses, inventées ou trompeuses
+            présentées comme vraies (hallucinations), afin de garantir un usage critique et maîtrisé.
+    •       Promouvoir une sobriété numérique face à l’impact environnemental croissant des outils d’IA générative.
+
+2. Règles à destination des étudiants concernant l’usage de l’IA
+    •       Lorsque l’usage de l’IA est autorisé par l’enseignant, l’étudiant doit faire preuve de transparence et d’honnêteté
+            intellectuelle en le mentionnant explicitement, comme tout emprunt ou toute citation provenant d’une source
+            externe. À ce titre, l’étudiant doit indiquer les outils mobilisés, les utilisations et les passages concernés. Il pourra
+            les renseigner dans un tableau du type figurant ci-après, donné en exemple, et y faire référence dans la
+            webographie.
+        IAg utilisées         Utilisation                       Passage(s) concerné(s)        Précisions complémentaires
+        Ex. : Mistral, etc.   Ex. : reformulation, génération   Ex. : paragraphe X de         Ex. : intégration, modification,
+                              d’idées, traduction, etc.         l’introduction, etc.          reformulation, etc.
+
+
+
+
+    •       L’étudiant est tenu d’avoir un usage raisonné et maîtrisé de l’IA, dans le respect de l’intégrité scientifique, de la
+            propriété intellectuelle et des données personnelles. Il veille à ce que tout document issu d’une IA fasse l’objet
+            d’une relecture critique et attentive, notamment afin de prévenir les risques liés aux hallucinations de l’IA, et
+            prend en compte l’impact environnemental de son usage.
+
+3. Rôle des enseignants
+    •       Lorsqu’un enseignant autorise l’usage d’outils d’IA dans une activité pédagogique, il précise les conditions de
+            cet usage. Ces précisions doivent permettre aux étudiants de comprendre ce qui relève d’un appui ou d’une
+            aide acceptée, et ce qui relèverait d’une substitution au travail personnel attendu.
+    •       L’enseignant, dans la mesure de ses compétences, contribue à la formation et à la sensibilisation des étudiants
+            aux usages appropriés et aux limites de ces outils, notamment au regard des risques d’erreurs, de biais et
+            d’hallucinations, ainsi que de leurs impacts environnementaux.
+    •       L’enseignant précise les conséquences, notamment disciplinaires, d’un usage non conforme aux consignes, en
+            particulier lorsque l’IA est utilisée pour produire tout ou partie d’un travail sans recul critique, sans vérification
+            ou sans transparence.
+
+
+Document approuvé par le Conseil UFR du 10 juillet 2026
+

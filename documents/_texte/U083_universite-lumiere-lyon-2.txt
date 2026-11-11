@@ -1,0 +1,86 @@
+IA génératives : quels repères pour
+l’enseignement à l’ULL2 ?
+
+Jean-Yves Poitrat, responsable du Service de pédagogie du supérieur (SPS), 22 mai 2024
+
+
+
+Ce texte fait suite aux nombreuses questions des enseignantes et enseignants qui
+constatent le développement de l'usage des intelligences artiﬁcielles génératives (IAG)
+par les étudiantes et étudiants, y compris en situation d'examen. Il s’appuie sur la veille
+eCectuée au SPS, sur les conférences de la matinée d’étude interne organisée par le
+SPS le 14 mai 2024 et sur les productions des enseignants et enseignantes lors des
+ateliers de cette matinée. Il s’agit d’idées en vue de trouver des repères, de permettre à
+chacun et chacune de trouver ses propres repères et à la communauté universitaire
+d’avancer vers des repères communs. Certaines propositions plus incertaines, ou
+diCiciles à mettre en œuvre, sont exprimées avec un point d’interrogation.
+
+  Repères généraux ............................................................................................ 1
+  Que pourraient faire les enseignants et enseignantes ? ...................................... 2
+  Que pourrait faire l’établissement ? .................................................................. 3
+  La question des devoirs et examens .................................................................. 4
+
+
+
+Repères généraux
+
+- Les outils comme les pratiques sont en évolution très rapide. Les repères que
+l’université pourrait se donner aujourd’hui seront certainement obsolètes demain.
+
+- Les IAG peuvent être considérée comme des outils d'assistance, neutres, plus ou
+moins ﬁables, dont certains usages peuvent être légitimes dans le cadre universitaire et
+d'autres non, de même que le recours à des ressources documentaires, des
+correcteurs orthographiques, des logiciels de calcul ou des proches compétents. Parmi
+les assistances oCertes : génération d’idées, de textes, d’images, de code informatique,
+traduction, transformation, analyse, synthèse… le tout à partir de demandes exprimées
+en langage naturel, à l’écrit voire à l’oral, puis aCinées en conversant avec la machine.
+
+- La plupart des productions intellectuelles demandées à des étudiantes et étudiants en
+contexte d’enseignement peuvent être facilitées par l’usage d’une IAG. Or la production
+
+                                                    Page 1 sur 7
+intellectuelle dans le cadre de l’enseignement, peut relever de deux intentions :
+l’apprentissage d’une part (la valeur de la production, en tant que processus, vaut pour
+les apprentissages qu’elle génère), l’évaluation de l’apprentissage d’autre part (la
+production, en tant que résultat, apporte la preuve de l’apprentissage). Le recours à
+l’IAG pourra être considéré comme légitime si elle ne dispense pas l’étudiant ou
+l’étudiante d’eCectuer les apprentissages, dans le premier cas, si elle n’empêche pas
+l’enseignant ou l’enseignante d’évaluer l’atteinte de l’objectif d’apprentissage, dans le
+deuxième cas.
+
+- Le recours à une IAG, fût-il légitime du point de vue pédagogique, n’est jamais neutre :
+les IAG ont un impact environnemental (consommation énergétique) et souvent un
+impact social (conditions de travail de la main d’œuvre utilisée pour l’entrainement des
+modèles). Les IAG grand public semblent faire peu de cas du respect des droits
+d’auteurs et des données personnelles (par l’utilisation peu regardante des données
+présentes sur le net et des données chargées par les utilisateurs). Elles ont tendance à
+reproduire et donc à diCuser les idées dominantes et préjugés des populations aisées
+des pays occidentaux.
+
+- L’adoption massive des IAG par les étudiantes et étudiants oblige les enseignantes et
+enseignants à s’y intéresser pour être en mesure de réguler leur usage en situation
+pédagogique, voire les intégrer, au bénéﬁce de la qualité des apprentissages. Une
+interdiction systématique n’est ni réaliste ni souhaitable, tant en situation
+d’apprentissage qu’en situation d’examen (ce qui implique de préciser les règles
+propres à chaque examen, cf. infra).
+
+
+Que pourraient faire les enseignants et enseignantes ?
+
+- S’informer, se former, expérimenter, échanger avec des pairs, échanger avec des
+étudiants et étudiantes pour : connaitre les usages des étudiants et étudiantes, avoir
+une connaissance pratique des outils, se faire leur propre idée des opportunités et
+risques de l’usage de ces outils dans un cadre pédagogique, construire leur position de
+pédagogue et justiﬁer cette position auprès des étudiants.
+
+- Réinterroger la pertinence des productions demandées aux étudiants, au regard de
+l’intention pédagogique qui les justiﬁait d’une part, des possibilités oCertes par les IAG
+d’autre part. Réviser le cas échéant les modalités choisies.
+
+- Apprendre aux étudiants et étudiantes à travailler tant avec que sans outil numérique.
+
+
+
+
+                                         Page 2 sur 7
+

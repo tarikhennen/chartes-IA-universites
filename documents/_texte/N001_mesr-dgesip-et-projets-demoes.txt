@@ -1,0 +1,110 @@
+IA générative & ESR : propositions de charte & guides
+(version du 27 septembre 2025)
+Préambule : La charte proposée dans ce document sous licence Creative Commons BY-NC-
+SA est issue des travaux d’universités (notamment lauréates de l’AMI DemoES). Elle est
+actuellement en construction et en demande de contributions. Elle peut être reprise en l'état
+ou adaptée par les établissements à leurs propres spécificités.
+Ce document est divisé en 4 sections complémentaires sur le déploiement et l’usage de
+solutions d’IA générative :
+A. Une charte destinée aux utilisatrices et utilisateurs des établissements. Il s’agit d’une
+   proposition faite aux établissements, qui peut être reprise en complément de textes
+   existants (charte informatique, règlement intérieur) : elle précise les recommandations et
+   interdictions réglementaires minimales.
+B. Un guide de bonnes pratiques destiné aux usagers, qui propose des préconisations
+   d’usages compatibles avec les limites imposées par la charte.
+C. Un guide réflexif sur le déploiement destiné aux gouvernances, qui détaille des
+   préconisations de mise en œuvre des mesures.
+D. Une bibliographie recensant les sources utilisées.
+
+
+A. Charte IA générative
+Le déploiement et l’adoption de systèmes d’Intelligence Artificielle (IA) dans la société est une
+opportunité autant qu’un risque. Il en est de même dans l’enseignement supérieur. Cette charte
+vise à encadrer l’utilisation de ces technologies de manière éthique, responsable et durable.
+Elle s’adresse à l’ensemble des utilisatrices et utilisateurs des établissements d’enseignement
+supérieur, qu’il s’agisse de la population étudiante ou des personnels (enseignants,
+enseignants-chercheurs et fonctions support et soutien).
+Cette charte repose sur quatre principes fondamentaux : curiosité, transparence, précaution
+et parcimonie. La curiosité encourage l’exploration et la formation en continu, en s’appuyant
+sur l’intérêt et l’engagement des utilisatrices et utilisateurs. La transparence garantit que les
+processus et les décisions prises par les outils d’lA générative (IAg) sont autant que possible
+compréhensibles et accessibles à tous. Le principe de précaution assure que les risques sont
+anticipés et gérés de manière proactive. Enfin, la parcimonie, en lien avec la volonté de
+sobriété numérique, vise à utiliser les ressources de manière judicieuse et responsable, en
+minimisant particulièrement l’impact environnemental préoccupant de l’IA générative. Ces
+principes sont déclinés ci-après en termes d’obligations et d’interdictions (repérées par un🚩).
+
+En adoptant ces principes, les établissements s’engagent à créer un environnement où les
+solutions d’IA génératives sont utilisées de manière éthique, responsable, durable et bénéfique
+pour tous, tout en respectant les valeurs de curiosité, transparence, précaution et parcimonie.
+La charte n’a pas pour objectif d’être exhaustive sur la manière d’utiliser les outils d’IA
+générative dans l’enseignement supérieur et la recherche, mais propose un cadre
+d’application. Elle s’accompagne d’un guide de bonnes pratiques qui évoluera au fil du temps
+et qui peut aider à lever les doutes à propos de l’application des recommandations et
+interdictions formulées. La charte s’inscrit dans le cadre de la législation applicable (Règlement
+Général de Protection des Données, Sécurisation et Régulation de l’Espace Numérique, code
+de l’éducation) et respecte le règlement 2024/1689 du Parlement Européen et du Conseil
+
+
+                                          Page 1 sur 17
+Européen du 13 juin 2024, qui est le premier acte législatif sur l'intelligence artificielle (IA). Il
+est paru au Journal officiel de l'Union européenne (JOUE) le 12 juillet 2024. Ce règlement sur
+l’IA est applicable à partir du 2 août 2026, mais l’entrée en vigueur de certaines dispositions
+s’échelonne entre le 2 février 2025 et le 2 août 2027.
+
+                                                  GÉNÉRALITÉS (1/2)
+                  Recommandations                                Obligations et interdictions
+    • Utiliser l’IAg avec discernement et 🚩 Il est proscrit d’utiliser une IAg sans avoir
+      parcimonie pour des cas d’usages dont le évalué la pertinence de cette action en la
+      bilan d’impacts est positif, après avoir comparant avec d’autres approches
+      effectué une analyse préalable de type   possibles.
+      bénéfices-risques (par ex. SWOT) et un
+      suivi (évaluation) des opportunités et
+      menaces.
+
+    • Utiliser les outils d’IAg validés par 🚩 Il est proscrit d’utiliser des IAg non
+      l’établissement1   pour    des   besoins   validées     par     l’établissement,     en
+      professionnels pertinents, en respectant   particulier si cette utilisation implique  la
+      les mêmes règles de sécurité que pour les  transmission d’informations sensibles
+      applications numériques.                   (par exemple : protégées, confidentielles,
+                                                 personnelles, stratégiques, confiées par
+                                                 un tiers…).
+                                                🚩 Il est proscrit d’utiliser des IAg non
+                                                 validées ou grand public pour traiter des
+                                                 données sensibles.
+
+    • Privilégier l’utilisation d’IAg la plus « open- 🚩 Il est proscrit d’engager des dépenses
+      source » possible (échelles en cours de          pour un outil d’IAg à usage professionnel
+      définition2).                                    sans      validation      du    besoin      par
+    • Prévoir la réversibilité3 des services métier    l’établissement, dans le respect de la
+      au travers d’un mode utilisable sans             réglementation.
+      système d'IA.                                   🚩 Il est proscrit d’utiliser des logiciels tiers,
+    • Préserver la confidentialité et la valeur        en particulier des outils d’IAg, sans avoir
+      stratégique        de     l’information    dans  vérifié que le traitement ou l’hébergement
+      l’utilisation des outils qui manipulent l’IA.    des données est bien respectueux des
+                                                       lois et règlements européens sur la
+                                                       protection des données (RGPD, LIL).
+
+    • Après relecture et validation, assumer la
+      pleine responsabilité des contenus
+      générés par IAG même s’ils comportent
+      des erreurs.
+
+    • Contribuer à la sensibilisation des
+      étudiants, personnels enseignants et
+      personnels        non-enseignants     aux
+      opportunités et risques liés à l’IAG.
+
+
+
+1 Ici, « validé » signifie « que l’établissement a acquis » ou « que l’établissement préconise, explicitement, par l’intermédiaire
+
+    de documents adoptés par les conseils ou émanant des services centraux ».
+2
+  https://en.wikipedia.org/wiki/Open-source_artificial_intelligence
+3
+  La réversibilité est le fait de s’assurer de la capacité de traiter le même problème, sans l’usage d’un système d’IA.
+
+
+                                                        Page 2 sur 18
+

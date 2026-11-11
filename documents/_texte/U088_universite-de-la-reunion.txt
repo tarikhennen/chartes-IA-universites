@@ -1,0 +1,91 @@
+                                                                Charte IAg v1 - décembre 2025
+
+
+
+
+   Charte sur l'utilisation de l'Intelligence
+     Artificielle Générative au sein de
+         l'Université de la Réunion
+I - Préambule                                                                                      1
+II - Méthodologie                                                                                  2
+III - Positionnement de l'Université de la Réunion                                                 2
+IV - Consignes Générales                                                                           3
+V - Consignes Spécifiques à l’Usage dans le Cadre Pédagogique                                      4
+VI - Cas d’Usages et Consignes Spécifiques à l’Activité de Recherche                               6
+VII - Consignes pour les Personnels Administratifs et Techniques                                   6
+VIII – Condition d’entrée en vigueur et évolutions                                                 7
+IX - Références                                                                                    7
+X - Annexes                                                                                        8
+  Glossaire                                                                                        8
+  Comment citer un usage de l'Intelligence Artificielle ?                                          9
+
+
+
+
+         I - Préambule
+Le développement rapide des Systèmes d'Intelligence Artificielle Générative (SIAG),
+accessibles au grand public depuis fin 2022, offre de nouvelles opportunités significatives dans
+tous les domaines, y compris l'enseignement supérieur, la recherche, et l'administration.
+L'Université de la Réunion prend acte de la diffusion massive de ces outils.
+
+Cette charte vise à encadrer l'utilisation de l'IA générative (IAg) au sein de l'Université, dans un
+esprit de responsabilité, de transparence et de respect des valeurs universitaires, tout en
+encourageant un apprentissage enrichi et innovant. L’élaboration et l’application de cette
+charte s’inscrivent dans le cadre des objectifs généraux du service public de l’enseignement
+supérieur fixés à l’article L. 123-2 du code de l’éducation. La Charte IAg s'adresse à l'ensemble
+de la communauté universitaire : étudiants, enseignants-chercheurs, enseignants, chercheurs,
+et personnels administratifs et techniques.
+
+
+
+                                                                                                   1
+                                                                Charte IAg v1 - décembre 2025
+
+
+L'Université est consciente que l'IAg ne représente pas seulement un changement
+technologique, mais engendre des transformations importantes nécessitant une réflexion
+globale et interdisciplinaire.
+
+         II - Méthodologie
+La charte IAg n’a pas vocation à ériger des barrières à l’usage des IAg, mais plutôt à donner
+des clés pour un usage raisonné, sécurisé et constructif de ces outils. Et conformément aux
+principes et consignes d’usage énoncés dans la présente charte, il est précisé que la rédaction
+de cette charte a été assistée par un outil d'IAg, cité ci-dessous :
+
+Google. (2025). NotebookLM (Gemini 2.5 Flash) [RAG]. https://notebooklm.google.com,
+Prompt : “Propose une Charte IA pour l’Université de La Réunion en t’appuyant sur les
+informations contenues dans les sources fournies” (sources fournies : voir partie VIII -
+Références)
+
+
+
+
+Le document généré a ensuite été fortement retravaillé et complété, puis validé par les
+participants du Groupe de Travail IA du Comité Numérique de l’Université de La Réunion.
+
+Pour toute question sur la charte IAg ou sur l’usage de l’IA à l’Université de La Réunion, vous
+pouvez adresser un e-mail au Groupe de Travail IA : gt-ia@listes.univ-reunion.fr
+
+
+         III - Positionnement de l'Université de la Réunion
+L'Université de la Réunion considère l'IA générative comme un outil puissant permettant
+d'assister efficacement ses membres dans leurs activités, offrant potentiellement des gains de
+temps et d'efficacité, et stimulant l'innovation. Cet outil ne saurait en aucun cas se substituer
+aux démarches intellectuelles attendues des étudiants et des personnels dans le cadre de
+leurs missions ou de leurs études. Dans le cadre du développement des compétences, de la
+culture et de la citoyenneté numériques, il est rappelé l’importance de développer les
+compétences nécessaires à l’obtention des diplômes au sein de l'Université de La Réunion,
+sans avoir recours de manière inconsidérée à des outils de type IA (exemples : capacités
+rédactionnelles ou d’analyse, esprit critique).
+
+L'Université de La Réunion s'engage à une utilisation éthique, responsable et pédagogique
+des IA génératives. Elle soutient une réflexion critique et éthique sur l'IA, contribuant au débat
+sur son impact sociétal.
+
+Principes fondamentaux de l'utilisation de l'IA Générative à l’Université de La Réunion :
+
+
+
+
+                                                                                                     2
+

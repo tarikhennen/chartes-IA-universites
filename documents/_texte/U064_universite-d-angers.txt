@@ -1,0 +1,81 @@
+                           Charte d'utilisation de l'IA générative
+                                      Université d’Angers
+Préambule
+Cette charte définit les principes d’un usage raisonné, équitable et écologiquement
+soutenable de l’Intelligence Artificielle générative 1 dans le cadre des pratiques
+pédagogiques à l’Université d’Angers. Elle s’adresse à l’ensemble des apprenants.
+Elle s’inscrit dans une réflexion plus large sur l’évolution des pratiques académiques
+à l’ère numérique. L’usage de l’Intelligence Artificielle générative soulève en effet des
+questions importantes :
+       la nécessité de respecter la transparence, le droit d’auteur et le secret
+        professionnel,
+       l'importance de faire preuve d’esprit critique, les résultats générés par
+        l’Intelligence Artificielle générative n’étant pas toujours fiables (exemple : les
+        hallucinations), et étant susceptibles de suivre des préjugés et d’induire des
+        biais. L’IA générative n’est donc pas neutre, contrairement aux apparences,
+       le coût environnemental non négligeable de chaque requête en recourant à
+        l’Intelligence Artificielle générative, bien supérieur à celui d’une recherche
+        classique sur internet,
+       les limites des modèles d’Intelligence Artificielle générative, souvent entraînés
+        sur des données issues de contextes spécifiques, qui peuvent refléter des
+        biais lors d’usages ne relevant pas de ces contextes,
+       les effets négatifs et délétères sur la santé mentale
+
+
+    1. Principes généraux
+Un usage complémentaire et non substitutif
+Un outil d’Intelligence Artificielle générative ne saurait se substituer à l’analyse
+critique et à la réflexion personnelle de l’apprenant, deux objectifs essentiels de toute
+formation. L’Intelligence Artificielle générative peut en effet être utilisée comme un
+outil d’assistance dans la préparation des travaux, rapports et mémoires. Elle peut
+jouer un rôle notamment d’assistant linguistique et d’assistant à la recherche
+d’information. Cependant, les documents générés doivent faire l’objet d’une relecture
+critique et attentive : les informations et les sources doivent être vérifiées et citées.
+L’accord explicite de l’encadrant doit guider l’apprenant dans l’intégration éventuelle
+de l’Intelligence Artificielle générative dans son processus de travail. Sauf indication
+
+1
+ On entend par IA générative une intelligence artificielle qui peut inventer du contenu nouveau en
+s’inspirant de ce qu’elle a appris à partir de nombreux exemples.
+contraire, les travaux réalisés par les apprenants ne peuvent pas être produits par de
+tels outils. Avant tout usage de l’IA générative, en cas de doute, l’apprenant ne doit
+pas hésiter à se rapprocher de son enseignant afin de clarifier les modalités
+d’utilisation autorisées ou attendues dans le cadre spécifique de son travail. Cette
+concertation préalable permet d’assurer une cohérence avec les exigences
+méthodologiques et scientifiques du projet, et de prévenir tout usage inapproprié.
+Le respect des exigences académiques et scientifiques
+Les travaux soumis doivent respecter les standards de rigueur scientifique, d’éthique
+et d’originalité exigés par l'université. Toute utilisation d’outils d’Intelligence Artificielle
+générative ne doit pas compromettre ces exigences. Cela constituerait un cas de
+fraude.
+Depuis juin 2023, le Code de conduite européen pour l’intégrité scientifique
+recommande la transparence : cacher/taire l'utilisation de l’Intelligence Artificielle
+générative ou d'outils automatisés dans la création de contenu ou dans la rédaction
+de travaux est désormais considéré comme un manquement à l’intégrité scientifique.
+Ainsi, il est interdit de présenter la production d’une IA (texte, image, musique,
+vidéo...) comme la sienne, et sans citer correctement ses sources, suivant les règles
+de l’Université d’Angers.
+La transparence et la traçabilité
+L’utilisation de l’Intelligence Artificielle générative doit être mentionnée dans le
+document final (dans une section dédiée, en annexe, en note de bas de page ou en
+introduction), avec une explication de son usage précis. Pour ce faire, l’Université
+d’Angers met à disposition un questionnaire permettant aux apprenants de déclarer
+leur utilisation de l’Intelligence Artificielle générative.
+
+
+   2. Responsabilités de l’apprenant et de l’enseignant
+Responsabilités de l’apprenant
+      L’apprenant doit avoir l’accord de l’enseignant ou de son tuteur pour utiliser
+       l’Intelligence Artificielle générative.
+      Il est interdit de transmettre des données personnelles ou confidentielles (par
+       exemple, dans des retranscriptions d’entretiens ou des données internes à
+       une entreprise d’accueil de stage). Seules des données relevant du domaine
+       public peuvent être transmises.
+      L’apprenant est responsable de la vérification de l’exactitude des informations
+       et des citations issues de l’Intelligence Artificielle générative. Il doit notamment
+       citer correctement les sources utilisées pour toute information obtenue via des
+       outils d’Intelligence Artificielle générative, pour ne pas réaliser un plagiat :
+       https://www.univ-angers.fr/fr/vous-etes/etudiant-e/examens/plagiat.html
+      Il doit mentionner l’usage de l’Intelligence Artificielle générative et expliquer
+       comment il a procédé dans une section dédiée du document.
+

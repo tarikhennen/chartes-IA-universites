@@ -1,0 +1,6 @@
+# Documents retirés après lecture
+U041 | pas de passage sur l'IA dans la charte du doctorat
+U027 | l'IA n'y apparaît que comme thème de recherche
+U094 | doublon du règlement intérieur de l'ED 642 VAAME (U066)
+U122 | note au CA sans contenu IA ; la section IAG est dans U033
+U130 | doublon : la charte de l'IA générative de l'UPF est l'annexe du règlement des études (U129)

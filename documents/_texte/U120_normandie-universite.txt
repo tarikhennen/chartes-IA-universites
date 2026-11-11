@@ -1,0 +1,115 @@
+Émetteur
+Pôle Formation doctorale
+François DAUPHIN
+
+
+Diffusion
+Le 16 juin 2025
+
+
+
+          COMPTE RENDU DE REUNION                                Réunion plénière du Collège des Ecoles Doctorales normandes
+
+          Lieu                                                   Date et heure                        Durée
+
+          Visio zoom - session enregistrée                       19 mai 2025 à 14 h
+
+Présent-e-s :
+Marie-Samira Abdallah, Emilie Bouet, Hugo Chemin, Carole Christen, Antoine Corre-Basset, Andréane Cuissart, Vincent Dalla Libera,
+François Dauphin, Justine Delaroque, Emilie Despois, Olivier Etard, Gilles Gasso, Côme Ghadi, Laura Gilbert, Martine Guénolé,
+Alexandre Guilbaud, Thomas Guillemin, Catherine Godard, Yazid Hafsi, Arnaud Haquet, Vincent Hardy, Jean Juraszek, Jean-Luc
+Lamotte, Constance Lange Gibourdel, Nicolas Langlois, Elodie Leblanc, Pierre Lefebvre, Marie Legay, Raphaëlle Lemaire, Lynda Letêtu,
+Philippe Madeline, Sophie Mandeville, Alexandra Merle, Philippe Moguérou, Imane Mouffick, Damase Mouralis, Aurore Patey, Pauline
+Pélissier, Laurence Puechberty, Marine Ollivary, Clément Recher, Oriane Remadna, Céline Renault, Etienne Richard, Vincent Richard,
+Alain Rincé, Carol Santos Almonte, Zoé Sicard Delage, Patrice Vibert, Clara Vielcanet, Valérie Vignaux, Mathilde Wüllen
+
+Invité-e-s :
+Audrey Chaudron, Juliette Leclerc, Leïla Mehnane, Lyse Szymanski
+
+Excusé-e-s :
+Marie-Laure Cabon, Esther Camus, Xavier Portier, Marie-Noëlle Poulain, Christophe Rochais, Fanny Simon
+
+
+Ordre du jour :
+    1. Informations générales
+    2. Présentation d’un projet COFUND (Région Normandie)
+    3. Retour sur le test de la formation PHDOOC « Doctorat et poursuite de carrière »
+    4. Encadrement de l’IA générative en doctorat : étude d’un cas
+    5. Questions diverses
+
+François Dauphin (FD) ouvre la séance du CED à 14h05. FD rappelle que la prochaine réunion du CED de l’année 2024-2025 est prévue
+le lundi 23 juin 2025 à partir de 14h en visioconférence. Un planning prévisionnel doit être discuté pour l’année 2025-2026.
+
+
+    1. Informations générales
+
+Mouvements dans les directions des écoles doctorales et les maisons du Doctorat
+
+FD informe les membres du CED de l’arrivée de Sarah Abecassis à la Maison du Doctorat de l’UCN en tant que gestionnaire de l’ED
+508 NC en remplacement de Tiffany Bouet. FD informe également que suite à la démission de Sandrine Lascaux de sa fonction de
+directrice -adjointe de l’ED 558 NH sur le site de l’ULHN (annoncée en CED du 15 mars 2025), le conseil de l’ED NH a élu Carole Christen
+lors de sa réunion du 31 mars 2025. FD donne la parole à Carole Christen pour se présenter. Carole Christen est Professeur d’Histoire
+Contemporaine à l’ULHN, responsable du master Histoire Recherche et membres du laboratoire IDEES. FD leur souhaite la bienvenue
+au nom de l’ensemble des membres du CED.
+
+
+
+
+       ESPLANADE DE LA PAIX / CS 14032 / 14032 CAEN CEDEX 5 Tél. +33 (0)2 31 56 69 57 E-mail communication@normandie-univ.fr www.normandie-univ.fr
+Césures en doctorat
+
+FD rappelle qu’il est possible de réaliser une période de césure pendant le doctorat avec des règles précises fixées au niveau national
+(un ou deux semestres consécutifs, motifs précis, …) et que l’organisation mise en place en Normandie définit deux périodes de
+remontées des dossiers de demandes en amont de chacun des semestres. Une 1ère réunion de la commission inter-établissement et
+inter-ED a eu lieu classiquement fin janvier/début février pour les césures devant débuter au 1er mars et une seconde réunion est
+placée courant juin pour les césures devant débuter au 1er septembre. A cet égard, FD rappelle que les dossiers de demandes doivent
+être remontées aux pôles doctoraux des établissements au plus tard le 6 juin 2025 par les doctorant.es, puis au plus tard le 13 juin
+2025 au pôle doctoral de Normandie Université pour la bonne tenue de la réunion de la commission césures, prévue le 17 juin 2025
+à 9h.
+
+Inscription en doctorat au titre de la VAE
+
+
+FD précise aux membres du CED que dans le cadre des demandes d’inscription en doctorat au titre de la VAE, la période de remontée
+des dossiers aux maisons du Doctorat par les services de formation continue des établissements se termine cette année au 22 mai
+2025 pour un retour au pôle formation doctorale de Normandie Université au plus tard le 28 mai 2025 à midi. La commission inter-
+ED, inter-établissement et inter-services est prévue le 11 juin 2025 à partir de 9h. FD rappelle que cette commission doit comporter
+obligatoirement des collègues des services de formation continue des établissements concernés par les demandes, des collègues des
+maisons du doctorat concernées, des membres de l’équipe de direction des ED concernées, ainsi que des collègues d’établissement
+en miroir et des directions d’ED d’un domaine disciplinaire différent (SHS / STS). Cette commission a pour objectif de donner un avis
+rapidement pour l’organisation et la réalisation des commissions au sein des ED pour l’évaluation de l’éligibilité scientifique des
+dossiers avant le 15 juillet.
+
+
+Contrats doctoraux établissements et Normandie Recherche
+
+FD présente une synthèse des informations à sa disposition concernant la répartition des contrats doctoraux établissements et
+Normandie Recherche pour les huit ED normandes. Concernant les contrats doctoraux Normandie Recherche, les chiffres proposés
+ce jour devront être consolidés une fois le retour des avis de la commission permanente de la Région Normandie.
+
+                                                                       CD Etablissement
+     Ecoles doctorales                UCN             ULHN             URN          INSA              ENSICAEN           ENSA            Somme
+nBISE             497                  9                1               10           nc                  nc               nc               20
+NC                508                  3                1               3             *                   *               nc               7
+PSIME             591                  10               2               3             *                   *               nc               15
+MIIS              590                  3                2               3             *                   0               nc               8
+EGN               242                  1                0               1            nc                  nc               nc               2
+HSRT              556                  4                0               3            nc                  nc                ?               7
+NH                558                  4                1               5            nc                  nc                ?               10
+DN                 98                  1                0               3            nc                  nc               nc               4
+
+                                                                CD Normandie Recherche 100
+     Ecoles doctorales                UCN             ULHN           URN        INSA       ENSICAEN                      ENSA            Somme
+nBISE             497                  7                0             4          nc           nc                          nc               11
+NC                508                  3                1             3          nc           nc                          nc               7
+PSIME             591                  4                2             5          nc           nc                          nc               11
+MIIS              590                  4                1             2          nc           nc                          nc               7
+EGN               242                  1                1             1          nc           nc                          nc               3
+HSRT              556                  2                1             2          nc           nc                          nc               5
+NH                558                  0                1             0          nc           nc                          nc               1
+DN                 98                  0                0             0          nc           nc                          nc               0
+
+
+
+       ESPLANADE DE LA PAIX / CS 14032 / 14032 CAEN CEDEX 5 Tél. +33 (0)2 31 56 69 57 E-mail communication@normandie-univ.fr www.normandie-univ.fr
+

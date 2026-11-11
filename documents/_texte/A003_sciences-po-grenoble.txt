@@ -1,0 +1,73 @@
+                                                        Avis favorable du CEVIE du 16/02/2024
+                                                            Approuvée par le CA du 12/03/2024
+
+
+                 CHARTE DE SCIENCES PO GRENOBLE UGA
+
+              Les bons usages de l’Intelligence Artificielle générative
+
+
+
+
+Préambule
+
+    Grande école de sciences sociales résolument tournée vers l’internationalisation,
+la professionnalisation, le développement du numérique et l’innovation, Sciences Po
+Grenoble UGA offre à ses étudiants un parcours intellectuel ambitieux destiné à former
+les acteurs et les chercheurs de demain. À cette fin, l’établissement est autant soucieux
+de fortifier l’esprit critique, d’initier à la recherche par l’apprentissage des savoirs et
+des méthodes scientifiques ou de sensibiliser aux enjeux éthiques que de préparer ses
+étudiantes et ses étudiants aux innovations technologiques comme pédagogiques pour
+les ouvrir à un monde en mutation.
+
+    L’établissement met à disposition de tous les étudiants, par son offre de formation
+et sa documentation, les moyens d’être sensibilisés aux enjeux et risques liés à
+l'utilisation de l'IA générative, c’est-à-dire l’ensemble des technologies permettant de
+générer automatiquement du contenu (texte, image, son…) à partir d’algorithmes ayant
+recours à l’apprentissage machine (machine learning). Il s’agit d’en faire connaître les
+apports, les conditions d’utilisation appropriées et autorisées et d’en souligner les
+implications éthiques.
+
+    Dans cette perspective, cette charte véritable contrat de confiance école-étudiant,
+vise à accompagner le recours à l’Intelligence Artificielle, comme outil de travail
+s’ajoutant à tous les autres, et dans le respect de la propriété intellectuelle et de
+l’intégrité académique.
+                                                            Avis favorable du CEVIE du 16/02/2024
+                                                                Approuvée par le CA du 12/03/2024
+
+
+1. Chaque étudiant de Sciences Po Grenoble s'engage à respecter dans tous ses travaux
+   les principes fondamentaux de          l'intégrité académique tels que l'authenticité et
+   l'originalité de son travail, ainsi que les règles codifiant la propriété intellectuelle et le
+   plagiat pour l’attribution des sources utilisées. Tout recours éventuel à l’IA générative
+   doit se conformer à ces règles.
+
+
+
+2. L'utilisation de l'IA générative est autorisée uniquement à des fins d’aide à la réflexion
+   et de soutien méthodologique (par exemple, pour mettre en forme des données).
+
+
+
+3. Toute utilisation d’un algorithme d’IA générative dans le cadre d’un travail académique
+   doit donner lieu à une mention explicite de cet usage. En particulier il est attendu une
+   mention précise de l’algorithme utilisé (par exemple « OpenAI gpt-3.5-turbo »), de la
+   date et de la méthode exacte d’interrogation de l’algorithme.
+
+
+
+4. Tout copier-coller direct des réponses générées par un algorithme d'IA générative est
+   considéré comme un acte de fraude et de plagiat, conformément aux règles
+   académiques en vigueur.
+
+
+   De fortes présomptions de plagiat exposent l’étudiant à des poursuites disciplinaires et,
+   si la commission reconnait la fraude comme établie, des sanctions appropriées seront
+   prononcées ainsi que de fait, la nullité de l’épreuve conformément aux dispositions de
+   l’article R.811-36 du code de l’éducation.
+
+
+
+   La présente charte pourra être révisée périodiquement afin de prendre en compte les
+   avancées technologiques et les évolutions éthiques liées à l'IA.
+

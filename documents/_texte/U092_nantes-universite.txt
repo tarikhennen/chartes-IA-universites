@@ -1,0 +1,80 @@
+  Pour un positionnement institutionnel et durable des
+ usages des intelligences artificielles génératives (IAGen)
+                    à Nantes Université
+
+
+    Contexte ..................................................................................................................................................... 2
+
+    Préambule.................................................................................................................................................. 3
+
+    1ère phase (décembre 2024-avril 2025) – Construction de l’énoncé de principes institutionnels 4
+
+              Le comité de pilotage ...................................................................................................................... 4
+
+              Le comité de suivi ............................................................................................................................. 5
+
+              Un collectif d’usagers structuré en 3 sous-groupes priorisés .................................................... 5
+
+              Groupe d’étude technique .............................................................................................................. 5
+
+              Mobilisation de la recherche à des fins de médiation scientifique et d’amélioration
+              continue ............................................................................................................................................ 5
+
+              Les acteurs institutionnels du territoire ....................................................................................... 6
+
+              Livrables ............................................................................................................................................ 6
+
+    2ème phase (mai 2025 – décembre 2026) – déploiement et évolution de l’EPI ................................ 7
+
+    Vue globale ................................................................................................................................................ 8
+
+
+
+
+Note d’opportunité pour un positionnement institutionnel et durable des usages de l’IAGen à Nantes Université – novembre 2024                       1
+Contexte
+
+Les vice-présidents « Formation et éducation ouverte », « numérique responsable et nouveaux
+usages » et « recherche et science ouverte » s’associent afin de co-définir avec la communauté les
+premières balises pour l’utilisation responsable des IA génératives dans les activités
+d’enseignement, d’apprentissage, de production et de diffusion scientifique ou encore de gestion
+administrative. Soutenue par les services universitaires dédiés, la démarche ci-dessous s’inscrit
+dans une méthode contributive et s’appuie sur les résultats des dernières productions académiques
+locales, internationales voire de différentes sociétés savantes reconnues ainsi que des principes
+d’actions publiques posés par l’État et l’Union Européenne pour les adapter au contexte de Nantes
+Université. Elle s’inscrit également dans la mise en œuvre du schéma directeur numérique
+responsable 2024-2028 adopté par notre établissement.
+
+En présence des trois vice-présidents, une première session de travail collective basée sur l'état de
+l'art pédagogique, technique et scientifique a confirmé :
+
+       •      La valeur ajoutée d'une coordination institutionnelle et territoriale de l’appropriation des
+              usages libres et ouverts des intelligence artificielles génératives (IAGen) par la communauté
+              académique (étudiants, personnels d’enseignement et de recherche, administratifs et
+              techniques) et ses partenaires par la création d'un GT IAGen dédié ;
+       •      La volonté de s'appuyer sur les initiatives pédagogiques, scientifiques et techniques
+              existantes ;
+       •      L'utilité de créer des conditions institutionnelles et territoriales d’appropriation via des
+              actions de sensibilisation, de formation, de médiation numérique et de concertation
+              territoriale à visée pédagogiques et scientifiques par des experts-métiers déjà présents,
+              parmi nos collègues enseignants-chercheurs, nos directions et services universitaires ou nos
+              partenaires ;
+       •      La nécessité d'impliquer la communauté académique dans le processus d'appropriation
+              des usages (approche UX design, séances de controverses, etc.) afin qu'elle agisse de
+              manière lucide et éclairée avec les IAGen.
+
+En outre, il a été décidé de :
+
+       •      Dresser un premier panorama de l'existant (expérimentations pédagogiques, actions de
+              formation vers les personnels, documents de cadrage, productions scientifiques,
+              animations d'événement, etc.) ;
+       •      Déterminer les objets pédagogiques, scientifiques et techniques prioritaires à traiter à la
+              lumière d'un premier calendrier 2024-25 ;
+       •      Partager les intentions de collaborations internes, des opportunités à saisir avec des
+              partenaires externes.
+
+
+
+
+Note d’opportunité pour un positionnement institutionnel et durable des usages de l’IAGen à Nantes Université – novembre 2024   2
+

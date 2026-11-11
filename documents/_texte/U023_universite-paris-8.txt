@@ -1,0 +1,81 @@
+Comprendre
+les enjeux
+cognitifs
+de l’IA générative
+dans l’enseignement
+supérieur
+Comprendre les enjeux
+cognitifs de l’IA générative dans
+l’enseignement supérieur
+1. Introduction                                                   cognitives des étudiants. Ces activités participent
+                                                                  directement à la construction des connaissances et au
+Le développement rapide des systèmes d’intelligence               développement de l’autonomie intellectuelle.
+artificielle générative transforme progressivement les
+pratiques d’apprentissage, d’écriture et de production            L’utilisation des systèmes d’IA pour produire directement
+des connaissances dans l’enseignement supérieur.                  des réponses, des synthèses ou des contenus
+Parmi ces outils, les robots conversationnels tels                rédigés peut conduire à déléguer certaines tâches
+que ChatGPT, Gemini, Claude ou Copilot occupent                   intellectuelles. Lorsque cette délégation devient
+aujourd’hui une place particulière en raison de leur              systématique, elle peut limiter l’engagement dans les
+large diffusion auprès des étudiants et de leur capacité          processus de réflexion, d’analyse et d’appropriation
+à produire instantanément des contenus textuels                   des connaissances [KOSMYNA, 2025]. Par exemple,
+élaborés.                                                         demander à un chatbot de rédiger une introduction de
+                                                                  dissertation, de résoudre un exercice ou de produire
+En tant qu’institution de savoir et de formation,                 un résumé de lecture peut faire gagner du temps,
+l’Université a la responsabilité de développer une                mais aussi réduire l’engagement dans les activités qui
+réflexion critique sur ces technologies et sur leurs effets       permettent normalement d’acquérir ces compétences.
+potentiels dans les activités d’apprentissage et de
+production des connaissances.                                     Le recours fréquent à ces outils peut également modifier
+                                                                  la mobilisation de certaines activités intellectuelles
+Si les connaissances scientifiques sur ces questions              et soulever des questions relatives à la dépendance
+continuent d’évoluer, plusieurs risques et points de              cognitive dans les pratiques d’apprentissage
+vigilance font aujourd’hui l’objet d’une attention                [SHANMUGASUNDARAM et al., 2023 ; ZHAI et al., 2024].
+particulière dans les travaux de recherche :
+                                                                  Quelle que soit leur utilisation, les outils d’IA ne sauraient
+●   le risque de délégation excessive de certaines                se substituer au travail de compréhension, à la réflexion
+    activités intellectuelles et de dépendance cognitive          personnelle ou aux démarches d’apprentissage.
+    (cognitive offloading) [GRINSCHGL et NEUBAUER,
+    2022] ;
+●   le risque d’appauvrissement du rapport au savoir,             3. Influence algorithmique et biais
+    notamment par la réduction de la diversité des
+                                                                  Les systèmes d’intelligence artificielle générative
+    sources mobilisées, la difficulté à distinguer les
+                                                                  produisent des contenus à partir de modèles
+    contenus fiables des contenus trompeurs ou
+                                                                  statistiques entraînés sur de très grandes quantités de
+    générés automatiquement, et la diminution des
+                                                                  données. Les réponses générées peuvent comporter
+    pratiques de lecture approfondie [RILLA et al., 2025] ;
+                                                                  des erreurs, des approximations ou des informations
+●   le risque d’influence des raisonnements, des                  inexactes [GERMAIN, 2026 ; BBC, 2025]. Par exemple,
+    représentations et des activités de pensée par les            un chatbot peut fournir une référence bibliographique
+    contenus générés automatiquement [RASTOGI et                  inexistante, attribuer à tort une citation à un auteur
+    al., 2020] ;                                                  ou présenter comme établi un résultat qui fait encore
+                                                                  l’objet de débats scientifiques.
+●   les risques liés aux usages excessifs des outils
+    numériques, pouvant affecter l’attention, le bien-            Ces systèmes peuvent également refléter ou
+    être psychologique ou entraîner une addiction aux             amplifier certains biais présents dans leurs données
+    assistants conversationnels [SHEN et al., 2026].              d’entraînement ou influencés par des choix réalisés lors
+                                                                  de leur conception [RASTOGI et al., 2020 ; WEIDINGER
+Le présent document propose une synthèse de ces                   et al., 2021]. Les catégories, exemples ou formulations
+principaux enjeux et formule plusieurs points de                  mobilisés par ces systèmes peuvent également refléter
+vigilance destinés à favoriser des usages ou des non-             certaines représentations, références culturelles ou
+usages réfléchis, responsables et compatibles avec les            cadres d’interprétation qui peuvent contribuer à orienter
+missions de formation et de transmission des savoirs de           la manière dont les sujets sont présentés ou interprétés
+l’Université.                                                     [WEIDINGER et al., 2021]. Dans le cadre d’un travail
+                                                                  universitaire, l’outil peut privilégier certaines sources,
+                                                                  certaines références ou certains points de vue sans
+2. Délégation cognitive et autonomie                              que ces mécanismes soient nécessairement explicites
+intellectuelle                                                    pour l’utilisateur [MANAKARAS et al., 2025 ; GERMAIN,
+                                                                  2026]. Par exemple, il peut mettre davantage en avant
+La lecture, la rédaction, la mémorisation,
+                                                                  des contenus rédigés dans une langue dominante,
+l’argumentation et la résolution de problèmes sont des
+                                                                  des références plus visibles sur Internet ou des
+modes de formation de l’esprit autant que d’accès à
+                                                                  interprétations majoritaires, au détriment d’approches
+la connaissance. Le cursus universitaire est un temps
+                                                                  alternatives, critiques ou plus spécialisées.
+de renforcement et de perfectionnement des facultés
+
+                                                              2
+

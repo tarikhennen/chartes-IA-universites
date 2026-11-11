@@ -1,0 +1,68 @@
+Références
+et bibliographie
+Références
+1. Cadres internationaux,européens                                  3. Guides de styles de citation
+et nationaux
+                                                                    APA (7ème édition) — Directives de citation :
+UNESCO, Recommandation sur l’éthique de l’IA (2021) :               https://apastyle.apa.org/style-grammar-guidelines/
+https://unesdoc.unesco.org/ark:/48223/pf0000379920                  citations
+OCDE — Principes sur l’intelligence artificielle (2019) :           MLA — Directives « Works Cited » :
+https://legalinstruments.oecd.org/en/instruments/                   https://style.mla.org/works-cited/a-handbook/
+OECD-LEGAL-0449
+
+Union européenne, Règlement (UE) 2024/1689 « AI Act » :
+                                                                    4. Outil d’assistance à la rédaction
+https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+                                                                    Le Chat (Mistral AI) a été utilisé pour la correction, la
+Ministère de l’Éducation nationale et de la Jeunesse,               reformulation et la mise en forme des documents.
+« L’IA en éducation : cadre d’usage » (13 juin 2025) :              L’ensemble des documents a été relu, amendé et validé
+https://www.education.gouv.fr/cadre-d-usage-de-l-ia-                par plusieurs contributeurs.
+en-education-450647
+
+CNIL — Plan d’action IA (16 mai 2023) :
+https://www.cnil.fr/fr/intelligence-artificielle-le-plan-
+daction-de-la-cnil
+
+2. Chartes et doctrines institutionnelles &
+universitaires françaises
+Institut national du service public, Charte d’usage de l’IA :
+https://www.insp.gouv.fr/actualites/linsp-publie-sa-
+premiere-charte-dusage-de-lintelligence-artificielle
+
+Sciences Po — Doctrine IA :
+https://www.sciencespo.fr/fr/actualites/doctrine-
+intelligence-artificielle-a-sciences-po/
+
+Université d’Orléans, Charte d’usage de l’IA :
+https://www.univ-orleans.fr/upload/
+public/202501/2024_10_18_Charte%20sur%20
+l%27utilisation%20de%20l%27IA%20au%20sein%20de%20
+l%27UO.pdf
+
+Université Toulouse III Paul Sabatier,
+Charte des IA génératives :
+https://www.univ-tlse3.fr/medias/fichier/
+charte-du-bon-usage-des-ia-generatives-a-l-
+universite_1755517998722-pdf
+
+Université Paris‑Saclay, Rubrique « Intelligence
+artificielle » (charte & lignes directrices) :
+https://www.universite-paris-saclay.fr/intelligence-
+artificielle
+
+Université Côte d’Azur — Charte IA (févr. 2026) :
+https://newsroom.univ-cotedazur.fr/actualites-
+evenements/universite-cote-dazur-adopte-sa-charte-
+intelligence-artificielle-enseignement-et-apprentissage
+
+Évry‑Senart Sciences et Innovation (ESSI) — Charte
+d’usage de l’IA générative (mars 2026) :
+https://www.evry-senart-innovation.fr/wp-content/
+uploads/Charte-ESSI-dusage-de-lIAg_reference-
+mars-2026-_-.pdf
+
+
+
+
+                                                                2
+

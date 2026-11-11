@@ -1,0 +1,28 @@
+            GUIDE DE DÉMARRAGE RAPIDE DE L'IA
+             CONVERSATIONNELLE DE L’UNISTRA
+                       (CHATBOT)
+
+
+
+
+Version : 2
+Date :      18/09/2026
+Éditeur : Université de Strasbourg - Direction du Numérique
+Auteur(s) : Alexandra Barberet, DNum
+Copyright : Université de Strasbourg
+Licence :   Licence Creative Commons : Paternité - Pas d'Utilisation Commerciale - Partage des Conditions
+            Initiales à l'Identique
+Table des matières
+Introduction                                                                                                                                    3
+1. Accès à la plateforme                                                                                                                        4
+2. Prise en main : Découvrir le Chatbot et ses Modèles                                                                                          6
+   2.1. Présentation de l'interface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+   2.2. Options de saisie et d'ajout de ressources externes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+   2.3. Catalogue de nos modèles IA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+   2.4. Raccourcis clavier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+3. Interagir avec le Chatbot                                                                                                                 14
+    3.1. Lancer un échange : l'art du prompting. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           14
+    3.2. Affiner le résultat : Itérer pour optimiser. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          16
+    3.3. Enrichir l'IA : Téléverser des fichiers et documents. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 18
+    3.4. Actualiser l'information : activer la recherche web. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  19
+

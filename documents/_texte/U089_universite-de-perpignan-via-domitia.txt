@@ -1,0 +1,94 @@
+      Charte sur un usage responsable de
+      l’Intelligence Artificielle Générative à
+                      l’UPVD
+
+   1. Préambule
+Cette charte est inspirée de la charte issue des travaux d’universités notamment lauréates de
+l’AMI DemoES dans sa version du 27 septembre 2025.
+
+https://www.enseignementsup-recherche.gouv.fr/sites/default/ les/2025-10/charte-d-usages-
+et-bonnes-pratiques-de-l-ia-des-projets-demoes--38023.pdf
+
+Elle correspond à l’une des recommandations du GT IA de l’UPVD initié en janvier 2025.
+
+ Notons que dans le contexte actuel (janvier 2026), nous ne sommes pas en mesure de
+ recommander d’outils d’IAg autres que ceux listés en section 4 et rappelons l'interdiction de
+ l'usage d'IAg non-souveraine (ChatGPT, Gemini, Grok, Perplexity, ...) à titre professionnel,
+ notamment lorsque des données de UPVD ou nominatives sont utilisées, le temps que l'UPVD
+ estime l'o re d'accès souveraine en cours de négociation à l'échelon national et dé nisse sa
+ capacité à s'en doter et sous quelles modalités.
+
+
+
+   2. Objectifs de la charte
+Encourager une utilisation pertinente, éthique, critique et responsable des outils d’Intelligence
+Artici elle Générative (IAg).
+
+
+   3. Charte IA générative
+Le déploiement et l’adoption de systèmes d’Intelligence Arti cielle (IA) dans la société est une
+opportunité autant qu’un risque. Il en est de même dans l’enseignement supérieur. Cette charte
+vise à encadrer l’utilisation de ces technologies de manière éthique, responsable et durable. Elle
+s’adresse à l’ensemble des utilisatrices et utilisateurs de l’UPVD, qu’il s’agisse de la population
+étudiante ou des personnels (enseignants, enseignants-chercheurs et fonctions support et
+soutien).
+
+Cette charte repose sur quatre principes fondamentaux : curiosité, transparence, précaution et
+parcimonie. La curiosité encourage l’exploration et la formation en continu, en s’appuyant sur
+l’intérêt et l’engagement des utilisatrices et utilisateurs. La transparence garantit que les
+processus et les décisions prises par les outils d’lA générative (IAg) sont autant que possible
+compréhensibles et accessibles à tous. Le principe de précaution assure que les risques sont
+anticipés et gérés de manière proactive. En n, la parcimonie, en lien avec la volonté de sobriété
+numérique, vise à utiliser les ressources de manière judicieuse et responsable, en minimisant
+particulièrement l’impact environnemental préoccupant de l’IA générative. Ces principes sont
+déclinés ci-après en termes de recommandation (repérées par un ●) et d’obligations et
+d’interdictions (repérées par un ).
+
+En adoptant ces principes, l’UPVD s’engage à créer un environnement où les solutions d’IA
+génératives sont utilisées de manière éthique, responsable, durable et béné que pour tous, tout
+en respectant les valeurs de curiosité, transparence, précaution et parcimonie.
+
+La charte n’a pas pour objectif d’être exhaustive sur la manière d’utiliser les outils d’IA générative
+dans notre établissement, mais propose un cadre d’application. La charte s’inscrit dans le cadre
+de la législation applicable (Règlement Général de Protection des Données, Sécurisation et
+Régulation de l’Espace Numérique, code de l’éducation) et respecte le règlement 2024/1689 du
+Parlement Européen et du Conseil Européen du 13 juin 2024, qui est le premier acte législatif sur
+l'intelligence arti cielle (IA). Il est paru au Journal o iciel de l'Union européenne (JOUE) le 12
+juillet 2024. Ce règlement sur l’IA est applicable à partir du 2 août 2026, mais l’entrée en vigueur
+de certaines dispositions s’échelonne entre le 2 février 2025 et le 2 août 2027.
+
+
+
+      a) Principes fondamentaux
+      1. Choix des IAg
+            a. ●Utiliser l’IAg avec discernement et parcimonie pour des cas d’usages dont le
+                bilan d’impacts est positif, après avoir e ectué une analyse préalable de type
+                béné ces-risques (par ex. SWOT) et un suivi (évaluation) des opportunités et
+                menaces.
+            b. ●Utiliser les outils d’IAg validés par l’établissement et dont la liste est donnée en
+                  n de document, pour des besoins professionnels pertinents, en respectant les
+                mêmes règles de sécurité que pour les applications numériques.
+            c. ●Partager, selon les canaux habituels de transmission de l’établissement, tout
+                dysfonctionnement ou faille détectée de l’IAg validée par l’établissement.
+            d. ●Privilégier l’utilisation d’IAg la plus « open-source » possible1.
+            e.      Il est proscrit d’utiliser une IAg sans avoir évalué la pertinence de cette action
+                en la comparant avec d’autres approches possibles.
+            f.      Il est proscrit d’utiliser des IAg non validées par l’établissement, en particulier
+                si cette utilisation implique la transmission d’informations sensibles (par
+                exemple : protégées, con dentielles, personnelles, stratégiques, con ées par un
+                tiers...).
+            g.      Il est proscrit d’engager des dépenses pour un outil d’IAg à usage
+                professionnel sans validation du besoin par l’établissement, dans le respect de la
+                réglementation.
+      2. Protection des données :
+            a. ●Préserver la con dentialité et la valeur stratégique de l’information dans
+                l’utilisation des outils qui manipulent l’IA.
+            b. ●Véri er que la génération de médias (image, vidéos) ne contient pas de données
+                personnelles réelles reconnaissables.
+
+
+
+
+1
+    https://en.wikipedia.org/wiki/Open-source_arti cial_intelligence
+

@@ -1,0 +1,111 @@
+                                                                                                                     FICHE DE SYNTHÈSE
+IAG DANS L’ENSEIGNEMENT
+SUPÉRIEUR ENTRE PROMESSES
+ET PRUDENCE
+L’intelligence artificielle générative (IAG) est aujourd’hui présente dans l’enseignement supérieur, tant auprès des apprenant·es que
+des personnels enseignant·e·s ou non. Grand public et très facile d’accès, apparemment performante et déjà intégrée dans les usages
+du quotidien, elle soulève de nombreuses interrogations, notamment dans son impact sur les pratiques pédagogiques. Voici quelques
+questions revenant souvent dans la communauté universitaire : si la situation le permet, quelles tâches peuvent être déléguées à
+l’IAG ? Comment garantir une évaluation équitable et juste des travaux des étudiant·e·s ? Comment accompagner les apprenant·es
+et les enseignant·es vers un usage critique et éclairé de ces outils ? Des usages certes mais au prix de quels impacts sociétaux et
+environnementaux ?
+
+L’IA générative, pour générer des contenus à la demande, ingère des données massives extraites du web et de bases de données, décortique
+statistiquement tous les textes disponibles sur le web, au sein des échanges sur les plateformes, … afin produire les fameux grands
+modèles de langage (LLM) en mobilisant massivement des techniques dites « d’apprentissage ». Les grands modèles de langages en
+s’appuyant sur des régularités statistiques (Conseil supérieur de l’éducation, 2023), peuvent ainsi générer le contenu le plus probable en
+tenant compte de la question posée (le prompt) et des caractéristiques de l’utilisateur·rice (données, connexions antérieures, profil, …).
+Il va donc sans dire qu’au vu de ces caractéristiques (choix des données d’apprentissage, choix des modèles de langage, respect ou non
+du RGPD, mais aussi du RIA1 et du DSA2 …), leurs usages dans les milieux éducatifs peuvent enrichir ou appauvrir les apprentissages
+tout en étant également dépendant des modalités d’intégration choisies.
+
+Le ministère de l’Éducation nationale souligne l’importance de disposer de cadres d’usages clairs, d’une contextualisation pédagogique
+et d’une appropriation raisonnée de ces outils (MENJ, 2025). Il ne s’agit donc pas d’interdire leur usage, mais de les inscrire dans une
+démarche éducative et citoyenne, cohérente, équitable et durable en choisissant les outils qui garantissent des CGU compatibles avec
+les règles de confidentialité et de non usages des données utilisateurs. De plus, les établissements d’enseignement supérieur ont un rôle
+majeur à jouer puisqu’ils sont bien placés pour expérimenter et analyser les usages naissants de l’IA, notamment, car ils disposent en
+leur sein de l’ensemble des disciplines susceptibles d’explorer les changements en cours.
+
+Cette fiche vise à accompagner les acteur·ices de l’enseignement supérieur dans la compréhension et l’intégration responsable de l’IAG
+à travers quatre dimensions :
+1. Comprendre l’IAG et ses usages,
+2. Adapter l’enseignement aux possibilités de l’IAG,
+3. Développer des compétences critiques,
+4. Assurer un usage responsable : éthique et environnemental.
+
+
+
+
+1
+    règlement européen sur l’Intelligence Artificielle (RIA)
+2
+    règlement européen sur les services numériques (DSA)
+
+
+Université de Lorraine - DACIP
+Date de publication : novembre 2025
+Rédacteur·trices : Coline Clémence, Nathalie Issenmann et
+Samuel Nowakowski
+
+sup.univ-lorraine.fr / dacip-contact@univ-lorraine.fr                 1
+Comprendre l’IAG et ses usages
+1. Quelques généralités
+Selon Nowakowski (2024), les IA génératives reposent sur des techniques d’apprentissage profond (deep learning) pour générer toute
+sorte de contenus, du texte aux images, en passant par l’audio, la vidéo, la 3D, etc. Ces techniques sont optimisées pour intégrer la
+structure des contenus à générer (par exemple, la structure d’une langue) afin de pouvoir créer, avec « l’aide humaine3 » , des contenus
+mixant ceux qui ont servi aux apprentissages. Du côté des utilisateurs, les interactions se font soit par des commandes textuelles rédigées
+dans un chat avec des interactions en langage naturel, ou par l’intermédiaire de « prompts » qui sont un énoncé, une suite ordonnée
+d’instructions, un cadre algorithmique, déterminant la teneur du contenu généré.
+
+Leur diffusion ultra-rapide dans toutes les strates de la société (par exemple, à ce jour, octobre 2025, il y a, dans le monde, 800 millions
+d’utilisateurs de chatGPT), des usages personnels aux usages professionnels, quelles que soient les générations, vient bouleverser le
+rapport aux savoirs, les modes de production de contenus originaux et les modes d’apprentissage (Cégep Marie-Victorin, 2024).
+
+2. En contexte éducatif
+Dans les contextes éducatifs, moyennant quelques précautions et l’évaluation des risques (lecture des CGU de l’outil choisi et du
+règlement européen de l’IA), l’IAG peut être mobilisée pour de multiples activités : synthétiser des textes, proposer des résumés, générer
+des plans, reformuler une consigne, corriger un code, produire un exemple ou une introduction... Cette polyvalence impacte les modalités
+d’enseignement et d’apprentissage, mais pose des questions pédagogiques, juridiques et éthiques fondamentales.
+Ci-dessous, dans les usages classés à haut risque par le RIA, on trouve les recommandations pour tout ce qui relève de l’éducation et de
+la formation professionnelle.
+
+
+       Rappel du RIA concernant les usages classés à Haut risque (https://artificialintelligenceact.eu/fr/high-level-summary/)
+       Éducation et formation professionnelle :
+       • Systèmes d'IA déterminant l'accès, l'admission ou l'affectation aux établissements d'enseignement et de formation
+       professionnelle à tous les niveaux.
+       • Évaluer les résultats de l'apprentissage, y compris ceux utilisés pour orienter le processus d'apprentissage de l'étudiant·e.
+       • Évaluer le niveau d'éducation approprié pour un individu.
+       • Contrôler et détecter les comportements interdits des étudiant·e·s pendant les tests.
+
+
+
+De plus, la rapidité avec laquelle ces outils peuvent générer des productions soulève une question. Comment maintenir le sens et la valeur
+des apprentissages dans un environnement où certaines tâches sont automatisables aussi facilement, et par conséquent, comment
+adapter l’enseignement aux usages de l’IAG ? (Haugsbakken & Hagelia, 2024).
+
+
+
+Adapter l’enseignement aux usages de l’IAG
+        « Je ne veux pas corriger la production d’une machine, je veux savoir ce dont l’étudiant·e est capable » dit l’enseignant·e
+
+        « Si une machine peut répondre à ma place, c’est que la question n’est peut-être pas la bonne » répond l’étudiant·e.
+
+
+L’arrivée de l’IAG transforme le rapport aux activités pédagogiques. Certaines productions courantes – résumés, introductions, réponses
+fermées, traductions – peuvent désormais être générées automatiquement. Cela invite à repositionner les activités sur des compétences
+plus complexes comme l’analyse, la justification ou l’évaluation critique (Bearman et al., 2022).
+
+
+
+
+3
+    Les techniques d’IAG exploite massivement le travail d’humains pour indexer, étiqueter les données d’apprentissage et trier les contenus générés.
+
+Université de Lorraine - DACIP
+Date de publication : novembre 2025
+Rédacteur·trices : Coline Clémence, Nathalie Issenmann et
+Samuel Nowakowski
+
+sup.univ-lorraine.fr / dacip-contact@univ-lorraine.fr                                  2
+

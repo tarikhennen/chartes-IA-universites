@@ -1,0 +1,115 @@
+                                                                                                CONSEIL D’ADMINISTRATION UCA
+                                                                                                DELIBERATION N° 2025-06-27-04
+
+            DELIBERATION DU CONSEIL D’ADMINISTRATION DE L’UNIVERSITE CLERMONT AUVERGNE
+     PORTANT APPROBATION DE LA CHARTE DU BON USAGE DE L’INTELLIGENCE ARTIFICIELLE GENERATIVE (IAG)
+
+LE CONSEIL D’ADMINISTRATION DE L’UNIVERSITE CLERMONT AUVERGNE, EN SA SEANCE DU 27 JUIN 2025,
+
+Vu le code de l’éducation ;
+Vu le décret n°2024-3 du 2 janvier 2024 modifiant le décret n°2020-1527 en date du 7 décembre 2020 portant
+création de l’établissement public expérimental Université Clermont Auvergne (UCA) ;
+Vu l’avis du Conseil de la Formation et de la Vie Universitaire en date du 10 juin 2025 ;
+Vu l’avis du Conseil de la Recherche en date du 17 juin 2025 ;
+Vu l’avis du Comité Social d’Administration en date du 24 juin 2025 ;
+Vu les statuts de l’UCA ;
+
+PRESENTATION DU PROJET
+
+Cette charte vise à cadrer l’utilisation de l’intelligence artificielle générative (IAG) dans l’ensemble des travaux
+produits par les membres de la communauté universitaire : étudiants, enseignants, chercheurs et personnels
+administratifs de l’EPE UCA.
+En adhérant aux principes et recommandations de cette charte, chaque membre de la communauté universitaire
+s'engage à utiliser l'IAG de manière éthique, responsable et bénéfique pour tous.
+
+
+
+Vu le quorum atteint en début de séance ;
+Vu la présentation de Monsieur le Président de l’Université Clermont Auvergne ;
+Après en avoir délibéré ;
+
+                                                                   DECIDE
+
+D’approuver la charte du bon usage de l’intelligence artificielle générative telle que jointe en annexe.
+
+
+
+
+Membres en exercice : 41                                                                   Le Président de l’Université
+Votes : 25                                                                                     Clermont Auvergne,
+Pour : 25
+Contre : 0                                                                                         Signé électroniquement par
+Abstention : 0                                                                                         Mathias BERNARD
+
+                                                                                                         #visa2#
+
+                                                                                                        Le 1 juillet 2025
+
+
+
+
+#signature#
+
+ Le 1 juillet 2025
+
+
+
+CLASSE AU REGISTRE DES ACTES SOUS LA REFERENCE : DELIB_CA_20250627_04   Modalités de recours : En application de l’article R421-1 du code de justice
+                                                                        administrative, le Tribunal Administratif de Clermont-Ferrand peut être saisi
+                                                                        par voie de recours formé contre les actes réglementaires dans les deux mois à
+                                                                        partir du jour de leur publication et de leur transmission au Recteur.
+
+
+
+
+                                                                                                         DELIB_CA_20250627_04 Page 1 sur 1
+                           Charte du bon usage de l’IA générative
+
+
+Préambule
+
+Le développement des intelligences artificielles génératives (IAG) est en pleine évolution. Ces IAG
+repoussent les limites de la créativité et de l'innovation, mais posent également des questions
+éthiques, juridiques et sociétales. Elles offrent de nouvelles possibilités dans tous les domaines, y
+compris dans les formations et la recherche dans l'enseignement supérieur. Toutefois, l’IAG est une
+technologie qui doit être mobilisée de manière réfléchie et mesurée.
+
+Cette charte vise à cadrer l’utilisation des IAG dans l’ensemble des travaux produits par les membres
+de la communauté universitaire. Par communauté universitaire, on entend par la suite étudiants,
+enseignants, chercheurs et personnels administratifs de l’EPE UCA.
+
+A ce jour, l'EPE UCA n’offre d’accès institutionnel qu’à une IA générative via le Pack Microsoft 365
+(Copilot). La création d’un compte pour l’utilisation des autres outils relève donc d’une décision privée
+de l’usager ou du personnel.
+
+En adhérant aux principes et recommandations de cette charte, chaque membre de la communauté
+universitaire s'engage à utiliser l'IAG de manière éthique, responsable et bénéfique pour tous.
+
+La charte étant évolutive par nature, chaque nouvelle version sera largement portée à la connaissance
+de l'ensemble des communautés de l'EPE UCA.
+
+
+
+Principes fondamentaux
+
+     1. Transparence
+L'utilisation de l'IAG doit être déclarée et expliquée. Les sources de données et les logiciels employés
+doivent être précisés.
+
+    2. Équité et non-discrimination
+L'IAG ne doit pas créer ou renforcer de discriminations. Il faut éviter les biais 1 dans les données et les
+modèles employés qui nuisent à l’équité. Il est nécessaire d’utiliser l’IAG de façon à être équitable et
+inclusif.
+
+     3. Responsabilité
+Les utilisateurs sont entièrement responsables de leur usage de l'IAG. Comme tout assistant, il se base
+sur des sources qui peuvent être erronées ou même imaginaires d’où les biais (dû à leurs concepteurs)
+et les hallucinations dans les réponses.
+
+     4. Protection des données
+S’il est usuel de fournir à l’IAG une requête auquel il répondra en générant du contenu, il faut être très
+prudent en ne lui transmettant que des données publiques et qui n’ont aucun caractère de
+
+1
+    Les mots en italique renvoient à leur définition dans le glossaire
+

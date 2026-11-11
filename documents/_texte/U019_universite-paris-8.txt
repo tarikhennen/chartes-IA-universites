@@ -1,0 +1,124 @@
+                       Charte IA
+                       Services et Administration
+
+                                                                                Valeurs de l’université
+                                                                                L’Université Paris 8 considère que l’intelligence
+                                                                                artificielle transforme profondément les modes de
+                                                                                production et de transmission des savoirs.
+                                                                                Fidèle à l’héritage du Centre universitaire
+                                                                                expérimental de Vincennes, elle défend
+                                                                                une approche critique, humaniste et
+                                                                                interdisciplinaire de l’IA, fondée sur la liberté
+                                                                                académique, l’émancipation des savoirs et
+                                                                                le développement de l’esprit critique, afin
+                                                                                d’accompagner des usages responsables au
+                                                                                service de la formation, de la recherche et de la
+                                                                                création.
+
+
+
+
+Objectifs de la charte
+
+
+
+
+Fournir un cadre partagé       Garantir des usages               Sensibiliser                       Développement                   Favoriser une culture
+pour accompagner               compatibles                       aux impacts de l’IA, aux           de pratiques adaptées           commune de l’IA
+les usages de l’IA             avec les objectifs péda-          impacts cognitifs, sociaux         à la diversité des disci-       fondée sur la compré-
+dans les activités de for-     gogiques, scientifiques,          et environnementaux de             plines, des usages              hension, le discerne-
+mation, de recherche,          administratifs et institution-    l’IA, ainsi qu’aux risques         et des missions de              ment et la responsa-
+de création, de services       nels de l’Université              d’automatisation exces-            l’établissement, au regard      bilisation des usages,
+et de gestion administra-      Paris 8, dans le respect de       sive et de dépendance              des besoins et enjeux de        afin de soutenir des
+tive.                          ses missions.                     cognitive.                         chaque domaine.                 pratiques responsables.
+
+
+Principes directeurs communs
+
+
+                 Approche critique                                          Responsabilité                                           Vérification
+                 et humaniste                                               humaine                                                  et discernement
+
+  pour accompagner les usages                           Les systèmes d’IA ne peuvent                             Les systèmes d’IA peuvent produire
+  de l’IA dans les activités de formation,              être considérés comme des auteurs                        des contenus erronés, biaisés ou
+  de recherche, de création, de services                ou des décideurs autonomes.                              trompeurs. Les informations générées
+  et de gestion administrative.                         La responsabilité demeure humaine.                       doivent être vérifiées et contextualisées.
+
+
+
+
+                    Transparence                                           Cadre juridique                                          Sobriété
+                    des usages                                             et institutionnel                                        et soutenabilité
+
+
+  La transparence des usages de l’IA                    Les usages de l’IA doivent respecter                     L’Université encourage
+  constitue un principe essentiel. Le                   les règles relatives aux données, à la                   des usages raisonnés de l’IA, attentifs
+  recours à l’IA doit être mentionné et                 confidentialité, à la propriété intellec-                aux impacts environnementaux
+  explicité lorsque cela est nécessaire.                tuelle et à l’intégrité académique.                      et aux besoins réels.
+                          L’IA et vos données
+                          Protéger, comprendre, agir
+                     Bien utiliser l’IA, c’est d’abord bien gérer
+                     vos données.
+
+1 / Évaluer le niveau                                       2 / Identifier le type d’IA
+de sensibilité des données
+Peu sensible
+                   Idées générales
+
+                   Texte public
+                                                                IA grand public          IA professionnelle              IA universitaire
+                   Exercices simples
+
+                   Brouillons non confidentiels
+                                                                ChatGPT, Gemini,         Mistral Vibe Enterprise         Services hébergés par
+Sensible           Données personnelles                         Claude…                  …                               l’Université
+
+                   Documents internes confidentiels             Environnement ouvert     Garanties                       Meilleure maîtrise
+                                                                Maîtrise limitée         contractuelles                  Maîtrise directe des don-
+                   Données de recherche                         des données et de leur   Protection des données          nées, de l’hébergement
+                   non publiques                                utilisation.             encadrée par des enga-          et des infrastructures.
+                                                                                         gements du fournisseur.
+                   Documents contractuels ou
+                   partenariaux
+
+                   Contenus sous propriété
+                   intellectuelle                                Faible maîtrise          Maîtrise partielle              Meilleure maîtrise
+
+
+ 3 / Principaux risques                                                       4 / Les bons réflexes
+                                                                                                IA grand public
+                   Divulgation d’informations sensibles                                         À réserver aux usages sans données sensibles
+                   ou confidentielles                                                           ou confidentielles.
+
+                   Perte de contrôle sur les données transmises                                 IA professionnelle
+                                                                                                Vérifier les garanties de confidentialité
+                   Réutilisation ou conservation des contenus                                   et de protection des données.
+                   saisis                                                                       IA universitaire
+                                                                                                À privilégier pour les données sensibles
+                   Risques juridiques liés aux données                                          ou stratégiques.
+                   et contenus protégés
+                                                                                                En cas de doute, se rapprocher du DPO
+                                                                                                ou des services compétents.
+
+
+L’IA et l’environnement
+Un enjeu collectif
+L’usage des outils d’IA a un impact environnemental réel. À Paris 8, nous encourageons un usage raisonné, sobre et responsable.
+
+Pourquoi cela compte ?                                                                              Comprendre l’impact
+
+         Les IA génératives consomment d’impor-                                                     Une requête IA = 10 à 30 fois plus qu’une
+         tantes quantités d’énergie et d’eau.                                                       recherche web classique
+
+         Elles reposent sur des infrastructures                                                     1 000 images IA = consomment autant qu’un
+         numériques gourmandes en ressources.                                                       ordinateur portable pendant plusieurs jours
+
+         Chaque requête contribue aux émissions                                                     Entraîner un grand modèle LLM = plusieurs
+         de gaz à effet de serre.                                                                   centaines de foyers alimentés pendant un an
+
+Adopter les bons réflexes
+Questionner l’utilité      Formuler avec sobriété         Éviter les usages inutiles     Des outils responsables         Sensibiliser et partager
+Ai-je réellement besoin    Privilégier des requêtes       Limiter les itérations         Privilégier les ressources      Informer, échanger
+d’utiliser une IA pour     courtes, précises              et les générations             institutionnelles, durables     et promouvoir des pratiques
+cette tâche ?              et ciblées.                    répétées.                      et sobres.                      responsables.
+

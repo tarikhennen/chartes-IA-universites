@@ -1,0 +1,42 @@
+                                                           Approuvé par la commission pédagogique du 26 février 2026
+                                                                                          et la CFVU du 5 mars 2026
+
+
+
+
+          Charte des usages de l’intelligence artificielle (IA)
+
+
+1 - Introduction
+1.1 - Champ d’application
+L’application de la présente charte s’applique à tous les membres de la communauté universitaire, quel que soit
+leur statut. Elle concerne l’utilisation de l’IA qui englobe l’IA générative.
+
+L’intelligence artificielle (IA) est un procédé logique et automatisé reposant généralement sur un algorithme et
+en mesure de réaliser des tâches bien définies. Pour le Parlement européen, constitue une intelligence
+artificielle tout outil utilisé par une machine afin de « reproduire des comportements liés aux humains, tels que
+le raisonnement, la planification et la créativité ».
+
+Selon la commission nationale de l’informatique et des libertés (CNIL), « une intelligence artificielle générative
+(IAg) est un système capable de créer du texte, des images ou d’autres contenus (musique, vidéo, voix, etc.) à
+partir d’une instruction d’un utilisateur humain ». Le service numérique est fondé sur des algorithmes
+probabilistes capable de produire des résultats comparables à ceux obtenus par une activité cognitive humaine.
+
+1.2 - Objectif
+L'objectif de cette charte est de définir les principes qui s’appliquent à l’utilisation de l'Intelligence Artificielle
+(IA) au sein de l'Université Savoie Mont Blanc (USMB). Cette charte sera régulièrement mise à jour en fonction
+de l'évolution technologique et des besoins institutionnels.
+
+2 - Principes pour une utilisation responsable et éthique
+L'IA, en constante évolution, constitue un outil d'assistance efficace lorsqu'elle apporte une plus-value
+significative et proportionnée à son coût environnemental. Toutefois, elle ne doit pas se substituer au
+raisonnement intellectuel des personnes utilisatrices, qui restent responsables de son usage approprié et des
+productions induites. L'université promeut un environnement où les solutions d’IA sont utilisées de manière
+éthique, responsable, durable et bénéfique pour tous, en assurant la primauté de l’humain et des usages
+réfléchis et transparents de l’IA.
+
+
+
+
+                                                                                                         Page 1 sur 10
+

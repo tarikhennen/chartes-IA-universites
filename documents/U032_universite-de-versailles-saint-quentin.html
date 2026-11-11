@@ -1,0 +1,2343 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 7]> <html class="ie7 oldie no-js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <![endif]-->
+<!--[if IE 8]> <html class="ie8 oldie no-js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <!--<![endif]-->
+
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:description" content="" />
+<meta property="og:title" content="L'Intelligence Artificielle à l'ISM-IAE - ISM-IAE" />
+<meta property="og:site_name" content="ISM-IAE" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.ism-iae.uvsq.fr/lintelligence-artificielle-a-lism-iae-1" />
+<meta property="og:image" content="https://www.ism-iae.uvsq.fr/uas/ISM/LOGO/ISM+IAE+logo+composantes-2021.png" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>L'Intelligence Artificielle à l'ISM-IAE - ISM-IAE</title>
+
+
+
+    <link rel="canonical" href="https://www.ism-iae.uvsq.fr/lintelligence-artificielle-a-lism-iae-1" />
+
+<link rel="icon" type="image/png" href="https://www.ism-iae.uvsq.fr/jsp/images/favicon.png" />
+<meta http-equiv="pragma" content="no-cache" />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Title" content="L'Intelligence Artificielle à l'ISM-IAE - ISM-IAE" />
+<meta name="DC.Creator" content="QUENTIN BEDARD" />
+<meta name="DC.Description" lang="fr-FR" content="" />
+<meta name="DC.Publisher" content="QUENTIN BEDARD" />
+<meta name="DC.Date.created" scheme="W3CDTF" content="20250704 14:48:39.0" />
+<meta name="DC.Date.modified" scheme="W3CDTF" content="20250704 15:09:23.0" />
+<meta name="DC.Language" scheme="RFC3066" content="fr-FR" />
+<meta name="DC.Rights" content="Copyright &copy; ISM-IAE" />
+
+<meta name="description" content="" />
+<meta name="author" lang="fr_FR" content="QUENTIN BEDARD" />
+<meta name="Date-Creation-yyyymmdd" content="20250704 14:48:39.0" />
+<meta name="Date-Revision-yyyymmdd" content="20250704 15:09:23.0" />
+<meta name="copyright" content="Copyright &copy; ISM-IAE" />
+<meta name="reply-to" content="webmaster@uvsq.fr" />
+<meta name="category" content="Internet" />
+
+<meta name="robots" content="index, follow" />
+
+<meta name="distribution" content="global" />
+<meta name="identifier-url" content="https://www.ism-iae.uvsq.fr/" />
+<meta name="resource-type" content="document" />
+<meta name="expires" content="-1" />
+<meta name="google-site-verification" content="" />
+<meta name="Generator" content="K-Sup (6.07.77)" />
+<meta name="Formatter" content="K-Sup (6.07.77)" />
+
+
+    <!-- Police demandee par la cliente en google font https://assistance.kosmos.fr/browse/UVSQREC-5 -->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+
+    <!--[if lte IE 7]><!-->
+    <link rel="stylesheet" href="https://www.ism-iae.uvsq.fr/jsp/styles/fonts/icones/ie7/ie7.css">
+    <script src="https://www.ism-iae.uvsq.fr/jsp/styles/fonts/icones/ie7/ie7.js"></script>
+    <!--<![endif]-->
+
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.ism-iae.uvsq.fr/jsp/styles/all-old-ie.css" />
+    <script>'header|footer|main|article|section|audio|video|source'.replace(/\w+/g,function(t){document.createElement(t)})</script>
+    <script type="text/javascript" src="https://www.ism-iae.uvsq.fr/adminsite/scripts/libs/ie8-shims.js"></script>
+<![endif]-->
+
+
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.ism-iae.uvsq.fr/wro/styles/16544a788cca6a9ef296bea125550444390fb8c5.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.ism-iae.uvsq.fr/wro/styles_uvsq/85db77d62e13cb46be13f72e182ac86516a17d1f.css"/>
+
+
+    <script type="text/javascript">
+        var html = document.getElementsByTagName('html')[0];
+        html.className = html.className.replace('no-js', 'js');
+        // document.getElementsByTagName("html")[0].className = document.getElementsByTagName("html")[0].className.replace("no-js", "js");
+    </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.ism-iae.uvsq.fr/wro/jQueryCSS/4f09505c023ee9faad90b029013642f69c694251.css"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript" src="https://www.ism-iae.uvsq.fr/wro/scripts/7560f8b1366da2014a0c844dab48d9c69aae49e0.js"></script>
+    <script type="text/javascript" src="https://www.ism-iae.uvsq.fr/adminsite/scripts/libs/ckeditor/ckeditor.js"></script><link rel="stylesheet" type="text/css" media="print" href="https://www.ism-iae.uvsq.fr/wro/styles-print/3c3ffec044417b0d2c4aee5dd8276fd557fc4a15.css"/>
+    
+
+
+
+
+
+<style type="text/css" media="screen, print">
+    /*  remplacer par variable bandeau (de site) usine à sites */
+    #bandeau {
+    }
+    @media screen and (min-width: 50em) {
+        .ligne_1 > .colonne_1 {
+            width: 100%;
+        }
+    }
+    .ie7 .ligne_1 > .colonne_1,
+    .ie8 .ligne_1 > .colonne_1 {
+        width: 100%;
+    }
+    h2::after, .h2::after {
+        background-color: #0d7575;
+    }
+
+    .paragraphe__titre--2 {
+        background-color: #0d7575;
+    }
+
+    ::-moz-selection {
+        background: #0d7575;
+    }
+
+    ::-webkit-selection {
+        background: #0d7575;
+    }
+
+    ::selection {
+        background: #0d7575;
+    }
+    ::-webkit-input-placeholder, :-moz-placeholder, ::-moz-placeholder, :-ms-input-placeholder, ::placeholder {
+        color: #0d7575;
+        opacity: 1;
+    }
+
+    .style_bouton, .style_bouton .lien_externe, .style_bouton .lien_interne {
+        background-color: #0d7575;
+    }
+
+    .icon {
+        color: #0d7575;
+    }
+
+    .js .plier-deplier__bouton:hover .icon {
+        color: #0d7575;
+    }
+
+    #acces-directs .plier-deplier__bouton {
+        color: #0d7575;
+    }
+
+    @media screen and (min-width: 980px) {
+        #profil_uvsq .plier-deplier__bouton {
+            color: #0d7575;
+        }
+    }
+
+    #acces-directs .plier-deplier::after {
+        color: #0d7575;
+    }
+
+    #acces-directs .type_rubrique_n3 a {
+        color: #0d7575;
+    }
+
+    #versions li a, #versions li::after {
+        color: #0d7575;
+    }
+
+    #recherche-simple {
+        background: #0d7575;
+    }
+
+    #pied_page_complement, #pied_page_complement a {
+        color: #0d7575;
+    }
+
+    .cartouche .zone-sociale__liste li a span {
+        background: #0d7575;
+    }
+
+    header .cartouche .banniere__baseline {
+        color: #0d7575;
+    }
+
+    #menu {
+        background: #0d7575;
+    }
+
+    #menu_principal.menu_principal--riche > li > a:hover {
+        color: #0d7575;
+    }
+
+    #menu_principal .type_rubrique_UVSQNEWS:hover span , #menu_principal .type_rubrique_VIECAMPUS:hover span {
+        color: #0d7575 !important;
+    }
+
+    #menu_principal.menu_principal--riche > li.menu_principal--ouvert > a, #menu_principal.menu_principal--riche > li:hover > a, #menu_principal .plier-deplier__contenu a, #menu_principal .plier-deplier__contenu span,
+    #menu_principal.menu_principal--riche .menu_principal-actif > a, #menu_principal.menu_principal--riche .menu_principal-actif > span {
+        color: #0d7575;
+    }
+
+    #menu_principal.menu_principal--riche > li.menu_principal--ouvert > a {
+      color: #0d7575 !important;
+    }
+
+    .js #menu .mobile-menu__level-close-button {
+      background-color: #0d7575;
+    }
+
+    .js #menu .mobile-menu__item > button:hover {
+      color: #0d7575 !important;
+    }
+
+    .js #menu .menu_principal__colonne ul {
+      border-left-color: #0d7575;
+    }
+
+    #body #fil_ariane a::before {
+        color: #0d7575;
+    }
+
+    form.formulaire_redacteur p.obligatoire label {
+        color: #0d7575;
+    }
+
+    form.formulaire_redacteur p.obligatoire input, form.formulaire_redacteur p.obligatoire textarea, form.formulaire_redacteur p.obligatoire select {
+        border-color: #0d7575;
+    }
+
+    #encadres .encadre_fiche.encadre--2 .encadre__titre {
+        color: #0d7575;
+    }
+
+    [class^="liste-definitions__terme"], dl, .fiche .contenu > table th {
+        color: #0d7575;
+    }
+
+    .fiche.formation .onglets .onglets__item.onglets__item--actif, .fiche.formation .onglets .onglets__item:hover, .fiche.formation .onglets .onglets__item a:hover {
+        background: #0d7575;
+    }
+
+    .ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight {
+        background: #0d7575;
+    }
+
+    #body.ficheaccueil .toolboxCard ul.objets li, #body.ficheaccueil .grandeToolboxCard ul.objets li, ul.objets li.style_accueil {
+        border-color: #79b3b3
+    }
+
+    .owl-controls .owl-controls-wrapper button,
+    .galerieSimple .pagination_droite, .galerieSimple .pagination_gauche {
+        background-color: #0d7575;
+    }
+
+    .couleur-primaire-secondaire .style_bouton .lien_externe:hover,
+    .couleur-primaire-secondaire .style_bouton .lien_interne:hover {
+        color: #0d7575 !important;
+        border: 1px solid #0d7575;
+        padding-right: 1.944444444em;
+        padding-left: 1.944444444em;
+    }
+
+    #menu_principal .menu_principal-actif.VIECAMPUS > a, #menu_principal .menu_principal-actif.VIECAMPUS > a span {
+        background-color: #0d7575 !important;
+    }
+    
+    a, .a, a:active, .a:active, a:focus, .a:focus, .isLink::before, a:visited, .a:visited {
+        color: #901515;
+    }
+
+    h1, .h1 {
+        color: #901515;
+    }
+
+    .encadre--3,
+    .paragraphe--3 {
+        background-color: #901515;
+    }
+
+    .js #haut_page a:focus {
+        outline: 1px dotted #901515;
+    }
+
+    .actions-fiche > * a:active, .actions-fiche > * a:focus {
+        outline: 1px dotted #901515;
+    }
+
+    #body #menu .mobile-menu__level__titre > a, #body #menu .mobile-menu__level__titre > span {
+        color: #901515 !important;
+    }
+
+    button {
+        color: #901515;
+    }
+
+    button:focus, button:active {
+        outline: 1px dotted #901515;
+    }
+
+    #menu_principal .menu_principal-actif.UVSQNEWS > a, #menu_principal .menu_principal-actif.UVSQNEWS > a span {
+        background-color: #901515 !important;
+    }
+
+
+    #body .agendaCard .dateEvnt {
+        color: #901515;
+    }
+
+    #body .agendaCard {
+        color: #901515;
+    }
+
+    #body .agendaCard .bloc_agenda li {
+        border-color: #901515;
+    }
+
+    #body .card_titre {
+        background: #901515;
+    }
+
+    #body.ficheaccueil h3 {
+        color: #901515;
+    }
+
+    #body .toolboxCard ul li {
+        border-top-color: #901515;
+    }
+
+    #body .rechercheFormationCard__voir_aussi li::before {
+        color: #901515;
+    }
+
+    .search__button, .topic__see-more, .topic__see-less, .toggle-topics, .button_wrapper, #page input[type="button"], #page input[type="submit"], #page input[type="reset"], #page .button, #page .reset, #page .submit, .search-homesection__button-submit{
+        background: #901515;
+    }
+
+    .encadre--3 .button_wrapper .submit,
+    .paragraphe--3 .button_wrapper .submit {
+        color: #901515 !important;
+    }
+
+    .fiche.formation .onglets .onglets__item {
+        background: #901515;
+    }
+
+    .onglets-section__bouton:hover, .onglets-section.onglets-section--actif .onglets-section__bouton {
+        background: #901515;
+    }
+
+    .kscrollable li span, .kscrollable li button {
+        color: #901515;
+    }
+
+    .fiche.actualite .bloc_photo__complement {
+        color: #901515;
+    }
+
+    #recherche-simple input[type="submit"] {
+        background: #901515;
+    }
+
+    ul.objets li.style_accueil > a > h3 {
+        color: #901515;
+    }
+
+    .liste-fiche--titre {
+        color: #901515 !important;
+    }
+
+    #body .vignette_multicolonne .date {
+        background: #901515;
+    }
+
+    @media screen and (max-width: 979px) {
+        #body #profil_uvsq button.plier-deplier__bouton {
+            background: #901515;
+        }
+    }
+
+    #body.ficheaccueil .portraitsCard,
+    #body.ficheaccueil .portraitsCard::before,
+    #body.ficheaccueil .portraitsCard::after {
+        background-color: #901515;
+    }
+
+    #body.ficheaccueil .dernieresAcquisitionsCard {
+        background-color: #0d7575;
+        color: #666666;
+    }
+
+    #body.ficheaccueil .dernieresAcquisitionscard_content .desc a{
+        color: #0d7575;
+    }
+    #body.ficheaccueil .dernieresAcquisitionscard_content .desc span{
+        color: #666666;
+    }
+
+    ul.objets > li.style_agenda .date-agenda {
+        background: #901515;
+    }
+
+     .style_bouton .lien_externe:hover,
+     .style_bouton .lien_interne:hover {
+        background-color: #901515;
+        -webkit-background-color: #901515;
+        -moz-webkit-background-color: #901515;
+        cursor: pointer;
+    }
+
+    
+    #menu_principal .UVSQNEWS > a , #menu_principal .VIECAMPUS > a {
+        background-color: #666666;
+    }
+
+    #body .card_lien,
+    #body .card_lien a {
+        color: #666666;
+    }
+
+    #body .lienCard a {
+        color: #666666;
+    }
+
+    #body.ficheaccueil .carrousel .carrousel--contenu .owl-item .carrousel-deco .infos .infos-wrapper h2 a {
+        background-color: rgba(102,102,102,0.8);
+    }
+
+    #body.ficheaccueil .carrousel .carrousel--contenu .owl-item .carrousel-deco .infos .infos-wrapper h2 a:focus,
+    #body.ficheaccueil .carrousel .carrousel--contenu .owl-item .carrousel-deco .infos .infos-wrapper h2 a:hover {
+        background-color: rgba(102,102,102,1.0);
+    }
+
+    #body.ficheaccueil .layout__slot--columnspan2 .toolboxCard .toolboxCard__title {
+        border-bottom-color: #666666;
+    }
+    #body.ficheaccueil .layout__slot--columnspan2 .archivesHALCard .archivesHALcard_header .archivesHALcard__titre {
+        border-bottom-color: #666666;
+    }
+    #body.ficheaccueil .layout__slot--columnspan2 .archivesHALCard .archivesHALcard_content #archivesOuvertesCard--hal__value {
+        color: #0d7575;
+    }
+
+    #body.ficheaccueil .layout__simple-grid--siteUvsqAccueil .layout__slot--columnspan2 .toolboxCard .toolboxCard__title,
+    #body.ficheaccueil .layout__simple-grid--siteUvsqAccueil .layout__slot--columnspan2 .archivesHALCard  .archivesHALcard_header .archivesHALcard__titre {
+        border-bottom-color: #901515;
+    }
+
+    #body.ficheaccueil .layout__simple-grid--siteUvsqAccueil .agendaCard .date-big {
+        color: #901515;
+    }
+    #body.ficheaccueil .layout__simple-grid--siteUvsqAccueil .agendaCard .card_lien a {
+        color: #901515;
+    }
+    #body.ficheaccueil .layout__simple-grid--siteUvsqAccueil .carrousel .carrousel--contenu .owl-item .carrousel-deco .infos .infos-wrapper h3 a {
+        background-color: #901515;
+    }
+
+    #body.ficheaccueil .date-big {
+        color: #666666;
+    }
+
+    #body.ficheaccueil .rechercheFormationCard .button_wrapper {
+        background-color: #666666;
+    }
+
+    .fiche.actualite .bloc_photo__date_complement_wrapper > div::before {
+        color: #666666;
+    }
+
+    .results-annuaire__other-structures {
+      color: #666666;
+    }
+
+    #body .menu_principal__accroche li {
+        border-color: #666666;
+    }
+
+    .formation__lmd__domaine {
+        background-color: #666666;
+    }
+    #encadres .encadre_fiche.encadre--1 .encadre__titre, #complements .complements__titre {
+        background-color: #901515;
+    }
+    .encadre_fiche .formation_pdf {
+        background-color: #901515;
+    }
+
+    .results-annuaire__item-other-structure {
+      color: #901515;
+    }
+
+    
+</style>
+<style type="text/css" media="print">
+    
+    .fiche h2{
+        color: #0d7575;
+        border-color: #0d7575;
+    }
+
+    .formation .formation__lmd__domaine--pdf{
+        background: #0d7575;
+    }
+    
+</style>
+
+    <link rel="start" title="Accueil" href="https://www.ism-iae.uvsq.fr/" />
+
+    
+    <link rel="alternate" type="application/rss+xml" title="" href="https://www.ism-iae.uvsq.fr/adminsite/webservices/export_rss.jsp?NOMBRE=10&amp;CODE_RUBRIQUE=2794424450596544&amp;LANGUE=0" />
+    
+    
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q675YEF234"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+            gtag('config', 'G-Q675YEF234');
+        </script>
+    
+</head>
+    <body id="body" class="fiche pagelibre">
+<a class="evitement" href="#contenu-encadres">Aller au contenu</a>
+    
+    
+        <img class="bandeau_formation" src="/uas/ISM/BANDEAU_FORMATION/bandeau-offre-formation-fiche-newlogo.png" alt=""/>
+    
+<header role="banner">
+    <div id="bandeau_outils">
+        <div>
+            <p id="acces_direct">
+                <a href="#sans_nav_avec_encadres"></a> |
+                <a href="#menu_principal"></a> |
+                <a href="#acces_directs"></a>  |
+                <a href="#connexion"></a>
+            </p>
+            <button id="menu-principal-bouton" class="plier-deplier__bouton" aria-label="Menu" aria-expanded="false "aria-controls="menu-principal">
+                <span class="css-icon-menu"></span>
+                <span class="icon-libelle sr-only"></span>
+            </button>
+            <div class="font-size">
+                <button type="button" data-font-size="100" aria-label="A (police taille normal)">A</button>
+                <button type="button" data-font-size="120" aria-label="A+ (police taille grande)">A+</button>
+                <button type="button" data-font-size="140" aria-label="A++ (police taille très grande)">A++</button>
+            </div>
+            
+
+
+
+
+
+
+
+	<div id="versions" >
+		<ul>
+			    <li class="versions__item versions_fr"  lang="fr">
+	                
+                   	  <a href="https://www.ism-iae.uvsq.fr/" aria-label="FR" hreflang="fr">
+                        fr
+                      </a>
+                </li>
+			    <li class="versions__item versions_en"  lang="en">
+	                
+                   	  <a href="https://www.ism-iae.uvsq.fr/en" aria-label="EN" hreflang="en">
+                        en
+                      </a>
+                </li>
+		</ul>
+	</div>
+	
+            
+
+
+
+
+    <div id="profil_uvsq" class="plier-deplier">
+            <a href="https://www.ism-iae.uvsq.fr/uvsq-fr" class="direct-link">
+                <span>
+                    UVSQ.fr
+                </span>
+            </a>
+    </div><!-- #profil_uvsq -->
+
+            
+
+
+
+
+
+
+
+
+
+<div id="recherche-simple" role="search" class="plier-deplier">
+	<button class="plier-deplier__bouton" aria-expanded="false">
+		<span aria-hidden="true" class="icon icon-search"></span>
+		<span class="icon-libelle">Recherche</span>
+	</button>
+	<div class="plier-deplier__contenu plier-deplier__contenu--clos" itemscope itemtype="http://schema.org/WebSite">
+		<meta itemprop="url" content="https://www.ism-iae.uvsq.fr/"/>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form id="formRechercheSimple" action="/search" method="get" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" class="search-form search-form--default">
+    <meta itemprop="target" content="/search?beanKey=&l=0&q={q}"/>
+    
+    
+    
+        <input type="hidden" name="site" value="2794424450596544" />
+    
+    <input type="hidden" name="l" value="0"/>
+    <input type="hidden" name="RH" value="1751633608436"/>
+    
+    
+    <input type="hidden" name="rechercheCloisonneeAnnuaireValue" value="beanKeyRechercheAnnuaireksup">
+    <div>
+        <span>
+            <input type="radio" name="beanKey" id="rechercheCloissonneAnnuaire-false" value="150bfcee-1f87-11e7-a0e0-b753bedcad22" checked="checked"/>
+            <label style="display: inline;" for="rechercheCloissonneAnnuaire-false">Tout le site</label>
+        </span>
+        <span>
+            <input type="radio" name="beanKey" id="rechercheCloissonneAnnuaire-true" value="beanKeyRechercheAnnuaireksup" />
+            <label style="display: inline;" for="rechercheCloissonneAnnuaire-true">Annuaire</label>
+        </span>
+    </div>
+    <input itemprop="query-input" name="q" type="text" id="default-MOTS_CLEFS" value="" placeholder="Mot-clé" aria-label="Recherche par mots-clés"/>
+    <input type="submit" value="Rechercher" aria-label="Lancer la recherche" />
+</form>
+
+<script type="text/javascript" src="https://www.ism-iae.uvsq.fr/wro/scripts_search/7d71cbd25e8690631e71cce0a5d851e461c10e8a.js"></script>
+
+	</div><!-- .plier-deplier__contenu -->
+</div><!-- #recherche-simple .plier-deplier -->
+
+        </div><!-- -->
+    </div> <!-- #bandeau_outils -->
+
+    <div class="cartouche">
+        <div>
+            
+
+
+
+
+
+
+
+
+
+
+<div class="banniere clearfix" role="banner">
+    <div class="banniere__logos banniere__logos__1">
+        <div class="banniere__logo banniere__logo__desktop">
+            
+            <a href="https://www.ism-iae.uvsq.fr/" title="Retour à la page d'accueil">
+                <img src="/uas/ISM/LOGO/ISM+IAE+logo+composantes-2021.png" alt="UVSQ | Université Paris-Saclay | Aller à la page d'accueil"/>
+            </a>
+            
+        </div>
+        <div class="banniere__logo banniere__logo__mobile">
+            
+            <a href="https://www.ism-iae.uvsq.fr/" title="Retour à la page d'accueil">
+                <img src="/uas/ISM/LOGO_MOBILE/ISM+IAE+logo+composantes-2021.png" alt="logo-ISM-IAE" title="Retour à la page d'accueil"/>
+            </a>
+            
+        </div>
+        <div class="banniere__logo banniere__logo__desktop">
+            <!-- Logo secondaire -->
+            
+                
+                
+        </div>
+        <div class="banniere__logo banniere__logo__desktop">
+            <!-- Logo tertiaire -->
+            
+                
+                
+        </div>
+    </div>
+    <div class="banniere_baseline_reseaux">
+        <div class="banniere__baselines">
+            
+            <div class="banniere__baseline">Institut Supérieur de Management - IAE
+            </div>
+            
+            
+            <div class="banniere__baseline__complement">Université de Versailles Saint-Quentin-en-Yvelines
+            </div>
+            
+        </div>
+        
+
+
+
+
+
+	<div class="zone-sociale">
+		<div>
+			<span class="zone-sociale__libelle">Suivez-nous sur</span>
+			<ul class="zone-sociale__liste">
+			
+				<li class="zone-sociale__item">
+					<a href="https://www.ism-iae.uvsq.fr/facebook" class="zone-sociale__type-rubrique_0004" target="_blank">
+						<span>
+							<img src="/medias/photo/logo-blue-fond-blanc-petit_1658231713794-jpg" alt="Facebook de l'ISM-IAE" />
+						</span>
+					</a>
+				</li>
+			
+				<li class="zone-sociale__item">
+					<a href="https://www.ism-iae.uvsq.fr/linkedin" class="zone-sociale__type-rubrique_0004" target="_blank">
+						<span>
+							<img src="/medias/photo/logo-linkedin-petit_1658231764229-jpg" alt="LinkedIn de l'ISM-IAE" />
+						</span>
+					</a>
+				</li>
+			
+				<li class="zone-sociale__item">
+					<a href="https://www.ism-iae.uvsq.fr/youtube" class="zone-sociale__type-rubrique_0004" target="_blank">
+						<span>
+							<img src="/medias/photo/logo-youtube-png-rond-2_1658231801828-jpg" alt="Youtube de l'ISM-IAE" />
+						</span>
+					</a>
+				</li>
+			
+				<li class="zone-sociale__item">
+					<a href="https://www.ism-iae.uvsq.fr/instagram" class="zone-sociale__type-rubrique_0004" target="_blank">
+						<span>
+							<img src="/medias/photo/logo-instagram-petit_1658231733004-jpg" alt="Instagram de l'ISM-IAE" />
+						</span>
+					</a>
+				</li>
+			
+				<li class="zone-sociale__item">
+					<a href="https://www.ism-iae.uvsq.fr/qualicert" class="zone-sociale__type-rubrique_0004" target="_blank">
+						<span>
+							<img src="/medias/photo/picto-qualicert_1658142377640-jpg" alt="Certification Qualicert" />
+						</span>
+					</a>
+				</li>
+			
+				<li class="zone-sociale__item">
+					<a href="https://www.ism-iae.uvsq.fr/faire-un-don" class="zone-sociale__type-rubrique_0004" target="_blank">
+						<span>
+							<img src="/medias/photo/soutenir-uvsq-gris_1525251267700-jpg" alt="Faire un don" />
+						</span>
+					</a>
+				</li>
+			
+			</ul>
+		</div>
+	</div><!-- .zone-sociale -->
+
+    </div>
+</div>
+<!-- .banniere -->
+        </div><!-- / -->
+    </div><!-- .cartouche -->
+
+    <!--     <div id="menu" role="navigation" class="plier-deplier__contenu--clos" aria-expanded="false"> -->
+    
+    <!--         <div class="separateur"></div> -->
+    <!--     </div> #menu -->
+
+
+    <nav id="menu" role="navigation" class="plier-deplier__contenu--clos" aria-expanded="false" aria-label="Menu principal">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <ul id="menu_principal" class="menu_principal--riche mobile-menu__level js-mobile-menu__level">
+        <li class="close-button-main"></li>
+            
+            
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--nav">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/lism-iae" class="menu_n1_desktop type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button">L'ISM-IAE</a>
+                    
+                    <a href="#"
+                       class="menu_n1_mobile type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button" data-toggle="dropdown">L'ISM-IAE</a>
+                
+                
+            
+                
+            
+                <div class="plier-deplier__contenu plier-deplier__contenu--clos dropdown-menu data-toggle-target mobile-menu__level  menu__level--1"
+                     role="menu">
+                    
+                    
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            <li class="mobile-menu__level__titre">
+                                <a href="https://www.ism-iae.uvsq.fr/lism-iae">L'ISM-IAE</a>
+                            </li>
+                            
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/actualites" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Actualités</a>
+                                <a href="https://www.ism-iae.uvsq.fr/actualites" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Actualités</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/decouvrir-liae-ism" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Découvrir l'ISM-IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/decouvrir-liae-ism" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Découvrir l'ISM-IAE</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/decouvrir-liae-ism">Découvrir l'ISM-IAE</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/mot-du-directeur"
+                                                       class="type_rubrique_0001 item__control-level-1">Mot du directeur</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/mot-du-fondateur"
+                                                       class="type_rubrique_0001 item__control-level-1">Mot du fondateur</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/politique-generale-et-orientations-strategiques"
+                                                       class="type_rubrique_0001 item__control-level-1">Politique générale et orientations stratégiques</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/reglement-interieur-de-lism-iae-1"
+                                                       class="type_rubrique_0001 item__control-level-1">Réglement intérieur et statuts</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/chiffres-cles"
+                                                       class="type_rubrique_0001 item__control-level-1">Chiffres clés</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/certification-qualicert" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Certification Qualicert</a>
+                                <a href="https://www.ism-iae.uvsq.fr/certification-qualicert" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Certification Qualicert</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/la-rse-a-lism-iae" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">La RSE à l'ISM-IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/la-rse-a-lism-iae" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">La RSE à l'ISM-IAE</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/lintelligence-artificielle-a-lism-iae-1" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">L'Intelligence Artificielle à l'ISM-IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/lintelligence-artificielle-a-lism-iae-1" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">L'Intelligence Artificielle à l'ISM-IAE</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/organisation" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Organisation</a>
+                                <a href="https://www.ism-iae.uvsq.fr/organisation" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Organisation</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/organisation">Organisation</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/organigramme"
+                                                       class="type_rubrique_0001 item__control-level-1">Organigramme</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/conseil-de-lism-iae"
+                                                       class="type_rubrique_0001 item__control-level-1">Conseil de l'ISM-IAE</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/comite-de-direction"
+                                                       class="type_rubrique_0001 item__control-level-1">Comité de direction</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/corps-professoral"
+                                                       class="type_rubrique_0001 item__control-level-1">Corps professoral</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/administration"
+                                                       class="type_rubrique_0001 item__control-level-1">Administration </a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                
+                                <span class="item__control-level-1">Vacataires à l'ISM-IAE</span>
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="">Vacataires à l'ISM-IAE</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/vous-etes-vacataires"
+                                                       class="type_rubrique_0001 item__control-level-1">Vous êtes vacataire</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/devenir-vacataire"
+                                                       class="type_rubrique_0001 item__control-level-1">Devenir vacataire</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                
+                                <span class="item__control-level-1">Événements</span>
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="">Événements</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/rentree-solennelle"
+                                                       class="type_rubrique_0001 item__control-level-1">Rentrée solennelle</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/remise-des-diplomes"
+                                                       class="type_rubrique_0001 item__control-level-1">Célébration des diplômés</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/rencontres-du-management"
+                                                       class="type_rubrique_0001 item__control-level-1">Rencontres du management</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                
+                                <span class="item__control-level-1">Réclamation/information/suggestion</span>
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="">Réclamation/information/suggestion</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/procedure"
+                                                       class="type_rubrique_0001 item__control-level-1">Procédure</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/formulaire-de-contact"
+                                                       class="type_rubrique_0001 item__control-level-1">Formulaire de contact</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne menu_principal__accroche">
+                        
+                    </div>
+                </div>
+            
+        </li>
+                    
+                    
+                        
+                    
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--nav">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/formations" class="menu_n1_desktop type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button">Formations</a>
+                    
+                    <a href="#"
+                       class="menu_n1_mobile type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button" data-toggle="dropdown">Formations</a>
+                
+                
+            
+                
+            
+                <div class="plier-deplier__contenu plier-deplier__contenu--clos dropdown-menu data-toggle-target mobile-menu__level  menu__level--1"
+                     role="menu">
+                    
+                    
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            <li class="mobile-menu__level__titre">
+                                <a href="https://www.ism-iae.uvsq.fr/formations">Formations</a>
+                            </li>
+                            
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/offre-de-formation" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Offre de formation</a>
+                                <a href="https://www.ism-iae.uvsq.fr/offre-de-formation" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Offre de formation</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/offre-de-formation">Offre de formation</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/licences"
+                                                       class="type_rubrique_0001 item__control-level-1">Licences</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/masters"
+                                                       class="type_rubrique_0001 item__control-level-1">Masters</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/doctorats"
+                                                       class="type_rubrique_0001 item__control-level-1">Doctorats</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/les-droits-universitaires"
+                                                       class="type_rubrique_0001 item__control-level-1">Les droits universitaires</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/formation-continue" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Formation continue</a>
+                                <a href="https://www.ism-iae.uvsq.fr/formation-continue" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Formation continue</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/formation-continue">Formation continue</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/toutes-nos-formations"
+                                                       class="type_rubrique_0001 item__control-level-1">Toutes nos formations</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/validation-des-acquis-de-lexperience-vae"
+                                                       class="type_rubrique_0001 item__control-level-1">Validation des Acquis de l'Experience (VAE)</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/entreprise"
+                                                       class="type_rubrique_0001 item__control-level-1">Entreprise</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/reunions-dinformations"
+                                                       class="type_rubrique_0001 item__control-level-1">Réunions d'informations</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/informations-pratiques"
+                                                       class="type_rubrique_0001 item__control-level-1">Informations pratiques</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/contacts-fc"
+                                                       class="type_rubrique_0001 item__control-level-1">Contacts FC</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/reclamation-information-suggestion"
+                                                       class="type_rubrique_0001 item__control-level-1">Réclamation/information/suggestion</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                
+                                <span class="item__control-level-1">Insertion professionnelle</span>
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="">Insertion professionnelle</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/convention-de-stage"
+                                                       class="type_rubrique_0001 item__control-level-1">Convention de stage</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/recherche-emploi-stage-alternance"
+                                                       class="type_rubrique_0001 item__control-level-1">Recherche emploi/stage/alternance</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                
+                                <span class="item__control-level-1">Pôle innovation</span>
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="">Pôle innovation</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/presentation-du-pole"
+                                                       class="type_rubrique_0001 item__control-level-1">Présentation du pôle</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/projets-suivis-et-soutenus-par-le-pole"
+                                                       class="type_rubrique_0001 item__control-level-1">Projets suivis et soutenus par le pôle</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/etre-etudiant-entrepreneur-a-lism-iae" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Être étudiant entrepreneur à l'ISM-IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/etre-etudiant-entrepreneur-a-lism-iae" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Être étudiant entrepreneur à l'ISM-IAE</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/controles-de-connaissances" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Contrôles de connaissances</a>
+                                <a href="https://www.ism-iae.uvsq.fr/controles-de-connaissances" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Contrôles de connaissances</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne menu_principal__accroche">
+                        
+                    </div>
+                </div>
+            
+        </li>
+                    
+                    
+                        
+                    
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--nav">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/vie-etudiante" class="menu_n1_desktop type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button">Vie étudiante</a>
+                    
+                    <a href="#"
+                       class="menu_n1_mobile type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button" data-toggle="dropdown">Vie étudiante</a>
+                
+                
+            
+                
+            
+                <div class="plier-deplier__contenu plier-deplier__contenu--clos dropdown-menu data-toggle-target mobile-menu__level  menu__level--1"
+                     role="menu">
+                    
+                    
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            <li class="mobile-menu__level__titre">
+                                <a href="https://www.ism-iae.uvsq.fr/vie-etudiante">Vie étudiante</a>
+                            </li>
+                            
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/projets-etudiants" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Projets étudiants</a>
+                                <a href="https://www.ism-iae.uvsq.fr/projets-etudiants" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Projets étudiants</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/projets-etudiants">Projets étudiants</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/commission-financement-projets"
+                                                       class="type_rubrique_0001 item__control-level-1">Commission financement projets</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/organiser-un-evenement"
+                                                       class="type_rubrique_0001 item__control-level-1">Organiser un événement</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/ma-scolarite" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Ma scolarité</a>
+                                <a href="https://www.ism-iae.uvsq.fr/ma-scolarite" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Ma scolarité</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/vie-culturelle-et-sportive" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Vie culturelle et sportive</a>
+                                <a href="https://www.ism-iae.uvsq.fr/vie-culturelle-et-sportive" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Vie culturelle et sportive</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/association-des-anciens-de-lism-iae" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Association des Anciens de l’ISM IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/association-des-anciens-de-lism-iae" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Association des Anciens de l’ISM IAE</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/association-des-anciens-de-lism-iae">Association des Anciens de l’ISM IAE</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/reseau-alumni-ism"
+                                                       class="type_rubrique_0001 item__control-level-1">Plateforme digitale alumni</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/actualites-alumni"
+                                                       class="type_rubrique_0001 item__control-level-1">Actualités Alumni</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/bde-de-lism-iae" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">BDE de l'ISM-IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/bde-de-lism-iae" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">BDE de l'ISM-IAE</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/la-mde-marta-pan" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">La MDE Marta Pan</a>
+                                <a href="https://www.ism-iae.uvsq.fr/la-mde-marta-pan" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">La MDE Marta Pan</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/lutte-contre-les-harcelements" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Lutte contre les harcèlements</a>
+                                <a href="https://www.ism-iae.uvsq.fr/lutte-contre-les-harcelements" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Lutte contre les harcèlements</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/reglement-interieur-de-lism-iae" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Réglement intérieur de l'ISM-IAE</a>
+                                <a href="https://www.ism-iae.uvsq.fr/reglement-interieur-de-lism-iae" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Réglement intérieur de l'ISM-IAE</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/calendriers-universitaires" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Calendriers universitaires</a>
+                                <a href="https://www.ism-iae.uvsq.fr/calendriers-universitaires" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Calendriers universitaires</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne menu_principal__accroche">
+                        
+                    </div>
+                </div>
+            
+        </li>
+                    
+                    
+                        
+                    
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--nav">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/recherche" class="menu_n1_desktop type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button">Recherche</a>
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/recherche"
+                       class="menu_n1_mobile type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button" >Recherche</a>
+                
+                
+            
+                
+            
+        </li>
+                    
+                    
+                        
+                    
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--nav">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/entreprise-1" class="menu_n1_desktop type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button">Entreprise</a>
+                    
+                    <a href="#"
+                       class="menu_n1_mobile type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button" data-toggle="dropdown">Entreprise</a>
+                
+                
+            
+                
+            
+                <div class="plier-deplier__contenu plier-deplier__contenu--clos dropdown-menu data-toggle-target mobile-menu__level  menu__level--1"
+                     role="menu">
+                    
+                    
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            <li class="mobile-menu__level__titre">
+                                <a href="https://www.ism-iae.uvsq.fr/entreprise-1">Entreprise</a>
+                            </li>
+                            
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/former-vos-collaborateurs" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Former vos collaborateurs</a>
+                                <a href="https://www.ism-iae.uvsq.fr/former-vos-collaborateurs" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Former vos collaborateurs</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/soutenir-lism-iae-grace-a-la-taxe-dapprentissage" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Soutenir l'ISM-IAE grâce à la taxe d'apprentissage</a>
+                                <a href="https://www.ism-iae.uvsq.fr/soutenir-lism-iae-grace-a-la-taxe-dapprentissage" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Soutenir l'ISM-IAE grâce à la taxe d'apprentissage</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/recruter-nos-etudiants-diplomes" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Recruter nos étudiants / diplômés</a>
+                                <a href="https://www.ism-iae.uvsq.fr/recruter-nos-etudiants-diplomes" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Recruter nos étudiants / diplômés</a>
+                                
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="https://www.ism-iae.uvsq.fr/recruter-nos-etudiants-diplomes">Recruter nos étudiants / diplômés</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/reseau-alumni-ism-1"
+                                                       class="type_rubrique_0001 item__control-level-1">Réseau alumni ISM-IAE</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                
+                                <span class="item__control-level-1">Recherche - Chaires</span>
+                                
+                                
+                                
+                                <ul class="second-menu mobile-menu__level js-mobile-menu__level" role="menu">
+                                    <li class="mobile-menu__level__titre">
+                                        <a href="">Recherche - Chaires</a>
+                                    </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/chaire-ri"
+                                                       class="type_rubrique_0004 item__control-level-1">Chaire R#I</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/chaire-jean-monnet"
+                                                       class="type_rubrique_0001 item__control-level-1">Chaire Jean Monnet</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/chaire-unesco-1"
+                                                       class="type_rubrique_0001 item__control-level-1">Chaire UNESCO</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li class="mobile-menu__item js-mobile-menu__item">
+                                            
+                                                
+                                                    <a href="https://www.ism-iae.uvsq.fr/chaire-la-poste"
+                                                       class="type_rubrique_0001 item__control-level-1">Chaire La Poste</a>
+                                                
+                                                
+                                            
+                                        </li>
+                                    
+                                </ul>
+                                
+                                    
+                                
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne menu_principal__accroche">
+                        
+                    </div>
+                </div>
+            
+        </li>
+                    
+                    
+                        
+                    
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--nav">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/international" class="menu_n1_desktop type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button">International</a>
+                    
+                    <a href="#"
+                       class="menu_n1_mobile type_rubrique_nav item__control-level-0" aria-expanded="false"
+                       role="button" data-toggle="dropdown">International</a>
+                
+                
+            
+                
+            
+                <div class="plier-deplier__contenu plier-deplier__contenu--clos dropdown-menu data-toggle-target mobile-menu__level  menu__level--1"
+                     role="menu">
+                    
+                    
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            <li class="mobile-menu__level__titre">
+                                <a href="https://www.ism-iae.uvsq.fr/international">International</a>
+                            </li>
+                            
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/seminaires-internationaux" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Séminaires internationaux</a>
+                                <a href="https://www.ism-iae.uvsq.fr/seminaires-internationaux" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Séminaires internationaux</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/venir-a-luvsq" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Venir à l'UVSQ</a>
+                                <a href="https://www.ism-iae.uvsq.fr/venir-a-luvsq" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Venir à l'UVSQ</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/partir-a-letranger" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Partir à l'étranger</a>
+                                <a href="https://www.ism-iae.uvsq.fr/partir-a-letranger" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Partir à l'étranger</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/formation-mib" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Formation MIB</a>
+                                <a href="https://www.ism-iae.uvsq.fr/formation-mib" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Formation MIB</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne">
+                        <ul>
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/projet-international-«-responsabilite-sociale-des-universite-»" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Projet international RSU</a>
+                                <a href="https://www.ism-iae.uvsq.fr/projet-international-«-responsabilite-sociale-des-universite-»" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Projet international RSU</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/projet-international-erasmus-mundus-design-measures" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">Projet international Erasmus Mundus Design Measures</a>
+                                <a href="https://www.ism-iae.uvsq.fr/projet-international-erasmus-mundus-design-measures" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">Projet international Erasmus Mundus Design Measures</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/emdm-romst" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">EMDM-ROMST</a>
+                                <a href="https://www.ism-iae.uvsq.fr/emdm-romst" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">EMDM-ROMST</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                            
+                            <li class="mobile-menu__item js-mobile-menu__item">
+                                
+                                
+                                <a href="https://www.ism-iae.uvsq.fr/eugloh" class="menu_n1_desktop type_rubrique_0001 item__control-level-1">EUGLOH</a>
+                                <a href="https://www.ism-iae.uvsq.fr/eugloh" class="menu_n1_mobile type_rubrique_0001 item__control-level-1">EUGLOH</a>
+                                
+                                
+                                
+                                
+                                    
+                                
+                        </ul>
+                    </div>
+                    <div class="menu_principal__colonne menu_principal__accroche">
+                        
+                    </div>
+                </div>
+            
+        </li>
+                    
+                    
+                        
+                    
+                
+            
+                
+        <li class="menu_principal-actif   
+				 			mobile-menu__item js-mobile-menu__item menu__level--0
+				 			mobile-menu__item--profuvsq">
+                
+            
+                
+            
+                
+                
+                
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/uvsq-fr" class="menu_n1_desktop type_rubrique_profuvsq item__control-level-0" aria-expanded="false"
+                       role="button">UVSQ.fr</a>
+                    
+                    <a href="https://www.ism-iae.uvsq.fr/uvsq-fr"
+                       class="menu_n1_mobile type_rubrique_profuvsq item__control-level-0" aria-expanded="false"
+                       role="button" >UVSQ.fr</a>
+                
+                
+            
+                
+            
+        </li>
+                    
+                    
+                
+            </ul>
+
+
+
+        <div class="separateur"></div>
+    </nav> <!-- #menu -->
+</header>
+
+<main id="page" role="main">
+    <div id="page_deco">
+        <div id="contenu-encadres" tabindex="-1"><div id="no_bandeau_wrapper"></div>
+            <div id="sans_nav_avec_encadres" class="contenu" role="main">
+                    
+                
+
+
+
+
+
+
+
+
+<p id="fil_ariane"><span>Vous êtes ici&nbsp;:</span> <a href="https://www.ism-iae.uvsq.fr/">ISM-IAE</a><a href="https://www.ism-iae.uvsq.fr/">FR</a><a href="https://www.ism-iae.uvsq.fr/lism-iae">L'ISM-IAE</a><a href="https://www.ism-iae.uvsq.fr/lintelligence-artificielle-a-lism-iae-1">L'Intelligence Artificielle à l'ISM-IAE</a></p>
+
+
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul class="actions-fiche">
+            <li>Publié le 4 juillet 2025</li>
+            <li class="actions-fiche__separateur"></li>
+	<li class="actions-fiche__item actions-fiche__item--print">
+		<button title="Imprimer" onclick="window.print(); return false;"><span aria-hidden="true" class="icon icon-print"></span><span class="actions-fiche__libelle">Imprimer</span></button>
+	</li><li class="actions-fiche__item actions-fiche__item--pdf"><a title="Version PDF" href="https://www.ism-iae.uvsq.fr/lintelligence-artificielle-a-lism-iae-1?toPdf=true" rel="nofollow"><span aria-hidden="true" class="icon icon-file-pdf-o"></span><span class="actions-fiche__libelle">Version PDF</span></a></li></ul><!-- .actions-fiche -->
+<h1>L'Intelligence Artificielle à l'ISM-IAE</h1>
+
+
+
+
+
+
+
+
+<div class="ligne_1"><div class="colonne_1">
+				<div class="colonne_deco"><div class="paragraphe--0"><div class="paragraphe__contenu--0 toolbox">
+								À l’ISM-IAE, nous croyons au potentiel de l’intelligence artificielle (IA) comme levier d’innovation pédagogique. Utilisée de manière responsable, elle peut enrichir l’expérience d’apprentissage, favoriser l’autonomie des étudiants et développer de nouvelles compétences. Cependant, pour préserver l’intégrité scientifique et l’honnêteté intellectuelle, son usage doit s’inscrire dans un cadre rigoureux.<br>
+<br>
+C’est dans cette optique que nous avons élaboré une charte claire et évolutive, définissant les conditions dans lesquelles l’IA peut être mobilisée dans les travaux universitaires. Cette charte rappelle que l’IA est un outil d’assistance, non un substitut à la réflexion critique, à la créativité personnelle ou à l’effort de recherche.<br>
+<br>
+
+							</div><!-- .paragraphe__contenu--0 .toolbox -->
+						</div><!-- paragraphe--0 --><div class="paragraphe--2">
+								<h2 class="paragraphe__titre--2">Les derni&#232;res actualit&#233;s relatives &#224; l&#39;IA</h2><div class="paragraphe__contenu--2 toolbox">
+								
+<table class="liste-fiche style0005"><tbody><tr><td class="liste-fiche-image"><img class="liste-fiche--vignette" src="https://www.ism-iae.uvsq.fr/medias/photo/v_9782271155009_1751292758801-jpg" alt=""></td><td>	            	<b><a class="liste-fiche--titre lien_interne" href="https://www.ism-iae.uvsq.fr/ia-enjeux-et-responsabilites"> IA : Enjeux et responsabilités</a></b><!-- .liste-fiche--titre -->										<p class="liste-fiche--date">						12 juin 2025											</p>						            	<p class="liste-fiche--resume newsletter_font">Sous la direction de Gilles Rouet<br>CNRS éditions, Les Essentiels d'Hermès<br>12 €<br>288 pages<br>EAN : 9782271155009</p><!-- .liste-fiche--resume --></td>			</tr><tr><td class="liste-fiche-image"><img class="liste-fiche--vignette" src="https://www.ism-iae.uvsq.fr/medias/photo/v_charte-ia-ism-iae-2025-page-1_1751634191764-jpg" alt=""></td><td>	            	<b><a class="liste-fiche--titre lien_interne" href="https://www.ism-iae.uvsq.fr/ajout-dune-charte-sur-lusage-de-lia-dans-le-reglement-des-etudes-de-lism-iae-1">Ajout d'une charte sur l'usage de l'IA dans le réglement des études de l'ISM-IAE</a></b><!-- .liste-fiche--titre -->										<p class="liste-fiche--date">						3 juin 2025											</p>						            	<p class="liste-fiche--resume newsletter_font">Le 3 juin dernier, la Commission de la formation et de la vie universitaire de l'UVSQ a approuvé à l'unanimité l'ajout en annexe du règlement des études un texte relatif à la charte sur l'IA, adoptée précédemment en conseil de composante ISM-IAE</p><!-- .liste-fiche--resume --></td>			</tr><tr><td class="liste-fiche-image"><img class="liste-fiche--vignette" src="https://www.ism-iae.uvsq.fr/medias/photo/v_mini-soutenance_1535986033723-png" alt=""></td><td>	            	<b><a class="liste-fiche--titre lien_interne" href="https://www.ism-iae.uvsq.fr/comment-stimuler-la-performance-a-travers-le-management-base-sur-lintelligence-artificielle-une-etude-des-enjeux-de-lla-pour-les-fonctions-manageriales-traditionnelles-et-des-determinants-strategiques-du-management-base-sur-lia">Comment stimuler la performance à travers le management base sur l'Intelligence artificielle ? Une étude des enjeux de l'lA pour les fonctions managériales traditionnelles et des déterminants stratégiques du management basé sur l'IA</a></b><!-- .liste-fiche--titre -->										<p class="liste-fiche--date">						29 novembre 2023											</p>						            	<p class="liste-fiche--resume newsletter_font">Thèse en sciences de l'information et de la communication présentée et soutenue publiquement par M. Nedjib Benleulmi sous la direction du Dr. Théodora Miere et du Pr. Nicholas Paparoidamis</p><!-- .liste-fiche--resume --></td>			</tr></tbody></table><!-- .liste-fiche -->
+							</div><!-- .paragraphe__contenu--2 .toolbox -->
+						</div><!-- paragraphe--2 --></div><!-- colonne_deco -->
+			</div><!-- .colonne_1 --></div><!-- .ligne_1 -->
+
+
+
+
+
+
+
+
+</div> <!-- .contenu -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="encadres" role="complementary">
+
+
+
+
+
+
+
+
+        <div class="encadre encadre_fiche encadre--1">
+                <h2 class="encadre__titre">T&#233;l&#233;charger la charte sur l&#39;usage de l&#39;IA &#224; l&#39;ISM-IAE</h2>
+            <div class="encadre__contenu toolbox">
+                
+<span class="kpdfviewer"><div class="pdfviewer-container">    <div id="viewer" class="pdf-viewer js-initialize" data-pdfurl="https://www.ism-iae.uvsq.fr/medias/fichier/charte-ia-ism-iae-2025_1751633599880-pdf?ID_FICHE=312920&amp;INLINE=FALSE" data-pdfworkerurl="/content/js/pdfworker-919cc468ec5621996147.js" data-pagebypage="true">    <div class="toybox pdf-viewer__toybox">        <div class="toybox__group">            <button type="button" class="toybox__btn toybox__btn--flow js-zoomout " title="Dézoomer">                <span class="icon icon--minus toybox__btn-icon">                    <span class="screen-reader-text">Dézoomer</span>                </span>            </button>            <button type="button" class="toybox__btn toybox__btn--flow js-auto " title="100 %">                <span>100 %<span class="screen-reader-text">100 %</span>                </span>            </button>            <button type="button" class="toybox__btn toybox__btn--start js-zoomin " title="Zoomer">                <span class="icon icon--plus toybox__btn-icon">                    <span class="screen-reader-text">Zoomer</span>                </span>            </button>        </div>        <div class="toybox__group">                <button type="button" class="toybox__btn toybox__btn--start js-previousPage " title="Page précédente">                    <span class="icon icon--less-than-primary">                        <span class="screen-reader-text">Page précédente</span>                    </span>                </button>                <span class="toybox__btn toybox__btn--flow">                    <label for="current" class="screen-reader-text">Page courante</label>                    <input class="js-currentPageField pdf-viewer__page-input" type="number" id="current" value="1" size="4" min="1" max="1">                    <span class="text--slate-darker">&nbsp;/                        <span class="js-totalPage">1</span>                    </span>                </span>                <button type="button" class="toybox__btn toybox__btn--end js-nextPage " title="Page suivante">                    <span class="icon icon--greater-than-primary">                        <span class="screen-reader-text">Page suivante</span>                    </span>                </button>            </div>        <div class="toybox__group pull-right">            <a href="https://www.ism-iae.uvsq.fr/medias/fichier/charte-ia-ism-iae-2025_1751633599880-pdf?ID_FICHE=312920&amp;INLINE=FALSE" class="toybox__btn js-pdfFallback lien_interne">                <span class="icon icon--download-primary icon--sm toybox__btn-icon"></span>&nbsp;Télécharger<span class="pdf-viewer__name  hide ">(&nbsp;charte-ia-ism-iae-2025_1751633599880-pdf?ID_FICHE=312920&amp;INLINE=FALSE&nbsp;)</span>                <span class="screen-reader-text js-docinfos"></span>            </a>        </div>    </div>    <div class="pdf-viewer__content js-pdf-viewer__content ">        <div class="pdf-viewer pdf-viewer__viewer"></div>    </div></div>    <script src="/content/js/commons-fe2f13dc249b30bed3a4.js"></script>	<script async src="/content/js/pdfviewer-921ff947ea3c485e4d52.js"></script>	</div></span>
+            </div><!-- .encadre_contenu -->
+        </div><!-- .encadre encadre_fiche .encadre--1 -->
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+</div><!-- #encadres -->
+
+<div id="redacteur-date-impression">
+</div>
+<!-- #contenu-encadres -->
+</div><!-- #redacteur-date-impression -->
+
+</div><!-- #page_deco -->
+<div class="separateur"></div>
+</main> <!-- #page -->
+<div id="pied_outils">
+    <div class="acces-rapide">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+<div class="acces-direct__intranet">
+    
+</div>
+    </div><!-- / -->
+
+</div>
+<!-- #pied_outils -->
+
+<footer id="pied_page" class="" role="contentinfo">
+    
+
+
+
+
+
+
+
+
+
+
+
+		<ul id="pied_geant" class="clearfix">
+			
+				
+					<li>
+						<span>Accès direct</span>
+						<ul>
+							
+								<li class=" type_rubrique_n2">
+									<a href="https://www.ism-iae.uvsq.fr/contact-ism-iae">Contact ISM-IAE</a>
+								</li>
+							
+								<li class=" type_rubrique_n2">
+									<a href="https://www.ism-iae.uvsq.fr/certification-qualicert-2">Certification Qualicert</a>
+								</li>
+							
+								<li class=" type_rubrique_n2">
+									<a href="https://www.ism-iae.uvsq.fr/acceder-au-campus">Accéder au campus</a>
+								</li>
+							
+						</ul>
+					</li>
+				
+			
+			
+		</ul><!-- #pied_geant -->
+	
+
+    <div id="pied_page_complement">
+        
+
+
+
+<div class="pied_page_complement__contenu clearifx">
+	<ul>
+		
+				<li><a href="https://www.ism-iae.uvsq.fr/plan-du-site">Plan du site</a></li>
+			
+				<li><a href="https://www.ism-iae.uvsq.fr/mentions-legales">Mentions légales</a></li>
+			
+				<li><a href="https://www.ism-iae.uvsq.fr/donnees-personnelles">Données personnelles</a></li>
+			
+				<li><a href="https://www.ism-iae.uvsq.fr/accessibilite">Accessibilité</a></li>
+			
+		
+			<li class="adresse">© Université de Versailles Saint-Quentin-en-Yvelines - Tous droits réservés</li>
+		
+	</ul>
+</div>
+    </div>
+    <span id="haut_page"><span aria-hidden="true" class="icon icon-arrow-up"></span><a href="#body"><span class="icon-libelle"></span></a></span>
+</footer>
+<!-- #pied_page -->
+<div class="check-media"></div>
+<script src="/content/js/commons-fe2f13dc249b30bed3a4.js"></script>
+	<script async src="/content/js/pdfviewer-921ff947ea3c485e4d52.js"></script>
+	
+<script type="text/javascript" src="https://www.ism-iae.uvsq.fr/wro/scriptsFo_fr_FR/670a7be4b9a5ecdec7a0265687e2d977ba23ff00.js"></script>
+
+
+
+
+
+</body>
+</html>
+

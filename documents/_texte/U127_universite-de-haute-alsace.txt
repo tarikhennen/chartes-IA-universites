@@ -1,0 +1,94 @@
+                  Céline CAUBERT – Néhémie HENRY – Emilie LEROMAIN
+
+
+
+
+Les IA génératives (IAG) évoluant rapidement, les informations présentées
+ici sont susceptibles d’évoluer. N’hésitez pas à faire vous-même des tests
+pour confirmer ou infirmer les observations décrites.
+
+
+Comment citer une IA ?
+        D’après Alexei Grinbaum, Directeur de recherche et président du Comité
+opérationnel pilote d'éthique du numérique du CEA, il faut « déclarer et expliciter l'usage
+qui [...] est fait [des outils IA] ». Si l’IA est « créatrice de solutions inédites », les
+découvertes « revien[nen]t [...] à celui qui a formulé le bon prompt -ou requête- et à ceux
+qui ont fabriqué le logiciel, un collectif d’auteurs regroupant les personnes ayant élaboré le
+corpus d'entraînement, fabriqué le modèle, etc... »1.
+
+
+En France, on peut considérer de deux manières une œuvre créée par une IA :
+
+    •   si elle est créée seulement avec l’assistance d’un ordinateur, c’est la personne
+        humaine à l’origine des actions pour la création qui est titulaire des droits sur
+        l’œuvre ;
+    •   si elle est générée automatiquement, sans intervention humaine, elle ne pourra
+        pas être qualifiée d’« œuvre » car seule une personne humaine peut être
+        considérée comme auteur et non une machine. A l’heure actuelle (février 2023), les
+        créations issues d’un prompt ne sont pas protégées par le droit d’auteur français2.
+
+
+
+
+1
+  Le Meur, H. et Grinbaum, A. (2024). IA : les filigranes au service de l’intégrité scientifique. Entretien avec Alexei
+Grinbaum. Infolettre OFIS, (10). https://www.ofis-france.fr/wp-content/uploads/2024/02/EntretienOfis-
+AlexeiGrinbaum2024.pdf
+2
+  Monneraye, L. de la. (2023, 15 février). L’intelligence artificielle peut-elle être auteure d’une œuvre ? Vaughan
+Avocats. https://www.vaughan-avocats.fr/categories/revue-de-presse-12918/articles/lintelligence-artificielle-peut-elle-
+etre-auteure-dune-uvre-95188.htm
+
+Mai 2024
+                                                                                               CC BY-SA 2.0 FR Deed
+Utiliser une IA pour rédiger ses références
+bibliographiques
+Il est possible d’utiliser les IA génératives de texte pour rédiger ses références
+bibliographiques. Avant toute chose, il faut leur indiquer les règles de la norme et comment
+se construit une référence bibliographique. Un exemple peut leur être fourni. Cependant,
+une relecture reste nécessaire, car même avec toutes les informations nécessaires, la
+référence ne sera pas forcément construite correctement, et ce même quand on utilise des
+outils mettant en avant leur capacité à générer une référence normalisée comme
+https://typeset.io/citation-generator.
+
+
+
+    Lors de nos tests*, ChatGPT-3.5, Copilot, Gemini et Perplexity ont tous fourni des
+    réponses erronées lorsqu’on leur demandait, sans leur donner d’exemple, de mettre en
+    forme une référence bibliographique selon une norme donnée. Seul Le Chat de Mistral a
+    fourni la réponse attendue.
+
+    Même avec un prompt détaillé indiquant le modèle de construction de la norme et les
+    informations à faire figurer, toutes les réponses fournies ne sont pas exemptes d’erreurs.
+    Un test a été fait avec la norme Vancouver :
+
+        -   ChatGPT-3.5 et Gemini omettent d’abréger le titre de la revue.
+        -   Copilot inclut des mises en forme (gras, italique) inutiles et n’abrège pas non plus le
+            titre de la revue.
+
+    Cette fois-ci, en plus du Chat de Mistral, Perplexity a également réussi l’exercice.
+
+    Enfin, aucun modèle testé n’a été capable de repérer l’ensemble des erreurs contenus dans
+    une liste bibliographique et ce malgré le lien donné vers la norme.
+
+
+    *tests réalisés en mars et en avril 2024
+
+
+
+
+Si vous disposez de ChatGPT-Plus (payant), il est possible de créer un chatbot dédié en lui
+fournissant la documentation sur un sujet (par exemple, la norme bibliographique) et en
+créant un prompt dédié. Cela permettra d’automatiser les requêtes futures.
+
+
+En conclusion, à l’heure actuelle, les IAG testées ne sont pas suffisamment
+performantes pour aider à la rédaction bibliographique, sauf si l’ensemble des
+éléments nécessaires à la rédaction leur sont détaillés et expliqués. Zotero reste
+donc la meilleure alternative gratuite pour générer vos références selon une norme, même
+s’il ne dispense pas d’une relecture finale.
+
+
+Mai 2024
+                                                                                   CC BY-SA 2.0 FR Deed
+

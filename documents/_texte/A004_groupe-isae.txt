@@ -1,0 +1,88 @@
+                                   Principes d'utilisation des outils
+                                   d'intelligence artificielle
+                                   Établissements du Groupe ISAE, Juin 2025
+
+
+Préambule
+Les dispositions de la présente charte s’appliquent à l'ensemble de la communauté des
+établissements membres du Groupe ISAE (i.e. étudiants, enseignants-chercheurs et autres
+personnels).
+Elle présente un ensemble de principes directeurs pour promouvoir une utilisation judicieuse,
+critique, sécuritaire, éthique et compatible avec les enjeux climatiques de l’intelligence artificielle
+(IA), dans le respect des lois en vigueur et des règles universitaires.
+
+Définitions
+Selon la définition du Parlement Européen, constitue une IA tout outil utilisé par une machine pour
+reproduire des comportements liés aux humains, tels que le raisonnement, la planification et la
+créativité.
+Le terme IA dans la présente charte fait essentiellement référence aux IA génératives (IAg). L’IAg est
+un type d’intelligence artificielle capable de traiter des informations et de générer des médias et
+des contenus variés (texte, audio, code, vidéos, images, etc.). Cette technologie s'appuie sur des
+grands modèles de langage (i.e. LLM, Large Language Model), entraînés sur de vastes volumes de
+données, ce qui leur permet de produire des réponses complexes, s'approchant de l’interaction
+humaine.
+
+Principe 1 - Utiliser l’IA avec discernement : usages sobres et appropriés
+La création de nouveaux services basés sur l'IA et l'intégration de l'IA à des services préexistants se
+développent de façon massive. Pourtant, en tant que citoyen, étudiant ou professionnel, il convient
+d'adopter une utilisation sobre, justifiée et appropriée.
+Il est nécessaire d’identifier les usages des IA par rapport à ses besoins propres.
+   -   Ayez conscience des impacts environnementaux, les outils d’IA consomment une grande
+       quantité de ressources, conduisant à des impacts environnementaux, sociétaux et
+       économiques importants ; si le besoin peut être répondu par les outils usuels, les privilégier.
+   -   L’assistance d’un outil d’IA ne doit pas se substituer au développement des compétences
+       professionnelles, académiques ou pédagogiques.
+   -   L’IA et les applications ou fonctionnalités qui y font appel ne sont pas adaptées pour
+       résoudre tous les types de tâches.
+   -   Ayez conscience des caractéristiques et des limites des outils et vérifiez que vous pouvez y
+       verser vos données (voir principe 4).
+
+Principe 2 - Évaluer les réponses de l’IA : usages prudents et éclairés
+Il existe des biais inhérents à ces outils. Les réponses peuvent être inexactes, inventées
+(hallucinations), obsolètes, biaisées, stéréotypées, empreintes de valeurs ou de croyances.
+Il est impératif dans ce contexte de faire preuve d’esprit critique, notamment :
+   -   Soyez conscients des biais de fonctionnement du service.
+   -   Relisez, analysez et vérifiez toujours les résultats générés par l’IA, en les comparant avec
+       d’autres sources.
+   -   Interrogez-vous sur le service d’IA utilisé, notamment l’origine de l’éditeur du service, la
+       transparence des sources d’apprentissage du dispositif, et la position de votre établissement
+       sur ce service (entité en charge des systèmes d’information, de la sécurité informatique, etc.).
+
+Principe 3 - Déclarer l’utilisation d’une IA : usages intègres et transparents
+Le fait de déclarer l’utilisation d’une IA accroît la transparence, contribue à maintenir le lien de
+confiance et est une garantie d’éthique professionnelle, même lorsque son utilisation est minimale.
+Les utilisateurs sont tenus de respecter les règles et principes gouvernant l’intégrité professionnelle,
+intellectuelle et scientifique, notamment l’interdiction du plagiat.
+   -   Vous êtes responsable des contenus que vous diffusez. Une IA peut générer des éléments
+       non originaux et protégés notamment par le droit d’auteur.
+   -   Faites clairement apparaître sur le travail réalisé (production de texte, image, code,
+       traduction, traitement de données…) la mention d’assistance, même minimale, de l’IA ; par
+       exemple : « Cette synthèse a été produite en partie à l’aide de Mistral AI ».
+
+Principe 4 – Garantir la protection et la confidentialité des données : usages
+sécurisés
+Afin de préserver notre sécurité, notre souveraineté, ainsi que notre patrimoine scientifique, et de
+se conformer aux exigences du Règlement Général sur la Protection des Données (RGPD), il est
+indispensable de se questionner sur le degré de sensibilité des informations communiquées aux
+services d’IA. Toutes données soumises à un service d’IA peuvent être potentiellement intégrées à
+la base de connaissance de l’outil et réutilisées afin de répondre à des demandes d’autres
+utilisateurs.
+Utilisez uniquement des informations non confidentielles, qui peuvent être rendues publiques.
+   -   Ne communiquez pas de données personnelles ou sensibles, y compris les vôtres ou celles
+       de vos collègues, des étudiants ou des usagers.
+   -   Ne communiquez pas de données protégées par le droit de la propriété intellectuelle ou
+       industrielle.
+   -   Ne communiquez pas de données confidentielles liées à l’exercice de vos fonctions (p.ex.,
+       les données issues de la recherche dans le cadre professionnel ou d’un stage en entreprise
+       pour un étudiant) ou liées au secret des affaires des acteurs avec lesquels vous interagissez.
+   -   Préférez des services d’IA dont l’hébergement est maîtrisé localement (i.e., IA souveraines
+       locales, nationales ou européennes).
+
+
+Ce document énonce des principes généraux d’utilisation des outils d’IA. Il conviendra de
+s’assurer que l’utilisation des outils d’IA est autorisée par, selon la situation : l’enseignant
+responsable du cours, le supérieur hiérarchique, les collaborateurs et membres des équipes
+ou les destinataires des documents.
+Cette charte sera complétée par des actions d’accompagnement au sein des établissements,
+pour tous les usagers.
+

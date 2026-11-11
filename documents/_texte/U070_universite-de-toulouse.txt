@@ -1,0 +1,58 @@
+11 juin 2025
+Charte du bon usage des IA génératives à l’Université de Toulouse
+                 L’IAG n’est ni bonne ni mauvaise. Tout dépend de son usage.
+                                   - L’Humain au centre -
+
+Préambule
+
+Les outils d'Intelligence Artificielle (IA) se développent à une vitesse exponentielle et sont devenus
+aujourd’hui facilement accessibles. Parmi ces outils, les outils d’IA génératives (IAG) sont capables de
+générer en quelques secondes du contenu possédant une syntaxe parfaite sur une multitude de sujets.
+
+Ces systèmes d’IAG (gratuits ou payants) sont accessibles à tous. Leurs progrès récents ont un fort
+impact sur la formation, la recherche, l’évaluation, le traitement, l’utilisation de documents et
+d’informations… sur nos missions à tous. Ils procurent potentiellement des gains de temps et
+d’efficacité. En tant qu’universitaires, nous ne pouvons les ignorer, mais nous devons en faire un bon
+usage. En tant que responsables, nous devons informer des limites et risques de ces nouveaux outils
+mais aussi accompagner l’ensemble de la communauté de notre université pour qu’il en soit fait un
+usage efficace, réfléchi et critique en prenant en compte les dimensions éthiques et sociétales. Le bon
+usage d’un outil nécessite un processus d’apprentissage et d’appropriation pour que ces outils servent
+d’assistance et non pas de substitution aux démarches intellectuelles.
+
+L'Université de Toulouse reconnaît le potentiel transformateur de l’IAG dans les domaines de
+l’enseignement, de la recherche et de l’administration. La charte déclinée dans ce document vise à
+promouvoir un usage éthique et responsable de l'IAG au sein de notre communauté universitaire, tout
+en préservant l'intégrité académique, les droits fondamentaux et en favorisant l'innovation. Elle donne
+un certain nombre de recommandations et prévient des risques. Elle ne forme pas au bon usage mais
+précise le cadre et les principes.
+
+Enfin, dans un monde en mutation rapide, les évolutions technologiques et les transformations du
+marché du travail rendent essentiel l'usage judicieux des outils d'IAG. Il est de notre devoir de préparer
+les étudiants à s’adapter à ces mutations par une maîtrise réfléchie de ces outils, tout en accompagnant
+l’ensemble du personnel de notre université pour qu'ils soient eux-mêmes en mesure de gérer ces
+changements et de jouer un rôle actif dans cette transformation.
+
+Objectifs de la charte
+
+Cette charte s’applique à tous les membres de la communauté universitaire : étudiants, enseignants-
+chercheurs, enseignants, chercheurs, personnels administratifs et techniques, dans le cadre de
+l’utilisation de l’IAG au sein de l’Université. Elle vise les objectifs suivants :
+
+    -   Définir un cadre éthique pour l'utilisation de l'IAG
+    -   Promouvoir une utilisation responsable et bénéfique de l'IAG
+    -   Sensibiliser aux risques et aux enjeux liés à l'IAG
+    -   Établir des lignes directrices claires pour tous les membres de la communauté universitaire
+
+I. Introduction
+
+I.1. Présentation de l’IAG
+
+L’IAG est une IA permettant la génération d’un texte, d’une image, d’un son, d’une vidéo et de tout
+document sur soumission d’une requête (prompt) ou d’informations spécifiques qu’il est capable
+d’analyser (une image, un son, une vidéo, un document texte, PPT, PDF, …).
+
+Une des grandes forces de ces outils IAG réside dans la mise à disposition de chats conversationnels (ou
+chatbots) qui sont capables de simuler des conversations humaines de manière fluide et cohérente. Ces
+systèmes utilisent des modèles de traitement du langage naturel (NLP) pour comprendre et répondre aux
+                       Charte du bon usage des IA génératives à l’UT – Page 1/7
+

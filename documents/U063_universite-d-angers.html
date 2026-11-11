@@ -1,0 +1,580 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta content="Ametys CMS Open source (http://www.ametys.org)" name="generator" /><link href="/skins/UnivAngers-v2/resources/img/favicon.ico" rel="shortcut icon" /><title>L&rsquo;UA se dote d&rsquo;une charte sur l&rsquo;intelligence artificielle - Universit&eacute; Angers</title><meta charset="utf-8" /><meta content="Universit&eacute; Angers" name="author" /><meta content="Universit&eacute; Angers" name="copyright" /><meta content="fr" name="language" /><meta content="15 days" name="revisit-after" /><meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport" /><meta content="ie=edge" http-equiv="x-ua-compatible" /><meta content="L&rsquo;UA se dote d&rsquo;une charte sur l&rsquo;intelligence artificielle" name="DC.title" /><meta content="n.calvez#utilisateurs-ldap" name="DC.contributor" /><meta content="2025-11-13" name="DC.date" /><meta content="Text" name="DC.type" /><meta content="text/html" name="DC.format" /><meta content="defaultWebContent://8c5c8375-ef4c-4ce0-aadd-f688dd357b9f" name="DC.identifier" /><meta content="fr" name="DC.language" /><meta content="fr" name="DC.coverage" /><!----><link href="/_plugins/web/www/fr/filter/events/rss.xml" title="Flux RSS des actualit&eacute;s du site de l&#039;Universit&eacute; d&#039;Angers" type="application/rss+xml" rel="alternate" /><link href="/_plugins/web/www/fr/filter/org.ametys.web.article.RSS/rss.xml" title="Flux RSS des articles du site de l&#039;Universit&eacute; d&#039;Angers" type="application/rss+xml" rel="alternate" /><noscript><div><img alt="" style="border:0" src="https://piwik.univ-angers.fr//piwik.php?idsite=20&amp;rec=1" /></div></noscript><link href="/plugins/cms/dublincore/content.rdf?contentId=defaultWebContent://8c5c8375-ef4c-4ce0-aadd-f688dd357b9f" rel="meta" /><link type="text/css" rel="stylesheet" href="/_plugins/web/resources-minimized/MjA1NzAwNDk1.css" media="screen" /><link type="text/css" rel="stylesheet" href="/_plugins/web/resources-minimized/NjU5NzY0MTI4.css" /><link type="text/css" rel="stylesheet" href="/_plugins/web/resources-minimized/MTg2ODQ3ODk3.css" media="handheld,screen" /><link type="text/css" rel="stylesheet" href="/_plugins/web/resources-minimized/LTExMjM4NjY2OTE.css" media="print,handheld,screen" /><script type="text/javascript" src="/_plugins/web/resources-minimized/MjEyMDA0MjIzNQ.js"></script><script type="text/javascript"><!--
+
+              	$j = jQuery.noConflict();
+		
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTM2ODA4MzE1Mg.js"></script><script type="text/javascript"><!--
+
+                $j(document).ready(function() {
+                    $j().piroBox_ext({
+                        piro_speed: 600,
+                        bg_alpha: 0.5,
+                        piro_scroll: true,
+                        prev_label: 'Précédent',
+                        next_label: 'Suivant',
+                        close_label: 'Fermer'
+                    });
+                });
+	        
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTIwNDA0ODAzNQ.js"></script><script type="text/javascript"><!--
+
+            mejs.i18n.language('fr');
+        
+// --></script><script type="text/javascript"><!--
+
+            ametysUser = null;
+            
+            var _ametysUserCallbacks = [];
+            var _ametysUserRunning = false;
+            
+            var _fillUserInputs = function(id, field, callback)
+            {
+                if (this[field])
+                {
+                    var input = document.getElementById(id);
+                    if (!input.value)
+                    {
+                        input.value = this[field];
+                        if (typeof callback == "function")
+                        {
+                           callback(id, input, this[field]);
+                        }
+                    }
+                }
+            }
+            
+            
+            
+            function getAmetysUser(callback)
+            {
+                if (ametysUser && typeof(callback) == "function")
+                {
+                    callback(ametysUser);
+                }
+                else
+                {
+                    if (typeof(callback) == "function")
+                    {
+                        _ametysUserCallbacks.push(callback);
+                    }
+                    
+                    if (!_ametysUserRunning)
+                    {
+                        _ametysUserRunning = true;
+                        
+                        $j.ajax({
+                            url: "/_plugins/cms/current-user",
+                            dataType: "json",
+                            error: function(result, status, error) {
+                                console.log(error);
+                                ametysUser = null;
+                                _ametysUserRunning = false;
+                            },
+                            success: function(user) {
+                                ametysUser = user;
+                                
+                                if (ametysUser)
+                                {
+                                    ametysUser.fill = _fillUserInputs;
+                                }
+                                
+                                for (var i=0; i < _ametysUserCallbacks.length; i++)
+                                {
+                                    try 
+                                    {
+                                        _ametysUserCallbacks[i](ametysUser);
+                                    } 
+                                    catch(e) 
+                                    {
+                                        console.error("Failed to invoked callback function " + _ametysUserCallbacks[i].name + ":", e);
+                                    }
+                                }
+                                
+                                _ametysUserRunning = false;
+                            }
+                        });
+                    }
+                }
+            }
+        
+// --></script><script type="text/javascript"><!--
+
+           ametysCookieConsentListener = [];
+            
+           
+                function ametysCallCookieConsentListener(accept)
+                {
+                    for (var i = 0; i < ametysCookieConsentListener.length; i++)
+                    {
+                       ametysCookieConsentListener[i].apply(window, [accept]);
+                    }
+                }
+
+                
+                    var ametysCookieExpireDay = 390;
+                    
+                    function ametysRefuseCookieConsent()  
+                    {
+                        $j.cookie('ametysHasConsent', false, {expires: ametysCookieExpireDay, path: '' || '/'});
+                        
+                        ametysCallCookieConsentListener(false);
+                        ametysHideInformCookieConsent();
+                    }
+            
+                    function ametysAcceptCookieConsent()
+                    {
+                        $j.cookie('ametysHasConsent', true, {expires: ametysCookieExpireDay, path: '' || '/'});
+                        
+                        
+                        ametysHideInformCookieConsent();
+                    }
+            
+                    function ametysHideInformCookieConsent() 
+                    {
+                        $j("#cookie-banner").hide();
+                    }
+                    
+                
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTg5MDc1MDA2OQ.js"></script><script type="text/javascript"><!--
+
+            AmetysFront.CONTEXT_PATH = '';
+            AmetysFront.ABSOLUTE_CONTEXT_PATH = 'https://www.univ-angers.fr';
+            AmetysFront.URI_PREFIX = '';
+            AmetysFront.ABSOLUTE_URI_PREFIX = 'https://www.univ-angers.fr';
+            AmetysFront.MAX_UPLOAD_SIZE = 167772160 - 1000; // 1000 for request overhead
+                
+            AmetysFront.setAppParameter('siteName', 'www');
+            AmetysFront.setAppParameter('sitemapLanguage', 'fr');
+            AmetysFront.setAppParameter('locale', 'fr');
+        
+// --></script><script data-donotminimize="true" src="/skins/UnivAngers-v2/resources/assets/vendor/popper.min.js"></script><script data-donotminimize="true" src="/skins/UnivAngers-v2/resources/assets/vendor/bootstrap/bootstrap.min.js"></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTE0MjY0ODgyMzg.js"></script><script data-donotminimize="true" src="/skins/UnivAngers-v2/resources/assets/js/components/hs.navigation.js"></script><script type="text/javascript" src="/_plugins/web/resources-minimized/MTM0NjIyMzA3.js"></script><script type="text/javascript"><!--
+
+			      var _paq = _paq || [];
+			      
+			      
+					_paq.push([function() {
+					var self = this;
+					function getOriginalVisitorCookieTimeout() {
+					var now = new Date(),
+					nowTs = Math.round(now.getTime() / 1000),
+					visitorInfo = self.getVisitorInfo();
+					var createTs = parseInt(visitorInfo[2]);
+					var cookieTimeout = 33696000; // 13 mois en secondes
+					var originalTimeout = createTs + cookieTimeout - nowTs;
+					return originalTimeout;
+					}
+					this.setVisitorCookieTimeout( getOriginalVisitorCookieTimeout() );
+					}]);	
+							      
+			      
+			      
+			      ametysCookieConsentListener.push(function(accept) {
+                    if (accept)
+                    {
+                        _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+                        _paq.push(['setConsentGiven']);
+	                  (function() {
+	                    var u=(("https:" == document.location.protocol) ? "https://" : "http://") + "piwik.univ-angers.fr//";
+	                    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+	                    
+	                    var searchTracking = false;
+	                    
+	                        var searchKeyword = "";
+	                        if (searchKeyword != '')
+	                        {
+	                            // Internal search tracking on a search result page
+	                            _paq.push(["trackSiteSearch", searchKeyword, false, false]);
+	                            searchTracking = true;
+	                        }
+	                    
+	                    
+	                    if (!searchTracking)
+	                    {
+	                        _paq.push(["trackPageView"]);
+	                    }
+	                    _paq.push(["enableLinkTracking"]);
+	                    _paq.push(["setSiteId", "20"]);
+	                    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+	                    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+	                  })();
+	                    }
+	                    else
+	                    {
+	                        _paq.push(['forgetConsentGiven']);
+	                    }
+	                });
+			      
+			
+// --></script></head><body><header data-header-fix-effect="slide" data-header-fix-moment="500" class="u-header u-header--static u-header--show-hide u-header--change-appearance" id="js-header"><div class="g-bg-bleu-ua bar-langue g-color-white g-py-4"><div class="g-mx-80--lg text-right g-pr-30"><a href="/fr/index.html" title="Voir la page en fran&ccedil;ais">fr</a> | <a href="/en/index.html" title="See this page in english">en</a></div></div><div data-header-fix-moment-classes="g-bg-white-opacity-0_7 u-shadow-v18 g-py-0" data-header-fix-moment-exclude="g-bg-white g-py-10" class="u-header__section u-header__section--dark g-bg-black g-transition-0_3"><nav class="navbar-expand-lg"><div class="container-fluid pl-0 "><div class="row mx-0 g-transition-0_3 "><div class="col g-px-1 g-max-width-120 g-bg-white"><img alt="Logo R&eacute;publique Fran&ccedil;aise" src="/skins/UnivAngers-v2/resources/img/Republique_Francaise_RVB.svg" class="img-fluid " /></div><div class="col col-md my-auto"><a href="/fr/index.html"><img alt="Accueil" src="/skins/UnivAngers-v2/resources/img/logo-header-blanc-bleu.png" class="img-fluid w-auto g-py-20" /></a></div><div class="col col-auto my-auto order-md-last pr-0"><button title="MENU" data-target="#navBar" data-toggle="collapse" aria-controls="navBar" aria-expanded="false" aria-label="Toggle navigation" type="button" class="navbar-toggler navbar-toggler-right btn  g-brd-none"><span class="d-block lib-menu">MENU</span><span class="hamburger hamburger--slider g-pt-5"><span class="hamburger-box"><span class="hamburger-inner"></span></span></span></button></div><div class="search col col-12 col-md-auto my-auto"><form method="post" action="/fr/moteur-de-recherche.html"><input placeholder="recherche" title="Saisissez le mots-clefs pour lancer la recherche" name="textfield" class="input-text  input-ua" type="text" /><input value="true" name="multisite" type="hidden" /><input value="www" name="sites" type="hidden" /><input value="www2" name="sites" type="hidden" /><input value="odf" name="sites" type="hidden" /><input value="" name="input" class="art-hmenu-form-button btn btn-search-img " type="submit" /><input type="hidden" name="submit-form" /></form></div></div><div data-navigation-overlay-classes="g-bg-black-opacity-0_8 g-transition-0_5" data-navigation-init-body-classes="g-transition-0_5" data-navigation-init-classes="g-transition-0_5" data-navigation-position="right" data-navigation-breakpoint="lg" id="navBar" class="js-navigation navbar-collapse align-items-center flex-sm-row u-main-nav--overlay-hidden g-bg-bleu-ua g-pt-10 g-pt-5--lg g-transition-0_5 "><div class="u-main-nav__list-wrapper ml-auto"><div class="mobile-burger d-block d-sm-none col col-auto my-auto order-md-last pr-0"><button title="MENU" data-target="#navBar" data-toggle="collapse" aria-controls="navBar" aria-expanded="false" aria-label="Toggle navigation" type="button" class="navbar-toggler navbar-toggler-right btn  g-brd-none"><span class="d-block lib-menu">MENU</span><span class="hamburger hamburger--slider g-pt-5"><span class="hamburger-box"><span class="hamburger-inner"></span></span></span></button></div><ul class="navbar-nav ml-auto"><li class="nav-item dropdown bases show"><a aria-haspopup="true" role="button" href="/fr/vous-etes.html" class="nav-link dropdown-toggle" aria-expanded="true" data-toggle="dropdown"><i aria-hidden="true" class="fa icon-rotates chevron-menu"> &gt;</i>Vous &ecirc;tes</a><div class="dropdown-menu u-dropdown-static show"><ul class="nav flex-column"><li class=" nav-item bases"><a href="/fr/vous-etes/futur-etudiant.html" class="nav-link g-font-weight-bold--hover">Futur &eacute;tudiant / Lyc&eacute;en</a></li><li class=" nav-item bases"><a href="/fr/vous-etes/etudiant-e.html" class="nav-link g-font-weight-bold--hover">&Eacute;tudiant</a></li><li class=" nav-item bases"><a href="/fr/vous-etes/etudiant-international.html" class="nav-link g-font-weight-bold--hover">&Eacute;tudiant international</a></li><li class=" nav-item bases"><a href="/fr/vous-etes/doctorant.html" class="nav-link g-font-weight-bold--hover">Doctorant</a></li><li class=" nav-item bases"><a href="/fr/vous-etes/salarie-demandeur-d-emploi.html" class="nav-link g-font-weight-bold--hover">Salari&eacute; / Demandeur d&#039;emploi</a></li><li class=" nav-item bases"><a href="/fr/vous-etes/entreprise.html" class="nav-link g-font-weight-bold--hover">Entreprise / Partenaire</a></li><li class=" nav-item bases"><a href="/fr/vous-etes/journaliste.html" class="nav-link g-font-weight-bold--hover">Journaliste</a></li></ul></div></li><li class="nav-item dropdown bases"><a aria-haspopup="true" role="button" href="/fr/universite.html" class="nav-link dropdown-toggle" aria-expanded="false" data-toggle="dropdown"><i aria-hidden="true" class="fa icon-rotates chevron-menu"> &gt;</i>Universit&eacute;</a><div class="dropdown-menu u-dropdown-static"><ul class="nav flex-column"><li class=" nav-item bases"><a href="/fr/universite/qui-sommes-nous.html" class="nav-link g-font-weight-bold--hover">Qui sommes-nous ?</a></li><li class=" nav-item bases"><a href="/fr/universite/fonctionnement.html" class="nav-link g-font-weight-bold--hover">Fonctionnement</a></li><li class=" nav-item bases"><a href="/fr/universite/strategies-et-grands-projets.html" class="nav-link g-font-weight-bold--hover">Strat&eacute;gies et grands projets</a></li><li class=" nav-item bases"><a href="/fr/universite/classements-internationaux.html" class="nav-link g-font-weight-bold--hover">Classements internationaux</a></li><li class=" nav-item bases"><a href="/fr/universite/les-chantiers-de-l-ua.html" class="nav-link g-font-weight-bold--hover">Les chantiers de l&#039;UA</a></li><li class=" nav-item bases"><a href="/fr/universite/travailler-a-l-ua.html" class="nav-link g-font-weight-bold--hover">Travailler &agrave; l&#039;UA</a></li></ul></div></li><li class="nav-item dropdown bases"><a aria-haspopup="true" role="button" href="/fr/menu-recherche.html" class="nav-link dropdown-toggle" aria-expanded="false"><i aria-hidden="true" class="fa icon-rotates chevron-menu"> &gt;</i>Recherche</a></li><li class="nav-item dropdown bases"><a aria-haspopup="true" role="button" href="/fr/menu-formations.html" class="nav-link dropdown-toggle" aria-expanded="false"><i aria-hidden="true" class="fa icon-rotates chevron-menu"> &gt;</i>Formations</a></li><li class="nav-item dropdown bases"><a aria-haspopup="true" role="button" href="/fr/menu-international.html" class="nav-link dropdown-toggle" aria-expanded="false"><i aria-hidden="true" class="fa icon-rotates chevron-menu"> &gt;</i>International</a></li><li class="nav-item dropdown bases"><a aria-haspopup="true" role="button" href="/fr/menu-vie-des-campus.html" class="nav-link dropdown-toggle" aria-expanded="false"><i aria-hidden="true" class="fa icon-rotates chevron-menu"> &gt;</i>Vie des campus</a></li></ul></div></div></div></nav></div></header><main><img class="img-fluid w-100" src="/_resource/Pages_Bandeau_Illustration/Illustration_marque.jpg" alt="" /><div class="container-fluid g-px-50--sm g-px-125--xl"><div class="row"><div class="col-lg-8 col-md-7 g-px-0--lg g-z-index-2"><div class="ml-auto text-uppercase g-font-ua-poppins-semibold g-font-size-12 g-pt-5 g-hidden-sm-down"><ul class="u-list-inline"><li class="list-inline-item g-mr-5"><span class="g-mr-5">&gt;</span><a class="u-link-v5 g-color-main g-color-bleu-ua--hover" href="/fr/universite.html">Universit&eacute;</a></li><li class="list-inline-item g-mr-5"><span class="g-mr-5">&gt;</span><a class="u-link-v5 g-color-main g-color-bleu-ua--hover" href="/fr/universite/actualites.html">Actualit&eacute;s</a></li><li class="list-inline-item g-mr-5"><span class="g-mr-5">&gt;</span><a class="u-link-v5 g-color-main g-color-bleu-ua--hover" href="/fr/universite/actualites/actualites-2025.html">2025</a></li><li class="list-inline-item g-color-bleu-ua"><span class="g-mr-5">&gt;</span><span>L&rsquo;UA se dote d&rsquo;une charte sur l&rsquo;intelligence artificielle</span></li></ul></div><div class="g-mt-30 d-flex"><a href="javascript:window.print();" class="u-image-lien u-image-print-ua"></a><span id="sendByMailHeader-7468515853338445"></span><script type="text/javascript"><!--
+
+                    $j("#sendByMailHeader-7468515853338445").wrapInner("<a class='u-image-lien u-image-mail-ua' href='javascript: sendByMail_form_popup_7468515853338445()'></a>")
+				
+// --></script><form method="post" action="/fr/_plugins/socialnetworking/page/send-mail" id="sendByMail-7468515853338445"><div class="sendByMail-form" id="sendByMail-form-7468515853338445"><input value="page://7164531c-35be-43d2-b4cc-7a3cb0728119" id="sendByMail-7468515853338445-id" name="page-id" type="hidden" /><div class="field"><div class="label"><label for="sendByMail-7468515853338445-name">Votre nom<span class="mandatory"> *</span></label></div><div class="input"><input id="sendByMail-7468515853338445-name" name="name" type="text" /></div><div class="field-end"></div><script type="text/javascript"><!--
+
+                getAmetysUser(function(user) {
+                    if (user && user.fill)
+                    {
+                        user.fill("sendByMail-7468515853338445-name", "fullname");
+                    }
+                });
+            
+// --></script></div><div class="field"><div class="label"><label for="sendByMail-7468515853338445-email-by">Votre email<span class="mandatory"> *</span></label></div><div class="input"><input id="sendByMail-7468515853338445-email-by" name="email" type="text" /></div><div class="field-end"></div><script type="text/javascript"><!--
+
+                getAmetysUser(function(user) {
+                    if (user && user.fill)
+                    {
+                        user.fill("sendByMail-7468515853338445-email-by", "email");
+                    }
+                });
+            
+// --></script></div><div class="field"><div class="label"><label for="sendByMail-7468515853338445-email-to">Destinataire(s)<span class="mandatory"> *</span></label></div><div class="input"><input id="sendByMail-7468515853338445-email-to" name="emailTo" type="text" /><br /><span class="hint">S&eacute;par&eacute;s par des virgules</span></div><div class="field-end"></div></div><div class="field"><div class="label"><label for="sendByMail-7468515853338445-text">Message</label></div><div class="input"><textarea rows="3" cols="20" id="sendByMail-7468515853338445-text" name="text"></textarea></div><div class="field-end"></div></div><div class="field"><div class="label"><label for="sendByMail-7468515853338445-captcha">Texte de l&#039;image<span class="mandatory"> *</span></label></div><div class="input captcha-recaptcha"><input id="sendByMail-7468515853338445-captcha-key" name="captcha-key" type="hidden" /><input id="sendByMail-7468515853338445-captcha" name="captcha-value" type="hidden" /><div id="captcha17495598900058706" class="g-recaptcha"></div><script type="text/javascript"><!--
+
+            function loadValueToSend_captcha17495598900058706(value) {
+                document.getElementById("sendByMail-7468515853338445-captcha").value = value;
+            }
+            var widgetIds = [];
+            
+            function ReCaptchaCallback_captcha17495598900058706 ()
+            {
+                recaptchaLoaded = true;
+                for (var i = 0; i < recaptchaFieldsToLoad.length; i++)
+                {
+                    var resetId = grecaptcha.render(recaptchaFieldsToLoad[i].captchaId, {
+                        'sitekey' : '6LcXZ2keAAAAAM9vGeAW51KGxDLMZAu5bINCvABU',
+                        'callback' : recaptchaFieldsToLoad[i].callback, 
+                        'theme' : recaptchaFieldsToLoad[i].theme,
+                        'size' : recaptchaFieldsToLoad[i].size,
+                        'tabindex' : "1"
+                    });
+                widgetIds[recaptchaFieldsToLoad[i].captchaId] = resetId;
+                }
+            }
+            
+            if (typeof recaptchaLoaded == 'undefined')
+            {
+                // The recaptcha script was never loaded
+                recaptchaLoaded = false;
+                recaptchaFieldsToLoad = [{
+                    'captchaId' : "captcha17495598900058706",
+                    'callback' : loadValueToSend_captcha17495598900058706 ,
+                    'theme' : 'light',
+                    'size' : 'normal',
+                }];
+                document.write("<script src=\"https://www.google.com/recaptcha/api.js?onload=ReCaptchaCallback_captcha17495598900058706&render=explicit\" async defer></script>");
+            }
+            else if (recaptchaLoaded == false)
+            {
+                // The recaptcha script is loading but not ready.
+                recaptchaFieldsToLoad.push({
+                    'captchaId' : "captcha17495598900058706",
+                    'callback' : loadValueToSend_captcha17495598900058706 ,
+                    'theme' : 'light',
+                    'size' : 'normal'
+                })
+            }
+            else
+            {
+                // the recaptcha script is loaded and ready
+                var resetId = grecaptcha.render("captcha17495598900058706", {
+                    'sitekey' : '6LcXZ2keAAAAAM9vGeAW51KGxDLMZAu5bINCvABU',
+                    'callback' : loadValueToSend_captcha17495598900058706,
+                    'theme' : 'light',
+                    'size' : 'normal'
+                });
+                widgetIds[captcha17495598900058706] = resetId;
+            }
+            
+            function refresh_sendByMail_7468515853338445(focusNow)
+            {
+                grecaptcha.reset(widgetIds["captcha17495598900058706"]);
+            }
+            
+        
+// --></script></div><div class="field-end"></div></div><div id="sendByMail-submit-7468515853338445"><div class="button"><input type="submit" class="art-button" value="Envoyer" onclick="return sendByMail_form_submit_7468515853338445();" title="" /></div></div></div></form><script type="text/javascript"><!--
+
+				function sendByMail_form_switch_7468515853338445()
+				{
+					var form = document.getElementById('sendByMail-7468515853338445');
+					var submit = document.getElementById('sendByMail-submit-7468515853338445');
+					form.style.display = (form.style.display == 'none') ? '' : 'none';
+					submit.style.display = (submit.style.display == 'none') ? '' : 'none';
+				}
+                
+                sendByMail_captchaRequired_7468515853338445 = true;
+                
+				sendByMail_form_switch_7468515853338445();
+				
+				function sendByMail_form_popup_7468515853338445()
+				{
+                    if (sendByMail_captchaRequired_7468515853338445)
+                    {
+					   refresh_sendByMail_7468515853338445();
+                    }
+					$j("#sendByMail-form-7468515853338445 script").remove();
+					$j("#sendByMail-form-7468515853338445").dialog({
+				      resizable: false,
+				      height:'auto',
+				      width: 'auto',
+				      modal: true,
+				      title: 'Envoyer par mail',
+				      buttons: {
+				        Envoyer: function() {
+				          sendByMail_form_submit_7468515853338445();
+				        },
+				        Annuler: function() {
+				          $j( this ).dialog( "close" );
+				        }
+				      }
+				    });
+				    
+					$j('#sendByMail-7468515853338445-email-to').val('');
+					$j('#sendByMail-7468515853338445-text').val('');
+					$j('#sendByMail-7468515853338445-captcha').val('');
+				}
+				
+				function sendByMail_form_submit_7468515853338445()
+				{
+					var form = document.getElementById('sendByMail-7468515853338445');
+					
+					var pageId =  $j('#sendByMail-7468515853338445-id');
+					var nameInput = $j('#sendByMail-7468515853338445-name');
+					var emailInputBy = $j('#sendByMail-7468515853338445-email-by');
+					var emailInputTo = $j('#sendByMail-7468515853338445-email-to');
+					var contentInput = $j('#sendByMail-7468515853338445-text');
+					var captchaKey = $j('#sendByMail-7468515853338445-captcha-key');
+                    var captchaInput = $j('#sendByMail-7468515853338445-captcha');
+                    
+					var errors = false;
+					
+					if (/^\s*$/.test(nameInput.val()))
+					{
+						errors = true;
+						nameInput.parentsUntil('.field').parent().addClass('error');
+					}
+					else
+					{
+						nameInput.parentsUntil('.field').parent().removeClass('error');
+					}
+					
+					if (!/^([a-z0-9._-]+@[a-z0-9.-]{2,}[.][a-z]{2,})?$/.test(emailInputBy.val()) || /^\s*$/.test(emailInputBy.val()))
+					{
+						errors = true;
+						emailInputBy.parentsUntil('.field').parent().addClass('error');
+					}
+					else
+					{
+						emailInputBy.parentsUntil('.field').parent().removeClass('error');
+					}
+					
+					if (!/^([a-z0-9._-]+@[a-z0-9.-]{2,}[.][a-z]{2,})?(\s*,\s*([a-z0-9._-]+@[a-z0-9.-]{2,}[.][a-z]{2,})?)*$/.test(emailInputTo.val()) || /^\s*$/.test(emailInputTo.val()))
+					{
+						errors = true;
+						emailInputTo.parentsUntil('.field').parent().addClass('error');
+					}
+					else
+					{
+						emailInputTo.parentsUntil('.field').parent().removeClass('error');
+					}
+					
+                    
+
+					if (!errors)
+					{
+						// send it in ajax
+						var data = {
+							"page-id": pageId.val(),
+							"name": nameInput.val(),
+							"email": emailInputBy.val(),
+							"emailTo": emailInputTo.val(),
+							"text": contentInput.val(),
+							"captcha-key": captchaKey.val(),
+							"captcha-value": captchaInput.val(),
+							"ajax": "true"
+						};
+
+						function result(data)
+						{
+							var s = "";
+							$j('errors error', data).each(function () { s += $j(this).text() + "\n"; });
+							
+							if (s == "")
+							{
+								var errors = $j('error > error', data);
+                                var mailErrors = $j('mailError > mailError', data);
+                                
+								if (errors.length == 0 && mailErrors.length == 0)
+								{
+									$j("#sendByMail-form-7468515853338445").dialog("close");
+									alert("Le mail a bien été envoyé");
+								}
+								else if (errors.length > 0)
+								{
+                                    var m = '';
+                                    $j('error > error', data).each(function () { 
+                                        m += "\n*" + $j(this).text();
+                                    });
+									alert("Votre formulaire contient les erreurs suivantes :" + m);
+                                    if (sendByMail_captchaRequired_7468515853338445)
+                                    {
+                                       refresh_sendByMail_7468515853338445();
+                                    }
+								}
+                                else if (mailErrors.length > 0)
+                                {
+                                    var m = '';
+                                    $j('mailError > mailError', data).each(function () { 
+                                        m += "\n" + $j(this).text();
+                                    });
+                                    
+                                    alert("L'envoi du mail a échoué pour les adresses email suivantes :" + m);
+                                    if (sendByMail_captchaRequired_7468515853338445)
+                                    {
+                                       refresh_sendByMail_7468515853338445();
+                                    }
+                                }
+							}
+							else
+							{
+                                // Could really append ??
+								alert(s);
+								if (sendByMail_captchaRequired_7468515853338445)
+                                {
+                                   refresh_sendByMail_7468515853338445();
+                                }
+							}
+						}
+                        
+                        
+                        function handleError(jqXHR, textStatus, errorThrown)
+                        {
+                            alert("Une erreur inattendue est survenue: l'envoi de mail a échoué.");
+                        }
+						
+                        $j.ajax({
+                            url: "/fr/_plugins/socialnetworking/page/send-mail",
+                            data: data,
+                            type: 'post',
+                            success: result,
+                            error: handleError
+                        });
+					}
+
+					return false;
+				}
+			
+// --></script><div class="art-sharethis"><div class="art-sharethis-wrapper"><script type="text/javascript"><!--
+
+            var switchTo5x=true; // Multi Post
+            $j(document).ready(function() 
+            {
+                var baseUrl = document.location.protocol == 'https:' ? 'https://ws.' : 'http://w.';
+                $j.getScript(baseUrl + "sharethis.com/button/buttons.js", function(data, textStatus) {stLight.options({
+            publisher:'7fcfec1e-16ef-41a0-8902-67b9f511c6ba'
+            , lang:'fr', fbLang:'fr_FR'}); });
+            });
+        
+// --></script><script type="text/javascript"><!--
+
+					document.write("<span class='st_sharethis' displayText='ShareThis'></span>");
+				
+// --></script></div></div></div><div data-ametys-zone="default" id="ametys-cms-zone-default"><div data-ametys-zone-level="1" id="ametys-cms-zone-default-item-N10094" class="first last"><div class="ametys-cms-content news view-main vevent wrapper"><h1 class="art-postheader"><span class="content-title summary">L&rsquo;UA se dote d&rsquo;une charte sur l&rsquo;intelligence artificielle</span></h1><p class="introduction">Le 29 septembre dernier, Isabelle Mathieu, vice-pr&eacute;sidente Formation et Vie universitaire, pr&eacute;sentait &agrave; la Commission de la formation et de la vie universitaire (<dfn title="Commission de la Formation et de la Vie universitaire">CFVU</dfn>) une charte d&rsquo;utilisation de l&rsquo;IA g&eacute;n&eacute;rative.</p><p style="text-align:justify;"><span class="image-wrapper simple floatright" style="display: inline-block; text-align: center"><a title="La charte d&eacute;finit les principes d&rsquo;un usage responsable et &eacute;quitable de l&rsquo;intelligence artificielle (IA) g&eacute;n&eacute;rative dans le cadre des pratiques p&eacute;dagogiques &agrave; l&rsquo;Universit&eacute; d&rsquo;Angers." rel="single" class="pirobox" href="/_richText-file/ametys-internal%253Asites/www/ametys-internal%253Acontents/l-ua-se-dote-d-une-charte-sur-l-intelligence-artificielle-actualite/_attribute/content/_data/paste.jpeg"><img src="/_richText-file/ametys-internal%253Asites/www/ametys-internal%253Acontents/l-ua-se-dote-d-une-charte-sur-l-intelligence-artificielle-actualite/_attribute/content/_data/paste_300x450.jpeg" alt="" title="La charte d&eacute;finit les principes d&rsquo;un usage responsable et &eacute;quitable de l&rsquo;intelligence artificielle (IA) g&eacute;n&eacute;rative dans le cadre des pratiques p&eacute;dagogiques &agrave; l&rsquo;Universit&eacute; d&rsquo;Angers." width="450" height="300" /></a><br style="clear: both" /><span class="legend" style="display: inline-block; width: 450px;">La charte d&eacute;finit les principes d&rsquo;un usage responsable et &eacute;quitable de l&rsquo;intelligence artificielle (IA) g&eacute;n&eacute;rative dans le cadre des pratiques p&eacute;dagogiques &agrave; l&rsquo;Universit&eacute; d&rsquo;Angers.</span></span>&Agrave; l&rsquo;Universit&eacute; d&rsquo;Angers, l&rsquo;IA est d&eacute;j&agrave; pr&eacute;sente dans les <a href="https://formations.univ-angers.fr/fr/offre-de-formation/master-lmd-MLMD/sciences-technologies-sante-STS/master-informatique-KV26UY4Z/m2-parcours-intelligence-artificielle-ia-L1XD4JPY.html" class="simple">formations</a> et des journ&eacute;es d&rsquo;&eacute;tudes y sont consacr&eacute;es, &agrave; l&rsquo;image des travaux du <a href="https://labua.univ-angers.fr/tag/intelligence-artificielle/" class="simple">Lab&rsquo;UA</a> ou du <a href="https://www.univ-angers.fr/fr/formations/actualites/actualites-2025/reveler-le-potentiel-humain-avec-l-intelligence-artificielle.html" class="simple">Service commun d&rsquo;alternance et de formation professionnelle</a> (Scafop). Son utilisation dans l&rsquo;enseignement sup&eacute;rieur soul&egrave;ve cependant de nombreux d&eacute;bats depuis l&rsquo;arriv&eacute;e de ChatGPT fin 2022&nbsp;: la n&eacute;cessit&eacute; de respecter la transparence, le droit d&rsquo;auteur et le secret professionnel&nbsp;; l&#039;importance de faire preuve d&rsquo;esprit critique&nbsp;; le co&ucirc;t environnemental non n&eacute;gligeable de chaque requ&ecirc;te ; les limites des mod&egrave;les d&rsquo;IA&hellip;</p><p>Une quarantaine d&rsquo;enseignants, d&rsquo;enseignants-chercheurs et de personnel technique et administratif a particip&eacute; &agrave; la r&eacute;flexion et &agrave; l&#039;&eacute;laboration de cette charte. Elle d&eacute;finit les principes d&rsquo;un usage responsable et &eacute;quitable de l&rsquo;intelligence artificielle (IA) g&eacute;n&eacute;rative dans le cadre des pratiques p&eacute;dagogiques &agrave; l&rsquo;Universit&eacute; d&rsquo;Angers.</p><p style="text-align:justify;">&laquo; <em>L&rsquo;ambition de cette charte est de poser un premier cadre pour faciliter et clarifier le travail des enseignant∙es et des &eacute;tudiant∙es</em>, pr&eacute;cise Isabelle Mathieu. <em>En effet, les &eacute;tudiant∙es pourront, via un questionnaire, d&eacute;clarer pr&eacute;cis&eacute;ment leur utilisation de l&#039;IA&nbsp;g&eacute;n&eacute;rative dans le cadre de certains travaux qu&#039;ils ont &agrave; faire</em>. &raquo;</p><a name="N1007B"></a><h2 class="ametys-richtext-title-1" style="text-align:justify;">Des sanctions pr&eacute;vues</h2><p style="text-align:justify;">Si elle peut &ecirc;tre utilis&eacute;e comme un outil d&rsquo;assistance dans la pr&eacute;paration des travaux, rapports et m&eacute;moires, ne pas mentionner l&#039;IA est d&eacute;sormais consid&eacute;r&eacute; comme un manquement &agrave; l&rsquo;int&eacute;grit&eacute; scientifique.&nbsp;Cette charte met &eacute;galement en avant les responsabilit&eacute;s de l&rsquo;apprenant (avoir l&rsquo;accord de son enseignant ou tuteur pour utiliser l&rsquo;IA, mentionner son usage) et de l&rsquo;enseignant (sensibiliser aux bonnes pratiques, veiller &agrave; l&rsquo;int&eacute;grit&eacute; scientifique). En cas d&rsquo;utilisation frauduleuse, des sanctions sont pr&eacute;vues&nbsp;: un refus du devoir, du rapport et du m&eacute;moire, une convocation devant une commission disciplinaire&nbsp;voire l&rsquo;exclusion en cas de fraude av&eacute;r&eacute;e.</p><p style="text-align:justify;">&laquo;&nbsp;<em>L&rsquo;IA g&eacute;n&eacute;rative constitue un outil mais ne doit pas remplacer la r&eacute;flexion personnelle, la rigueur scientifique et le travail critique qui sont au c&oelig;ur de la formation universitaire</em>, conclut Isabelle Mathieu. <em>Cette charte a pour objectif d&rsquo;encourager une utilisation &eacute;thique et responsable de ces technologies, dans le respect des principes acad&eacute;miques et professionnels</em>. &raquo;</p><p>Par ailleurs, l&#039;Universit&eacute; d&#039;Angers a rejoint, le 24 septembre, une alliance in&eacute;dite avec l&rsquo;entreprise Mistral AI, aux c&ocirc;t&eacute;s d&#039;une trentaine d&#039;autres universit&eacute;s et le r&eacute;seau EdTech France. Cette alliance va permettre &agrave; terme de r&eacute;pondre aux besoins de souverainet&eacute;, et proposer des solutions concr&egrave;tes dans les domaines de la p&eacute;dagogie, de la recherche et de l&#039;administration.</p><div class="content-richtext-end"><!--empty--></div><div class="meta"></div></div></div></div></div><div class="col-lg-4 col-md-5 g-pr-0--lg g-pl-30--lg g-pt-55--md g-pt-25 g-z-index-2"><div class="menu-secondaire g-bg-bleu-ua g-shadow-block-gris-c-ua-md g-px-25 g-pt-40 g-pb-25 g-mr-25--xl"><h1><a href="/fr/universite.html">Universit&eacute;</a></h1><li><div class="list-group g-pl-30--xl g-pl-0--md g-pl-40"><a class="g-font-weight-bold--hover g-color-white text-uppercase g-pb-3" href="/fr/universite/qui-sommes-nous.html">Qui sommes-nous ?</a><a class="g-font-weight-bold--hover g-color-white text-uppercase g-pb-3" href="/fr/universite/fonctionnement.html">Fonctionnement</a><a class="g-font-weight-bold--hover g-color-white text-uppercase g-pb-3" href="/fr/universite/strategies-et-grands-projets.html">Strat&eacute;gies et grands projets</a><a class="g-font-weight-bold--hover g-color-white text-uppercase g-pb-3" href="/fr/universite/classements-internationaux.html">Classements internationaux</a><a class="g-font-weight-bold--hover g-color-white text-uppercase g-pb-3" href="/fr/universite/les-chantiers-de-l-ua.html">Les chantiers de l&#039;UA</a><a class="g-font-weight-bold--hover g-color-white text-uppercase g-pb-3" href="/fr/universite/travailler-a-l-ua.html">Travailler &agrave; l&#039;UA</a></div></li></div><div class="g-bg-gris-f-ua g-shadow-block-gris-c-ua-md g-pa-25 g-mr-25--xl"><div data-ametys-zone="zone-1" id="ametys-cms-zone-zone-1"><div data-ametys-zone-level="1" id="ametys-cms-zone-zone-1-item-N10201" class="first last"><h1 class="art-postheader"><span class="content-title summary">Charte IA</span></h1><p>La charte est consultable en <a href="/_attachment/nouveau-contenu-simple-2001/Charte_IA_g%C3%A9n%C3%A9rative_UA.pdf?download=true" title="Charte_IA_g&eacute;n&eacute;rative_UA(1) (2).pdf" class="download" target="_blank">t&eacute;l&eacute;chargement ici.&nbsp;</a></p></div></div></div><div class="g-py-80"><div class="g-bg-gris-f2-ua h-100 g-font-ua-poppins-semibold"><div data-ametys-zone="zone-2" id="ametys-cms-zone-zone-2"></div></div></div></div></div></div><div class="container-fluid g-bg-gris-c-ua g-mt-30 g-pb-40"><div data-ametys-zone="bottom" id="ametys-cms-zone-bottom"></div></div><div class="u-fleche-scroll text-right mt-5 g-hidden-md-down g-pr-50"><a href="#!" class="g-bg-black-opacity-0_6 rounded-circle p-3"><img alt="Scroll" src="/skins/UnivAngers-v2/resources/img/fleche-blanc.png" /></a></div></main><footer><div class="g-bg-black g-px-30 g-px-50--sm g-py-20"><div class="row justify-content-between g-mx-90--xl"><div class="col col-12 col-md-auto my-auto p-0 p-lg-0"><form action="/fr/formations.html" method="post" class="newsletter"><label class="row m-0 g-color-white pb-4 pb-lg-2" for="newsletter-subscribe">Inscrivez-vous &agrave; notre newsletter pour recevoir nos actualit&eacute;s et nos &eacute;v&eacute;nements &agrave; retenir :</label><div class="row m-0 w-100 w-75-md"><input name="email" id="newsletter-subscribe" type="text" class="flex-fill input-text input-ua w-min-auto mr-1 my-auto" /><script type="text/javascript"><!--
+
+	    			$j('#newsletter-subscribe').attr('placeholder', "votre email");
+	    		
+// --></script><input value="Ok" name="email" class="col col-auto btn u-btn-bleu-blanc-ua" type="submit" /></div></form></div><div class="col col-12 col-lg-auto my-auto p-0 p-lg-0 pt-4"><ul class="d-inline-flex m-0"><li class="list-inline-item"><a onclick="window.open(this.href); return false;" alt="null:Bluesky" href="https://bsky.app/profile/univangers.bsky.social" class="u-icon-v2 u-icon-size--sm g-bg-bleu-ua--hover g-color-white--hover g-border-bleu-ua"><span class="img-logo"></span></a></li><li class="list-inline-item"><a onclick="window.open(this.href); return false;" alt="Facebook" href="https://www.facebook.com/univangers" class="u-icon-v2 u-icon-size--sm g-bg-bleu-ua--hover g-color-white--hover g-border-bleu-ua"><i class="fa fa-facebook g-color-white"></i></a></li><li class="list-inline-item"><a onclick="window.open(this.href); return false;" alt="Instagram" href="https://www.instagram.com/UnivAngers/" class="u-icon-v2 u-icon-size--sm g-bg-bleu-ua--hover g-color-white--hover g-border-bleu-ua"><i class="fa fa-instagram g-color-white"></i></a></li><li class="list-inline-item"><a onclick="window.open(this.href); return false;" alt="Linkedin" href="https://www.linkedin.com/school/univangers" class="u-icon-v2 u-icon-size--sm g-bg-bleu-ua--hover g-color-white--hover g-border-bleu-ua "><i class="fa fa-linkedin g-color-white"></i></a></li><li class="list-inline-item"><a onclick="window.open(this.href); return false;" alt="Youtube" href="https://www.youtube.com/user/UniversiteDAngers" class="u-icon-v2 u-icon-size--sm g-bg-bleu-ua--hover g-color-white--hover g-border-bleu-ua"><i class="fa fa-youtube g-color-white"></i></a></li></ul></div></div></div><div class="g-bg-bleu-ua g-px-30 g-px-50--sm g-py-20"><div class="row justify-content-between g-mx-90--xl"><div class="col col-12 col-lg-auto my-auto px-0 py-0 p-lg-0"><ul class="list-unstyled text-uppercase text-white m-0"><li><ul class="list-inline-pipe-separator p-0 my-2 my-lg-3"><li><a href="/fr/lien-de-bas-de-page/glossaire.html">Glossaire</a></li><li><a href="/fr/lien-de-bas-de-page/plan-du-site.html">Plan du site</a></li><li><a href="/fr/lien-de-bas-de-page/recrutement.html">Recrutement</a></li><li><a href="/fr/lien-de-bas-de-page/credits.html">Cr&eacute;dits</a></li><li><a href="/fr/lien-de-bas-de-page/contacts.html">Contacts</a></li><li><a href="/fr/lien-de-bas-de-page/accessibilite.html">Accessibilit&eacute; : non conforme</a></li></ul><ul class="list-inline-pipe-separator p-0 my-2 my-lg-3"><li><a href="/fr/lien-de-bas-de-page/ua-talents.html">UA Talents</a></li><li><a href="/fr/lien-de-bas-de-page/boutique-en-ligne.html">Boutique en ligne</a></li><li><a href="/fr/lien-de-bas-de-page/fondation.html">Fondation</a></li><li><a href="/fr/lien-de-bas-de-page/phototheque-2.html">Phototh&egrave;que</a></li></ul><ul class="list-inline-pipe-separator p-0 my-2 my-lg-3"><li><a href="/fr/lien-de-bas-de-page/actes-et-infos-publiques.html">Actes administratifs et infos publiques</a></li><li><a href="/fr/lien-de-bas-de-page/donnees-personnelles.html">Donn&eacute;es personnelles</a></li><li><a href="/fr/lien-de-bas-de-page/vigipirate.html">Vigipirate</a></li></ul></li></ul></div><div class="col px-0 py-0 p-lg-0 pt-4 d-flex justify-content-end"><a title="page bienvenue en france" href="/fr/bienvenue-en-france" class="g-px-5  g-gray-scale"><img alt="" src="/skins/UnivAngers-v2/resources/img/bienvenue.png" class="img-fluid g-max-height-80" /></a><a title="page HRS4R" href="/fr/HRS4R" class="g-px-5  g-gray-scale"><img alt="" src="/skins/UnivAngers-v2/resources/img/HRS4R.png" class="img-fluid g-max-height-80" /></a><a href="https://eugreenalliance.eu/" title="lien sortant site eu-green" target="_blank" class="g-px-5 logo-eu-green"></a></div></div></div></footer><script type="text/javascript"><!--
+
+                        (function() { // anonymous function for scope purposes
+                            // Show the information banner to the top of the page
+                            function showBanner()
+                            {
+                                if (ametysCookieConsentListener.length > 0)
+                                {
+                                    
+    
+        var html = '<div class="cookiebanner-wrapper" id="cookie-banner">'
+        + '<div class="cookiebanner">'
+        + '<div class="cookiebanner-info">'
+        + "En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies à des fins de mesure d'audience (statistiques anonymes)."
+        + ' '
+        + '</div>'
+        + '<div class="cookiebanner-buttons">'
+        + '<a href="javascript:ametysAcceptCookieConsent()" class="cookiebanner-accept">'
+        + "Accepter"
+        + '</a>'
+        + ' '
+        + '<a href="javascript:ametysRefuseCookieConsent()" class="cookiebanner-refuse">'
+        + "Refuser"
+        + '</a>'
+            
+            
+        + '</div>'
+        + '</div>'
+        + '</div>';
+    
+                                    $j(document.body).prepend(html).addClass('cookiebanner-visible');
+                                }
+                            }
+                        
+                            // Get the Internet Explorer version, return -1 if not IE
+                            function getInternetExplorerVersion() {
+                                var rv = -1;
+                                if ($j.browser.msie)  
+                                {
+                                    rv = $j.browser.version;
+                                } 
+                                
+                                return rv;
+                            }
+                            
+                            // Check the navigator value DoNotTrack to know if the signal is activated and equal to 1
+                            function notToTrack() {
+                                if ( (navigator.doNotTrack && (navigator.doNotTrack=='yes' || navigator.doNotTrack=='1'))
+                                    || ( navigator.msDoNotTrack && navigator.msDoNotTrack == '1') ) {
+                                    var isIE = (getInternetExplorerVersion()!=-1)
+                                    if (!isIE){    
+                                         return true;
+                                    }
+                                    return false;
+                                }
+                            }
+                        
+                            // If the signal equals 0, consent is true
+                            function isToTrack() {
+                                if ( navigator.doNotTrack && (navigator.doNotTrack=='no' || navigator.doNotTrack==0 )) {
+                                    return true;
+                                }
+                            }
+                            
+                            
+                            var consentCookie =  $j.cookie('ametysHasConsent');
+                            if (consentCookie == null) 
+                            {
+                                // The user has no cookies, we show the banner. 
+                                if (notToTrack()) 
+                                { 
+                                    // Internet explorer DoNotTrack is not activated. Do not ask for consent and just opt him out
+                                    ametysCallCookieConsentListener(false);
+                                } 
+                                else if (isToTrack()) 
+                                { 
+                                    // Internet explorer DoNotTrack is activated. Do not ask for consent and just opt him in
+                                    ametysCallCookieConsentListener(true);
+                                } 
+                                else 
+                                {
+                                       
+                                          ametysCallCookieConsentListener(true);
+                                      
+                                
+                                    // Otherwise ask the user
+                                    $j(window).on("load", showBanner);
+                                }
+                            } 
+                            else 
+                            {
+                                ametysCallCookieConsentListener(consentCookie == 'true');
+                            }
+                        })();
+                   
+// --></script></body></html>

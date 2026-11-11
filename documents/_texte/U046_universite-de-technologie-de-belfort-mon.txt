@@ -1,0 +1,101 @@
+CHARTE DE L’USAGE
+DE L’INTELLIGENCE
+ARTIFICIELLE
+ 1. Comprendre la révolution de l’IA                                              que la création de contenu, la communication et la
+                                                                                  transmission du savoir ;
+Depuis près de trois décennies, l’Université de
+technologie de Belfort-Montbéliard (UTBM) s’est                                   A L’IA fondée sur des modèles. Elle repose sur des
+investie avec constance dans l’enseignement et                                    algorithmes minutieusement conçus pour accomplir des
+la recherche en intelligence artificielle (IA), faisant                           tâches spécifiques, souvent dans des contextes ou des
+de cette discipline un point saillant de son projet                               environnements rigoureusement délimités et contrôlés.
+scientifique et pédagogique.                                                      Ces intelligences artificielles, qui s’appuient sur des
+                                                                                  modèles mathématiques ou statistiques avancés, sont
+Cette antériorité confère à l’UTBM une position                                   utilisées dans des systèmes variés tels que l’aide à
+singulière, l’habilitant à adopter une posture à la fois                          la décision, les moteurs de recommandation ou les
+réflexive, prospective et prescriptive sur les usages et                          agents conversationnels. Ces systèmes, qui peuvent
+les enjeux de l’IA.                                                               analyser de grandes quantités de données et identifier
+                                                                                  des tendances ou des corrélations complexes, sont
+L’IA, définie comme l’ensemble des techniques                                     particulièrement efficaces dans des domaines où
+permettant de simuler des processus cognitifs humains                             des réponses précises et rapides sont nécessaires.
+à l’aide de systèmes informatiques, représente une                                Toutefois, bien que ces IA affichent une grande
+avancée technologique majeure du début XXIe siècle.                               efficacité dans la réalisation des tâches pour lesquelles
+L’IA peut être classée en deux grandes catégories,                                elles ont été spécifiquement programmées, elles
+selon son approche et ses méthodes :                                              demeurent fondamentalement limitées par la nature de
+                                                                                  leur programmation. Ces intelligences artificielles, bien
+A L’IA fondée sur les données (y compris l’intelligence                           que performantes, ne sont capables de fonctionner que
+artificielle générative). Elle s’appuie sur l’exploitation                        dans des cadres bien définis et ne possèdent aucune
+de vastes ensembles de données afin d’en extraire                                 forme de flexibilité pour s’adapter à des situations
+des structures sous-jacentes et de générer des                                    non prévues, ni de capacité à raisonner de manière
+résultats pertinents. Plus particulièrement, les systèmes                         autonome.
+d’intelligence artificielle générative recourent à des
+réseaux neuronaux sophistiqués pour élaborer des                                  Ces deux approches – basées sur des données ou sur
+créations originales (textes, images, vidéos, etc.) à                             des modèles – illustrent la diversité des systèmes d’IA et
+partir de données préexistantes. Ces intelligences                                leurs applications pratiques. Ce domaine, en constante
+artificielles assimilent d’énormes corpus de données                              évolution, voit émerger des systèmes d’intelligence
+et sont capables de concevoir de nouveaux éléments                                artificielle hybrides, combinant les forces des approches
+en fonction des motifs repérés, sans pour autant                                  fondées sur les données et celles fondées sur des
+saisir le sens ou le contexte des informations qu’elles                           modèles. Dans ce contexte de transformation rapide,
+produisent. L’émergence de ces technologies a induit                              il est essentiel pour un établissement d’enseignement
+une transformation radicale dans des domaines tels                                supérieur et de recherche de se doter d’un cadre
+
+Charte de l’usage de l’intelligence artificielle générative à l’UTBM - Septembre 2025 - 1/8
+général d’usage de l’IA, qui transcende les choix                                 Mais l’UTBM assume également une vision lucide,
+technologiques spécifiques et s’inscrit dans une vision                           critique et informée des limites, dérives et impacts de
+éthique, ouverte et indépendante de tout parti pris                               ces technologies, particulièrement :
+méthodologique.
+                                                                                  A L’empreinte environnementale de l’IA, en particulier
+Selon le Règlement européen sur l’IA (EU AI Act), les                             générative, liée à la consommation énergétique massive
+systèmes d’IA doivent être classifiés en fonction de                              des centres de données et à la fabrication de matériels
+leur risque potentiel et un cadre éthique strict doit être                        spécialisés ;
+appliqué pour garantir la sécurité, la transparence et
+la responsabilité dans leur déploiement. En somme,                                A Les biais algorithmiques, dérivant des données
+l’évolution de l’IA, qu’elle soit centrée sur les données                         de formation et des logiques de conception, qui
+ou sur les modèles, exige une vigilance constante afin                            peuvent reproduire ou amplifier des discriminations
+de maximiser ses bénéfices tout en limitant ses risques.                          systémiques ;
+
+La présente charte constitue un référentiel institutionnel                        A Les enjeux éthiques, relatifs à la transparence, à
+appelé à structurer les pratiques, les politiques et                              la responsabilité, à l’autonomie des individus et à la
+les orientations relatives à l’IA, que ce soit dans le                            souveraineté cognitive, notamment face au risque
+domaine de la formation, dans le cadre des activités                              d’appauvrissement des capacités de raisonnement,
+de recherche, de médiation ou encore dans les usages                              de jugement ou de créativité induit par une délégation
+internes à l’institution.                                                         excessive ou mal maîtrisée à l’IA des tâches cognitives
+                                                                                  ou de recherche ;
+Elle pose les fondements d’une approche systémique,
+responsable et critique, fondée sur les valeurs de                                A Les tensions sociales, à travers la transformation
+l’intégrité scientifique, de la liberté académique et du                          des métiers, la requalification des compétences ou la
+développement technologique au service du bien                                    déshumanisation possible de certaines interactions.
+commun.
+                                                                                  À travers cette approche, l’UTBM entend poser les
+                                                                                  fondements d’une gouvernance technologique éclairée,
+                                                                                  rationnelle et délibérative.
+ 2. Adopter une posture critique, éclairée et
+ responsable
+                                                                                    3. Agir avec éthique dans nos pratiques
+L’UTBM revendique une posture fondée sur la
+lucidité : elle refuse autant l’enthousiasme naïf que la                          Le déploiement de l’IA au sein de l’UTBM doit se
+condamnation systématique de l’IA.                                                conformer à des exigences éthiques rigoureuses,
+                                                                                  ancrées dans les valeurs humanistes et scientifiques de
+L’UTBM reconnaît ainsi pleinement les formidables                                 l’établissement. Cette démarche éthique repose sur les
+potentialités qu’offre l’IA dans une diversité croissante                         principes suivants :
+de champs d’application. Elle souligne les avancées
+majeures permises par ces technologies en matière                                 A Principe de transparence. Toute utilisation d’un
+de développement technologique, d’accélération de                                 outil ou d’un système d’IA doit faire l’objet d’une
+l’accès à la connaissance, d’optimisation des processus                           explicitation claire de ses finalités, de ses modalités de
+industriels et logistiques, d’amélioration des systèmes                           fonctionnement, de ses limites et de ses effets attendus ;
+de santé ou encore de stimulation de la recherche
+scientifique. L’IA contribue ainsi à ouvrir des perspectives                      A Principe de responsabilité. L’automatisation d’une
+inédites pour la compréhension du vivant, la modélisation                         action ou d’une décision ne saurait exonérer ses
+des dynamiques climatiques, la gestion intelligente des                           promoteurs de leur responsabilité morale, scientifique
+mobilités, la personnalisation des apprentissages ou la                           ou juridique ;
+démocratisation de l’information. Dans certains domaines,
+elle devient même un levier décisif d’innovation et de                            A Principe de non-discrimination. Les usages de l’IA
+performance, susceptible de transformer durablement les                           doivent être conçus et évalués de manière à éviter la
+pratiques professionnelles ou de renforcer les capacités                          reproduction d’inégalités ou d’exclusions implicites ;
+d’anticipation des crises. L’UTBM salue ces progrès
+tangibles, dans la mesure où ils peuvent servir l’intérêt                         A Principe de souveraineté intellectuelle. Les outils
+général, favoriser l’inclusion et soutenir les transitions –                      d’IA ne sauraient se substituer à l’analyse critique, à
+écologique, énergétique, numérique – auxquelles nos                               la réflexion autonome, ni au jugement scientifique.
+sociétés sont aujourd’hui confrontées.                                            Ils en constituent un prolongement, non un substitut.
+
+Charte de l’usage de l’intelligence artificielle générative à l’UTBM - Septembre 2025 - 2/8
+

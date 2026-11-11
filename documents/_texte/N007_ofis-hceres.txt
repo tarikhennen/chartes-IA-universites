@@ -1,0 +1,78 @@
+                                      N° 10, février 2024
+
+
+
+                                          À la Une
+
+Intelligence artificielle : une nouvelle règlementation
+en faveur de la transparence
+
+L’IA générative change nos façons de faire
+de la recherche. Les enjeux d’intégrité
+scientifique liés à ces évolutions conduisent
+les institutions à revoir leur code de bonnes
+pratiques partout dans le monde et la
+transparence est le maître mot.
+Alexei Grinbaum, spécialiste d’éthique
+numérique, éclaire ces enjeux pour l’Ofis. Il
+explique pourquoi l’obligation règlementaire
+de marquer les contenus générés par IA est
+une avancée pour l'intégrité scientifique.
+
+
+
+
+                             Lire l'entretien avec Alexei Grinbaum
+
+
+Pour accompagner les utilisateurs et utilisatrices d’IA générative dans leurs pratiques de
+recherche, l’Ofis appelle leur vigilance sur certains points cruciaux.
+
+
+
+                                      Lire l'Ofis fait le point
+                                     Vu d'Ailleurs
+
+La Chine publie de nouvelles lignes directrices pour
+une recherche responsable
+En décembre 2023, le ministère chinois des sciences et de la technologie a publié ses nouvelles
+« lignes directrices pour un code de conduite responsable de la recherche ». Rappelons que la
+Chine possède un taux préoccupant de rétractations dans les publications internationales. Un
+document introductif indique que ces lignes directrices reposent sur un large consensus des
+milieux scientifiques. Destinées à tous les acteurs de la recherche chinoise, elles couvrent de
+manière détaillée 11 aspects du processus de recherche (sélection des sujets de recherche,
+gestion des données, publications des résultats, examen par les pairs etc.).
+
+
+
+Concernant l’utilisation d’IA générative, les
+directives sont assez comparables aux
+recommandations qui foisonnent ailleurs
+dans le monde. À savoir que tout contenu
+ou résultat utilisant de l’IA générative doit
+être clairement identifié comme tel, que les
+méthodes utilisées doivent être explicitées
+et que cette utilisation doit être appropriée
+et conforme à la règlementation. Quelques
+usages sont bannis comme « l'utilisation             En l’absence de version anglaise sur le site du
+                                                     ministère chinois, celle que l’Ofis vous donne à lire
+directe » d'IA générative dans les demandes
+                                                     a été réalisée en utilisant le modèle de traduction
+de financement et d'approbation de travaux           multilingue mbart-large-50-many-to-many-mmt
+de recherche.                                        (611M paramètres), en accès libre sur
+                                                     HuggingFace.
+
+
+
+
+Pérou : deux projets de loi pour lutter contre les
+fraudes
+Face à une augmentation des fraudes dans les publications scientifiques, deux nouvelles lois sont
+en passe d’être votées au Pérou. Se développe notamment dans le pays une pratique qui consiste
+à payer pour avoir son nom dans la liste des auteurs d’un article sans l’avoir écrit. Pour certains
+observateurs, cette dérive est nourrie par un système de points qui lie l’octroi de financements au
+nombre de publications. Ces lois donneraient plus de pouvoir aux universités publiques et au
+conseil national de la science, de la technologie et de l’innovation technologique (qui coordonne et
+finance la recherche) pour lutter contre ces dérives et les sanctionner. A l’issue du vote, ce sera le
+cadre légal le plus sévère d’Amérique latine envers les fraudeurs.
+

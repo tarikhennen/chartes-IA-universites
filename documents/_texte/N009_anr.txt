@@ -1,0 +1,117 @@
+                                                                                              10 juin 2026
+
+
+
+     Charte ANR « Pour un usage responsable de l’IA » à l’intention
+    des personnes déposant un projet ou participant à un processus
+  d’évaluation en tant que membres de comité ou pour une expertise
+                         externe aux comités
+Préambule
+Les plateformes et outils d’intelligence artificielle générative, désignés « IAG », connaissent un
+développement rapide et sont désormais largement accessibles, sans nécessiter d’expertise technique
+particulière. Leur diffusion transforme progressivement les pratiques professionnelles, notamment
+pour des usages administratifs courants, mais aussi pour des tâches plus complexes comme la synthèse
+de documents, l’extraction d’informations, l’élaboration d’états de l’art ou la production de contenus.
+
+Ces outils modifient en profondeur les méthodes de travail et les pratiques de recherche. Leur utilisation
+ouvre des perspectives nouvelles, mais soulève également des enjeux éthiques, juridiques et
+scientifiques majeurs. Elle comporte en particulier des risques liés à la production de contenus inexacts
+ou inventés, à la reproduction ou à l’amplification de biais, au plagiat, ainsi qu’à la divulgation
+involontaire de données sensibles ou confidentielles.
+
+Ces questions revêtent une importance particulière dans le cadre de la                 On distingue :
+préparation et de l’évaluation des projets de recherche et la présente charte          • les IAG « publiques » (Copilot,
+vise à :                                                                               ChatGPT, Gemini, Perplexity,
+    • fournir un cadre clair et partagé pour accompagner les personnes                 Claude, Le Chat etc.) de plus en
+                                                                                       plus performantes mais qui
+         déposant un projet ainsi que celles participant à un processus                n’offrent pas de garantie en matière
+         d’évaluation, que ce soit au sein d’un comité ou dans le cadre d’une          de protection des données, de
+         expertise externe ;                                                           sources utilisées et de
+    • promouvoir des usages responsables et transparents, en veillant au               transparence des algorithmes ;
+         respect des données, à la qualité des productions, à la compréhension
+                                                                                       • les IAG « de confiance » et
+         des apports réels de l’IA et, à la pertinence de son usage face à son         souveraines qui sont de plus en
+         impact environnemental.                                                       plus mises à disposition dans le
+                                                                                       secteur public, en France (Emmy
+                                                                                       au CNRS par exemple, l’assistant
+Recommandations générales                                                              IA de la DINUM)
+
+                                                                                       Une IAG « de confiance » se définit
+L’utilisation d’une IAG repose sur des principes essentiels : responsabilité,
+                                                                                       par sa licéité, sa robustesse et son
+transparence, sécurité des données, esprit critique, sobriété. En accord avec ces      éthique. Cela se traduit par sa
+principes, utiliser une IA générative, qu’elle soit « publique » ou « de confiance »   conformité aux normes
+requiert :                                                                             européennes (RGPD, IA Act) et
+                                                                                       vise à garantir la sécurité, la
+    •   de ne pas utiliser sciemment une IAG « publique » ou « de confiance »          transparence et la maîtrise des
+                                                                                       données : non transfert des
+        pour reproduire ou distribuer du contenu protégé par des droits                données hors Europe, non
+        d’auteur ;                                                                     réutilisation des données, modèles
+    •   d’exercer son esprit critique, de vérifier les informations générées par       de langage « neutres » et intégrant
+        toute IAG, qu’elle soit « publique » ou « de confiance » avant de les          des principes éthiques que sont le
+                                                                                       respect de l’autonomie humaine, la
+        utiliser ou de les partager, en évitant ainsi de créer ou de propager des      prévention de toute atteinte, l’équité
+        informations trompeuses ou nuisibles ;                                         et l’explicabilité.
+    •   d’adopter une démarche sobre et raisonnée dans l’usage d’une IA
+        générative.
+
+                                                                                                            1
+                                                                                                    10 juin 2026
+
+
+Consignes spécifiques aux personnes déposant un projet
+    •    Les déposantes et déposants sont responsables du contenu de leur proposition scientifique, et
+         doivent avoir conscience des limitations de l’IAG telles que les risques de biais dans les
+         modèles utilisés, de plagiat ou de contenus erronés.
+
+     L’IAG ne saurait avoir le statut d’auteur ou de co-auteur. Les déposantes et déposants doivent
+    vérifier l'exactitude, et l'intégrité du contenu de leur proposition, quel que soit son mode de
+    production.
+
+•   Dans le cadre du dépôt de leur dossier, les déposantes et déposants doivent faire preuve de
+    transparence et préciser si une IAG a été utilisée, en distinguant les cas suivants :
+        o Aide à la rédaction (dont la traduction, la reformulation, etc.)
+        o Constitution ou analyse de l’état de l’art
+        o Idéation
+
+    Cette information ne sera pas communiquée pour l’évaluation des projets, mais pourra être
+    utilisée par l’ANR à des fins d’analyse et de suivi des pratiques.
+
+
+
+Consignes spécifiques aux personnes participant à un processus d’évaluation
+comme membres de comité ou pour une expertise externe aux comités
+Dans le cadre d’une mission d’évaluation ou d’expertise, l’utilisation de l’IA repose sur deux principes :
+
+             1. Le respect des données personnelles et la confidentialité
+
+Dans le cadre des missions qui leur sont confiées par l’ANR, et afin que la sécurité et la confidentialité
+des données soient respectées, les personnes participant à un processus d’évaluation comme membres
+de comité ou pour une expertise externe aux comités s’engagent à ne pas téléverser de données
+confidentielles dans des outils d’IAG « publiques » (propositions scientifiques, rapports d’évaluation,
+données personnelles, données non publiques etc.).
+
+De plus, le Règlement Général sur la Protection des Données1 (RGPD) s’applique aux données
+personnelles contenues dans les résultats des IAG, quand bien même ces données ont été
+publiquement accessibles sur Internet. Il prévoit notamment que ces données doivent être traitées de
+manière licite, loyale et transparente. Il s’agit de respecter le principe plus large d’un usage de l’IA
+respectueux de la dignité humaine, de la liberté des individus, de la démocratie, de la justice et de l’état
+de droit, de l’égalité et des droits des citoyennes et citoyens.
+
+                  2. La non-délégation de la mission d’évaluation
+
+L’évaluation doit résulter d’une analyse personnelle à partir de la proposition scientifique et des
+documents déposés. Une IAG ne doit pas être utilisée pour :
+
+    •    synthétiser la proposition scientifique, sans en avoir eu une lecture exhaustive ;
+    •    évaluer tout ou partie de la proposition scientifique.
+
+En revanche, une IAG « de confiance » et « souveraine » telle que l’Assistant IA de la direction
+interministérielle du numérique (DINUM) en France, peut être utilisée pour des tâches telles que la
+
+1 https://eur-lex.europa.eu/FR/legal-content/summary/general-data-protection-regulation-gdpr.html
+
+
+
+                                                                                                              2
+

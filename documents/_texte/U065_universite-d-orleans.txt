@@ -1,0 +1,76 @@
+Charte sur l’utilisation de
+l’Intelligence Artificielle
+Au sein de
+l’Université d’Orleans
+
+Approuvée par le Conseil d’Administration
+le 18 octobre 2024
+
+
+
+
+___________________
+___________________
+
+Université d’Orléans
+Château de la Source | Avenue du Parc Floral |BP 6749 | 45067 Orléans cedex 1
+www.univ-orleans.fr
+Charte sur l’utilisation de l’Intelligence Artificielle                                                                  1
+
+I - Préambule
+Les outils d’intelligence artificielle (IA) générative1 mis à disposition du grand public depuis 2023, dans un
+mouvement initié par OpenAI avec ChatGPT et depuis repris par de nombreux acteurs, sont de fait entrés
+dans les usages de nombre d’étudiants et personnels, dans le cadre privé mais aussi dans le cadre
+universitaire.
+
+L’université d’Orléans prend acte de l’existence et de la diffusion de ces outils et souhaite, par le biais de
+cette charte, exprimer son positionnement sur l’Intelligence Artificielle en général et les IAs génératives en
+particulier, ainsi que les consignes à destination de tous ses membres : étudiants, enseignants-chercheurs,
+enseignants, chercheurs, personnels administratifs et techniques.
+
+La présente charte expose le positionnement de l’université d’Orléans (section II) et présente un ensemble
+de consignes générales (section III) puis de consignes spécifiques à l’usage dans le cadre pédagogique
+(section IV), dans le cadre des activités de recherche (section V) et dans le cadre des activités
+administratives et techniques (section VI).
+
+
+II - Positionnement de l’université
+Les IA génératives sont des outils offrant des performances remarquables dans divers usages. Elles doivent
+à ce titre être vues comme permettant d’assister efficacement les membres de l’université dans leurs
+activités et d’obtenir potentiellement des gains de temps et d’efficacité. Elles offrent également un
+potentiel de développement de l'innovation. Ce constat peut d’ailleurs être élargi au-delà des seules IA
+génératives. D’autres Systèmes d’Intelligence Artificielle sont d’ores et déjà utilisés dans le monde
+universitaire, notamment dans les activités de recherche. Tout laisse à penser que leur usage ira croissant
+et à un rythme soutenu.
+
+Toutefois, les capacités de ces outils pourraient être surinterprétées et déboucher sur des usages, non pas
+d’assistance mais de substitution aux démarches intellectuelles attendues des agents et des étudiants
+dans le cadre de leurs missions ou de leurs études.
+
+Si l’assistance est souhaitable, la substitution ne peut être envisagée ni admise. Il ne s’agit pas là d’une
+prise de position morale mais bien d’un positionnement pratique et pragmatique dicté par les principes de
+l’intégrité scientifique. En effet, bien que leurs performances augmentent régulièrement, ces outils restent
+sujets à des erreurs ou sources de plagiat et doivent être l’objet d’une vigilance constante et soutenue.
+
+Par ailleurs, nombre d’informations, de données, ne sauraient être transmises à ces outils d’IAs hébergés
+hors de l’université et pour lesquelles la confidentialité ne peut être systématiquement garantie. Enfin,
+sauf indication contraire, les travaux réalisés par les étudiants en vue de l’évaluation des connaissances
+et compétences acquises ne sauraient être produits par de tels outils, ce qui constituerait un cas de triche
+avéré et passible de sanctions.
+
+
+
+
+1
+ Un outil d’intelligence artificielle générative est un dispositif reposant sur des techniques d’IA et ayant la capacité de
+générer des contenus d’un ou plusieurs types tels que du texte, des images, des vidéos, du code informatique, de la
+musique, etc., en général à partir d’une description textuelle fournie par l’utilisateur. Des éléments complémentaires
+sont présentés en annexes.
+
+
+___________________
+
+Université d’Orléans
+Château de la Source | Avenue du Parc Floral |BP 6749 | 45067 Orléans cedex 1
+www.univ-orleans.fr
+

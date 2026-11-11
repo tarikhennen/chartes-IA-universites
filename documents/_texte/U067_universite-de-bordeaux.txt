@@ -1,0 +1,88 @@
+Les bonnes pratiques pour
+l’utilisation des IAg
+L’utilisation des systèmes d’IA générative se démocratisant, il est important de connaître les
+forces, faiblesses et les enjeux autours de ces outils pour en faire une utilisation réfléchie.
+
+
+
+Vérifier les informations
+Les systèmes d’IA génératives (IAg) de type chatbots comme Le Chat de Mistral et ChatGPT
+par exemple, sont entraînés sur une très grande quantité de données. La provenance de ces
+données étant quasi impossible à identifier, il faut être vigilant concernant les informations
+fournies par ces outils d’IAg. Nous vous conseillons donc de systématiquement vérifier les
+informations obtenues et de les croiser à l’aide de sources fiables. Comme mentionné
+dans la fiche Fonctionnement de ChatGPT, les IAg peuvent « halluciner » des réponses et
+des sources mais aussi parfois reproduire du contenu protégé sans attribution.
+
+
+
+Faire attention aux biais
+Les IAg peuvent reproduire des biais présents dans leurs données d’entrainement. Par
+exemple, ChatGPT a été entraîné en majorité par des données occidentales et anglophones,
+ce qui a un impact sur les réponses générées. Lorsqu’on interroge un LLM sur un sujet
+politique controversé, sa réponse peut refléter des biais culturels ou idéologiques liés aux
+données d’entraînement, ajustements spécifiques (fine-tuning) et paramétrages appliqués.
+De la même façon, les données d’entrainement peuvent également inclure des biais liés au
+genre, et ainsi perpétuer des stéréotypes dans les réponses du modèle.
+
+
+
+Faire preuve de transparence
+Pour des questions d’intégrité, il est recommandé de mentionner l'utilisation que vous avez
+faite de l'outil d'IAg dans votre travail, quelles parties du travail ont été assistées ou générées
+par IAg, quelles ont été les propositions retenues, dans le corps du texte, dans une note de
+bas de page ou dans une section distincte consacrée aux méthodes ou aux outils utilisés. Si
+vous souhaitez intégrer un texte généré par l'IA dans une production, vous pouvez adapter
+cette citation en format APA :
+Mistral AI. (2025). Le Chat [grand modèle de langage]. https://chat.mistral.ai/chat (ou lien
+partagé de la conversation).
+Pour aller plus loin : modèles de citations de l’université de Sherbrooke.
+
+
+
+Protéger les ressources
+Le ministère de l’Education Nationale préconise de « renoncer aux IA grand public quand
+des données personnelles, confidentielles ou protégées par le droit d’auteur sont en jeu. ».
+Cette précaution s’impose notamment lors du téléversement de documents dans ces outils.
+Dans ce cas, il est fortement conseillé de désactiver, si elle existe, l’option de contribution
+ou d’amélioration des modèles, pour empêcher que les données soient utilisées par l'IA
+pour son entraînement futur. Pour les agents publics des solutions d’IA souveraines et
+sécurisées existent et doivent être privilégiées. Les utilisateurs qui ont des besoins stricts en
+matière de confidentialité ou qui traitent des données sensibles (ex : informations
+personnelles), peuvent opter pour des solutions qui permettent de télécharger et d'exécuter
+des modèles de langage (LLM) directement en local sur leur ordinateur. Ainsi les données
+ne transitent par aucun serveur externe.
+Enfin, l’utilisation des systèmes d’IAg doit s’inscrire dans une démarche raisonnée,
+lorsqu’une plus-value est avérée et en tenant compte de leurs empreintes
+environnementales.
+
+
+Il est important de garder un certain recul et de ne pas dépendre de ces outils, ni les subir.
+Pour en savoir plus sur les bonnes pratiques recommandées, vous pouvez consulter la fiche
+IA et propriété intellectuelle, le guide d'usage de l'IA pour les agents publics de l'Etat, ou
+encore le cadre d’usage de l’IA en éducation du Ministère de l’Education nationale. Si vous
+vous interrogez sur une utilisation de l’IAg par les étudiants, vous pouvez consulter la fiche
+Stratégies adaptée à l’ère de l’IA.
+
+
+
+Sources :
+
+   •   Cabana, M. et Beaudet, M. (2024). Modèles de citations : utilisation de l’IAg dans une
+       production. Service de soutien à la formation, Université de Sherbrooke.
+       https://zenodo.org/records/14510665
+   •   Ministère de l’Éducation nationale. (2025, juin). Cadre d’usage de l’IA en éducation.
+       https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647
+   •   Proactive Academy. (2023, septembre). IA à l’école : Guide ChatGPT pour les
+       enseignants. https://www.proactiveacademy.fr/blog/ia/ia-a-lecole-guide-chatgpt-pour-
+       les-enseignants/
+   •   Forbes. (2023, mai). Les outils basés sur l’IA comprennent-ils les biais liés à la
+       diversité ? https://www.forbes.fr/technologie/les-outils-bases-sur-l-ia-comprennent-ils-
+       les-biais-lies-a-la-diversite/
+   •   Zeghni, S. (2022, décembre). Quand l'IA reproduit nos biais culturels. LinkedIn.
+       https://fr.linkedin.com/pulse/quand-lia-reproduit-nos-biais-culturels-sylvain-
+       zeghni?trk=pulsearticle_more-articles_related-content-card
+
+
+                                       Dernière MAJ juin 2026
+

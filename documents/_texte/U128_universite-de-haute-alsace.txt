@@ -1,0 +1,72 @@
+                            IA : Aide pour
+                       la recherche documentaire
+
+       Comment utiliser l’IA pour effectuer une recherche documentaire ?
+Une grande variété d'outils d'intelligence artificielle est désormais disponible, allant des générateurs de texte, d'images et de vidéos à l'analyse de documents.
+L'objectif de cette fiche est d'examiner comment ces outils peuvent faciliter la recherche documentaire.
+
+
+
+Générateurs de textes
+                                                                                ﻿
+                                                                                    ﻿
+
+
+
+
+Fonctionnalités :
+                                                                                    Fonctionnalités :
+     rechercher des informations grâce à un prompt
+                                                                                         rechercher des informations grâce à un prompt et à partir de ses propres
+     résumer, synthétiser
+                                                                                         fichiers
+     reformuler
+                                                                                         spécifier le domaine de recherche (domaine académique par exemple) en
+     fournir des angles intéressants, des idées de sujets
+                                                                                         cliquant sur le bouton “Focalisation” (ou “Focus”)
+     fournir des mots-clés, champ lexical et listes pour un domaine
+                                                                                         résumer, synthétiser
+     fournir un plan
+                                                                                         créer des collections pour y enregistrer les échanges et les partager avec
+     rédiger une requête booléenne détaillée
+                                                                                         d’autres utilisateurs
+     extraire des informations à partir d’un document
+                                                                                         fournit ses sources (numérotées dans les résultats) et fournit les liens vers
+En pratique :                                                                            celles-ci
+                                                                                         Gratuite
+Prompts pour la recherche :
+                                                                                    En pratique :
+                                                                                ﻿
+                                                                                    Cette IA va te changer la vie (et c'est gratuit) | Perplexity Tuto
+                                                                                    ﻿
+
+
+
+
+                                                                                    J'utilise plus Perplexity AI que ChatGPT (et Google) — Voici pourquoi de Ludo
+                                                                                    Salenne
+                                                                                    ﻿
+                                                                                ﻿
+
+
+
+
+Fonctionnalités :                                                                   Fonctionnalités :
+
+     fournit des informations plus détaillées et efficaces car spécifiquement            fournit des informations récentes contrairement à d’autres IA
+     conçu pour la recherche alors que Chat GPT est plus généraliste                     fonctionnalités de recherche avancées qui permettent de filtrer et de trier les
+     fournit des réponses personnalisées et adaptées aux préférences et aux              résultats en fonction de critères spécifiques
+     besoins de l’utilisateur                                                            résultats de recherche plus pertinents et précis que ceux fournis par Chat GPT,
+     effectue des recherches sur le web en utilisant les mots-clés ou des                car basé sur la recherche sémantique
+     questions qu’on lui donne et présente les résultats les plus pertinents
+                                                                                    En pratique :
+En pratique :
+                                                                                    Utiliser Gemini comme un PRO en 2024 ! (Tutoriel complet) de Julien IA
+Le ChatGPT Français par Mistral AI ! (Le Chat & Mistral Large) de Julien IA
+                                                                                ﻿
+
+
+
+
+Comparateurs des données
+

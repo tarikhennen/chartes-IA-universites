@@ -1,0 +1,94 @@
+        Charte des bons usages de l’intelligence artificielle
+                           Master Urbanisme et Aménagement –
+                            Parcours Intelligence Territoriale
+Charte validée par le Conseil du Département de géographie, Université de Lorraine, site de Metz, le 12/03/2026
+
+
+Préambule
+L’IA est un outil puissant, mais son usage doit rester au service de l’apprentissage et de la
+production intellectuelle. Son usage peut augmenter les compétences des étudiants et des
+enseignants, sans s’y substituer. En étant transparent, vous valorisez votre travail et montrez votre
+maîtrise des outils modernes, tout en respectant les valeurs académiques.
+
+
+1. Objectifs de la charte
+Cette charte vise à encadrer l’utilisation des outils d’intelligence artificielle (IA) dans le cadre des
+travaux universitaires, en particulier pour :
+    • Les travaux à distance, les travaux en salle informatique et les travaux avec accès à une
+        interface connectée (ordinateur, tablette, smartphone, montre, oreillette, etc.).
+    • Les rapports de stage et d’alternance, les mémoires de recherche, les dossiers en groupe,
+        notamment ceux visant à produire de nouvelles données.
+
+Elle a pour but de :
+    • Garantir la transparence sur l’usage de ces outils
+    • Encourager l’apprentissage et la réflexion critique des étudiants
+    • Promouvoir une utilisation responsable et éthique de l’IA – c.à.d de manière équitable,
+        sécurisée et respectueuse des droits humains, en protégeant les données personnelles et en
+        veillant à ce qu’elle serve l’intérêt général, sans nuire à la société ou à l’environnement.
+
+Réciproquement, l’équipe pédagogique s’engage à afficher et montrer l’usage des outils d’IA dans les
+contenus pédagogiques.
+
+
+2. Utilisation autorisée et recommandée
+
+L’IA peut être utilisée comme outil d’aide pour :
+   • La recherche d’informations et la synthèse bibliographique
+   • La relecture et l’amélioration de la rédaction (grammaire, style, clarté), tout en conservant le
+       style de l’auteur
+   • La génération d’idées ou de plans de travail
+   • L’analyse de données (si l’outil est adapté et la méthodologie maîtrisée)
+
+Exemples d’outils recommandés : Chatbots souverains (comme Le Chat), outils de relecture (comme
+Grammarly pour une relecture en anglais), outils de programmation (comme Claude).
+3. Obligations des étudiants
+
+a. Transparence absolue
+
+Tout usage d’IA dans un travail doit être clairement indiqué dans le document rendu, selon les
+modalités suivantes :
+
+    •   Dans le corps du texte : Mentionner explicitement les passages ou éléments générés ou
+        modifiés par l’IA.
+           o S’il s’agit d’une utilisation ponctuelle, écrivez par exemple : « Ce paragraphe a été
+                reformulé à l’aide d’un outil d’IA, cf. prompt n°1 en annexe »
+           o S’il s’agit d’une utilisation générale sur tout le document, écrivez par exemple :
+                « L’ensemble du dossier a été vérifié avec un correcteur orthographique d’IA, cf.
+                prompt n°2 en annexe » .
+    •   En annexe : Fournir une déclaration d’usage de l’IA (voir modèle ci-dessous).
+
+b. Responsabilité académique
+
+    •   L’étudiant reste entièrement responsable du contenu de son travail, y compris des éléments
+        générés par l’IA.
+    •   L’IA ne doit pas remplacer la réflexion personnelle, l’analyse critique ou la production
+        originale.
+    •   Les sources doivent être vérifiées et citées selon les normes académiques en vigueur.
+
+c. Respect des règles éthiques
+
+    •   Ne pas utiliser l’IA pour plagier, falsifier des données ou contourner les règles d’évaluation.
+    •   Respecter les droits d’auteur et la propriété intellectuelle.
+    •   Privilégier l’usage d’une IA souveraine, du type LeChat de Mistral.
+    •   Utiliser dans la mesure du possible une IA frugale (par exemple un SLM).
+    •   Veiller à la confidentialité des données : ne pas envoyer à un chatbot des textes, images ou
+        vidéos comportant des informations personnelles et/ou sensibles.
+
+
+4. Sanctions en cas de non-respect
+Tout manquement à cette charte (non-déclaration, plagiat, falsification) sera évalué par les
+responsables d’unités d’enseignement et par les jurys de soutenance, en fin de 1ère année et en fin de
+2ème année de master. Les manquements éventuels seront portés à la connaissance du jury d’année, qui
+en évaluera la gravité.
+
+Le jury d’année décide de l’opportunité de saisir la section disciplinaire de l’Université de Lorraine.
+
+
+
+
+Contacts
+
+Pour toute question, contactez le responsable de la mention de Master Urbanisme et
+Aménagement parcours Intelligence Territoriale, ou les co-responsables de 1ère année et de
+2ème année.
+

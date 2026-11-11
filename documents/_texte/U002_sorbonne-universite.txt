@@ -1,0 +1,20 @@
+Recommandations d’utilisation de
+l’intelligence artificielle générative
+dans le cadre de la recherche
+Au vu des récents développements des technologies en intelligence artificielle, notamment sur les aspects
+génératifs, la Commission de déontologie et d’Intégrité Scientifique de la Faculté de Santé de Sorbonne
+Université émet des recommandations pour un usage raisonné des outils d’intelligence artificielle générative.
+Cet avis s’appuie sur des sources citées en fin de document, sur la base des principes proposés par l’Office
+Français de l’intégrité scientifique (OFIS), le règlement intérieur du laboratoire d’informatique de Sorbonne
+Université LIP6, ainsi que la charte sur l’utilisation de l’Intelligence Artificielle de l’Université d’Orléans et des
+directives de l’Université Catholique de Leuven, auxquels certains passages sont directement empruntés.
+
+Ce document a été rédigé par les membres de la Commission de déontologie et d’Intégrité Scientifique de la
+Faculté de Santé de Sorbonne Université. Il a été discuté, amendé et validé par l’ensemble des membres de
+cette commission.
+
+
+
+
+                 2
+
